@@ -1,0 +1,193 @@
+{
+    "index_name": "ecd49b12-3084-4521-8f7e-ca8bf72069ba",
+    "title": "Aadhaar Monthly Enrolment data",
+    "desc": "Aadhaar Monthly Enrolment data",
+    "org_type": "Central",
+    "org": [
+        "Ministry of Electronics and Information Technology (MeitY)",
+        "Unique Identification Authority of India (UIDAI)"
+    ],
+    "sector": [
+        "Union\/State Government Administration"
+    ],
+    "source": "data.gov.in",
+    "catalog_uuid": "1ddb4f34-6f2c-42b9-a6e2-c78baa53cc5b",
+    "visualizable": "0",
+    "active": "1",
+    "created": 1747640300,
+    "updated": 1767628131,
+    "created_date": "2025-05-19T09:38:20Z",
+    "updated_date": "2026-01-05T15:48:51Z",
+    "external_ws": 0,
+    "external_ws_url": "",
+    "field": [
+        {
+            "name": "Date",
+            "id": "date",
+            "type": "date"
+        },
+        {
+            "name": "State",
+            "id": "state",
+            "type": "keyword"
+        },
+        {
+            "name": "District",
+            "id": "district",
+            "type": "keyword"
+        },
+        {
+            "name": "Pincode",
+            "id": "pincode",
+            "type": "double"
+        },
+        {
+            "name": "Age_0_5",
+            "id": "age_0_5",
+            "type": "double"
+        },
+        {
+            "name": "Age_5_17",
+            "id": "age_5_17",
+            "type": "double"
+        },
+        {
+            "name": "Age_18_greater",
+            "id": "age_18_greater",
+            "type": "double"
+        }
+    ],
+    "primary_field": [
+        "date",
+        "state",
+        "district",
+        "pincode"
+    ],
+    "target_bucket": {
+        "field": "ecd49b12-3084-4521-8f7e-ca8bf72069ba",
+        "index": "aadhaar_enrolment",
+        "type": "aadhaar"
+    },
+    "field_exposed": [
+        {
+            "name": "State",
+            "id": "state",
+            "type": "keyword",
+            "mandatory": true
+        },
+        {
+            "name": "District",
+            "id": "district",
+            "type": "keyword"
+        }
+    ],
+    "field_dependent": {
+        "state.keyword": {
+            "parent": "state.keyword",
+            "child": "district.keyword"
+        },
+        "state": {
+            "parent": "state",
+            "child": "district"
+        }
+    },
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 1208727,
+    "count": 10,
+    "limit": "10",
+    "offset": "0",
+    "records": [
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521215",
+            "age_0_5": "3",
+            "age_5_17": "2",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521235",
+            "age_0_5": "3",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521263",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521301",
+            "age_0_5": "3",
+            "age_5_17": "1",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521332",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521333",
+            "age_0_5": "2",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Krishna",
+            "pincode": "521457",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Kurnool",
+            "pincode": "518124",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Kurnool",
+            "pincode": "518135",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        },
+        {
+            "date": "01-09-2025",
+            "state": "Andhra Pradesh",
+            "district": "Kurnool",
+            "pincode": "518166",
+            "age_0_5": "1",
+            "age_5_17": "0",
+            "age_18_greater": "0"
+        }
+    ]
+}
