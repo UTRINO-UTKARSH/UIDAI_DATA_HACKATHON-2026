@@ -38,4 +38,4 @@ print(df.sample(10, random_state=42))
 print(df.describe())
 
 # export to new file
-df.to_csv("aadhar_enrollment_deduped.csv", index=False)
+#df.to_csv("aadhar_enrollment_deduped.csv", index=False)
