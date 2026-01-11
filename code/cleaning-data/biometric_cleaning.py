@@ -47,7 +47,7 @@ numeric_cols = df.select_dtypes(include="number").columns
 
 df_clean = (
     df.groupby(
-        ["state", "district", "pincode"],
+        ["state", "district"],
         as_index=False
     )[numeric_cols]
     .sum()
@@ -77,6 +77,6 @@ district_df.info()
 # STEP 8: SAVE FINAL CLEAN FILE
 # -------------------------------
 district_df.to_csv(
-    "data/cleaned-dataset/BIOMETRIC_CLEAN/aadhar_biometric_district_level_clean.csv",
+    "aadhar_biometric_district_level_clean.csv",
     index=False
 )
