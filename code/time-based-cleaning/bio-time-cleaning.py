@@ -5,11 +5,15 @@ from rapidfuzz import process, fuzz
 # ======================================================
 # STEP 1: Load Raw Enrollment Data & District Master
 # ======================================================
+#change file paths as needed
+
 raw_files = [
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_0_500000.csv', 
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_500000_1000000.csv', 
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_1000000_1006029.csv'
+    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_0_500000.csv',
+    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_500000_1000000.csv',
+    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1000000_1500000.csv',
+    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1500000_1861108.csv'
 ]
+
 df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 
 # Load your canonical list (the 729 districts)
@@ -56,7 +60,7 @@ df_mapped = pd.merge(df_raw, unique_raw_pairs, on=['state_norm', 'district_norm'
 
 # Aggregate the "active" raw data
 df_active_agg = df_mapped.groupby(['month', 'state_norm', 'district_resolved']).agg({
-    'age_0_5': 'sum', 'age_5_17': 'sum', 'age_18_greater': 'sum'
+    'bio_age_5_17': 'sum', 'bio_age_17_': 'sum'
 }).reset_index()
 
 # ======================================================
@@ -84,16 +88,17 @@ df_final = pd.merge(
 )
 
 # Fill gaps with 0 and clean up columns
-cols_to_fix = ['age_0_5', 'age_5_17', 'age_18_greater']
+cols_to_fix = ['bio_age_5_17', 'bio_age_17_']
 df_final[cols_to_fix] = df_final[cols_to_fix].fillna(0).astype(int)
 df_final = df_final.drop(columns=['district_resolved']).rename(columns={'district_standard': 'district'})
 
 # Sort chronologically and save
 df_final['month_dt'] = pd.to_datetime(df_final['month'], format='%B %Y')
 df_final = df_final.sort_values(['month_dt', 'state_norm', 'district'])
-df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index=False)
+df_final.drop(columns=['month_dt']).to_csv("final_padded_bio_time_series.csv", index=False)
 
-#without changes, the previous version where the inactivitiy is not shown of this file was as below:
+# without changes the previous version where the inactivity is not shown of this file was as below:
+
 
 # import pandas as pd
 # import re
@@ -103,9 +108,10 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index
 # # STEP 1: Load Raw Enrollment Data & District Master
 # # ======================================================
 # raw_files = [
-#     'api_data_aadhar_enrolment_0_500000.csv', 
-#     'api_data_aadhar_enrolment_500000_1000000.csv', 
-#     'api_data_aadhar_enrolment_1000000_1006029.csv'
+#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_0_500000.csv',
+#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_500000_1000000.csv',
+#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1000000_1500000.csv',
+#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1500000_1861108.csv'
 # ]
 # df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 # district_master = pd.read_csv("keys/district_master.csv") # Your canonical reference
@@ -167,9 +173,8 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index
 #     df_mapped[df_mapped["match_status"] == "matched"]
 #     .groupby(["month", "state_norm", "district_resolved"], as_index=False)
 #     .agg({
-#         "age_0_5": "sum",
-#         "age_5_17": "sum",
-#         "age_18_greater": "sum"
+#         "bio_age_5_17": "sum",
+#         "bio_age_17_": "sum",
 #     })
 # )
 
@@ -178,4 +183,4 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index
 # df_final_time_series = df_final_time_series.sort_values(['month_dt', 'state_norm', 'district_resolved'])
 
 # # Save result
-# df_final_time_series.drop(columns=['month_dt']).to_csv("final_time_series_resolved.csv", index=False)
+# df_final_time_series.drop(columns=['month_dt']).to_csv("final_time_bio_series_resolved.csv", index=False)
