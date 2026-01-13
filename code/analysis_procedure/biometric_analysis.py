@@ -13,7 +13,7 @@ mpl.rcParams['savefig.bbox'] = 'tight'
 # STEP 1: Load resolved data
 # ======================================================
 df = pd.read_csv(
-    "data/final_cleaned/aadhar_biometric_district_level_FINAL_LGD_RESOLVED.csv"
+    "data/final_cleaned/bio_final.csv"
 )
 
 print("Dataset shape:", df.shape)

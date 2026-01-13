@@ -1,0 +1,3873 @@
+month,state_norm,district_resolved,age_0_5,age_5_17,age_18_greater
+March 2025,assam,baksa,11,14,13
+March 2025,assam,barpeta,24,34,10
+March 2025,assam,bongaigaon,25,33,31
+March 2025,assam,chirang,12,29,15
+March 2025,assam,dhemaji,20,46,19
+March 2025,assam,dhubri,89,229,98
+March 2025,assam,dibrugarh,10,12,14
+March 2025,assam,hojai,27,42,20
+March 2025,assam,kamrup,13,20,13
+March 2025,assam,kokrajhar,91,169,80
+March 2025,assam,lakhimpur,25,34,42
+March 2025,assam,marigaon,117,184,245
+March 2025,assam,nagaon,19,15,22
+March 2025,assam,sonitpur,10,28,43
+March 2025,assam,tinsukia,84,170,101
+March 2025,assam,udalguri,10,46,34
+March 2025,bihar,bhagalpur,13,40,18
+March 2025,bihar,madhubani,46,235,49
+March 2025,bihar,muzaffarpur,24,40,10
+March 2025,bihar,pashchim champaran,25,88,13
+March 2025,bihar,patna,12,52,16
+March 2025,bihar,purbi champaran,60,241,35
+March 2025,bihar,sitamarhi,336,696,303
+March 2025,chhattisgarh,bijapur,66,31,63
+March 2025,chhattisgarh,raipur,49,15,36
+March 2025,gujarat,banas kantha,408,223,175
+March 2025,gujarat,kachchh,33,13,10
+March 2025,gujarat,morbi,36,12,23
+March 2025,gujarat,patan,141,26,23
+March 2025,gujarat,vadodara,36,43,10
+March 2025,haryana,faridabad,80,60,10
+March 2025,haryana,gurugram,18,19,13
+March 2025,jharkhand,deoghar,12,25,18
+March 2025,karnataka,bengaluru urban,309,192,231
+March 2025,madhya pradesh,bhind,54,33,22
+March 2025,madhya pradesh,gwalior,179,86,62
+March 2025,madhya pradesh,katni,53,42,11
+March 2025,maharashtra,parbhani,17,14,37
+March 2025,maharashtra,thane,19,13,15
+March 2025,meghalaya,east khasi hills,44,92,164
+March 2025,meghalaya,ri bhoi,30,11,26
+March 2025,meghalaya,west jaintia hills,315,53,142
+March 2025,meghalaya,west khasi hills,118,113,442
+March 2025,punjab,amritsar,14,15,20
+March 2025,punjab,ludhiana,104,13,14
+March 2025,rajasthan,sikar,41,36,17
+March 2025,tamil nadu,kancheepuram,12,12,10
+March 2025,uttar pradesh,agra,280,494,132
+March 2025,uttar pradesh,aligarh,226,353,44
+March 2025,uttar pradesh,bahraich,69,241,61
+March 2025,uttar pradesh,banda,31,24,11
+March 2025,uttar pradesh,bulandshahr,19,32,10
+March 2025,uttar pradesh,firozabad,93,77,21
+March 2025,uttar pradesh,gautam buddha nagar,175,636,72
+March 2025,uttar pradesh,ghaziabad,129,471,89
+March 2025,uttar pradesh,gorakhpur,13,36,11
+March 2025,uttar pradesh,jaunpur,70,213,51
+March 2025,uttar pradesh,kanpur nagar,47,138,23
+March 2025,uttar pradesh,lucknow,23,102,17
+March 2025,uttar pradesh,mahrajganj,54,181,47
+March 2025,uttar pradesh,mathura,39,40,42
+March 2025,uttar pradesh,saharanpur,91,152,10
+March 2025,uttar pradesh,unnao,34,136,33
+March 2025,uttarakhand,dehradun,123,43,10
+March 2025,uttarakhand,haridwar,17,15,28
+March 2025,uttarakhand,nainital,46,18,11
+March 2025,west bengal,uttar dinajpur,26,18,27
+April 2025,assam,baksa,408,483,187
+April 2025,assam,barpeta,138,54,23
+April 2025,assam,biswanath,104,114,32
+April 2025,assam,bongaigaon,221,87,61
+April 2025,assam,cachar,988,461,299
+April 2025,assam,charaideo,91,50,164
+April 2025,assam,chirang,189,199,179
+April 2025,assam,darrang,654,340,270
+April 2025,assam,dhemaji,179,176,52
+April 2025,assam,dhubri,998,654,80
+April 2025,assam,dibrugarh,179,149,186
+April 2025,assam,goalpara,587,294,283
+April 2025,assam,golaghat,568,501,144
+April 2025,assam,hailakandi,242,143,78
+April 2025,assam,hojai,763,253,100
+April 2025,assam,jorhat,210,156,154
+April 2025,assam,kamrup,741,404,179
+April 2025,assam,kamrup metro,276,396,213
+April 2025,assam,karbi anglong,543,1030,323
+April 2025,assam,kokrajhar,301,238,25
+April 2025,assam,lakhimpur,400,221,93
+April 2025,assam,marigaon,540,457,96
+April 2025,assam,nagaon,504,236,36
+April 2025,assam,nalbari,55,49,77
+April 2025,assam,sonitpur,138,169,65
+April 2025,assam,south salmara mancachar,176,102,30
+April 2025,assam,tinsukia,339,391,261
+April 2025,assam,udalguri,447,364,319
+April 2025,assam,west karbi anglong,94,344,45
+April 2025,bihar,bhagalpur,678,534,26
+April 2025,bihar,gaya,437,1371,54
+April 2025,bihar,jamui,1015,647,30
+April 2025,bihar,jehanabad,78,292,48
+April 2025,bihar,kaimur bhabua,146,199,12
+April 2025,bihar,madhubani,388,485,60
+April 2025,bihar,munger,191,278,22
+April 2025,bihar,muzaffarpur,1159,865,65
+April 2025,bihar,patna,723,2303,373
+April 2025,bihar,purnia,517,276,21
+April 2025,bihar,saran,143,174,10
+April 2025,bihar,sitamarhi,2452,1625,487
+April 2025,bihar,vaishali,270,217,10
+April 2025,chandigarh,chandigarh,86,21,10
+April 2025,chhattisgarh,bijapur,397,135,126
+April 2025,chhattisgarh,durg,336,38,10
+April 2025,chhattisgarh,raipur,299,12,11
+April 2025,chhattisgarh,sukma,267,69,45
+April 2025,delhi,shahdara,208,98,13
+April 2025,gujarat,ahmedabad,77,26,19
+April 2025,gujarat,amreli,174,21,43
+April 2025,gujarat,anand,136,30,75
+April 2025,gujarat,arvalli,144,32,30
+April 2025,gujarat,banas kantha,1685,1358,1001
+April 2025,gujarat,bharuch,138,50,23
+April 2025,gujarat,bhavnagar,567,36,25
+April 2025,gujarat,botad,291,21,20
+April 2025,gujarat,chhotaudepur,242,121,119
+April 2025,gujarat,dahod,855,782,434
+April 2025,gujarat,devbhumi dwarka,186,44,54
+April 2025,gujarat,gandhinagar,495,138,156
+April 2025,gujarat,gir somnath,1262,265,179
+April 2025,gujarat,jamnagar,240,43,33
+April 2025,gujarat,junagadh,250,27,12
+April 2025,gujarat,kachchh,587,242,78
+April 2025,gujarat,kheda,425,80,150
+April 2025,gujarat,mahesana,433,55,65
+April 2025,gujarat,mahisagar,110,12,16
+April 2025,gujarat,morbi,818,178,175
+April 2025,gujarat,navsari,133,10,33
+April 2025,gujarat,patan,800,173,225
+April 2025,gujarat,porbandar,267,38,44
+April 2025,gujarat,rajkot,1398,338,231
+April 2025,gujarat,surat,2932,976,280
+April 2025,gujarat,tapi,68,12,13
+April 2025,gujarat,vadodara,788,216,180
+April 2025,gujarat,valsad,618,186,100
+April 2025,haryana,faridabad,1291,290,25
+April 2025,jharkhand,deoghar,371,342,10
+April 2025,jharkhand,dumka,34,32,23
+April 2025,jharkhand,east singhbum,55,54,11
+April 2025,jharkhand,godda,79,46,11
+April 2025,jharkhand,hazaribagh,169,65,14
+April 2025,jharkhand,lohardaga,187,104,17
+April 2025,jharkhand,pakur,579,372,11
+April 2025,jharkhand,ranchi,552,481,87
+April 2025,karnataka,kalaburagi,560,31,17
+April 2025,karnataka,mysuru,456,19,10
+April 2025,karnataka,yadgir,536,89,21
+April 2025,madhya pradesh,alirajpur,134,105,15
+April 2025,madhya pradesh,ashoknagar,342,139,50
+April 2025,madhya pradesh,barwani,497,313,10
+April 2025,madhya pradesh,betul,193,20,10
+April 2025,madhya pradesh,bhind,732,228,91
+April 2025,madhya pradesh,bhopal,316,47,20
+April 2025,madhya pradesh,burhanpur,547,155,100
+April 2025,madhya pradesh,chhatarpur,555,255,40
+April 2025,madhya pradesh,datia,237,55,10
+April 2025,madhya pradesh,dewas,427,65,10
+April 2025,madhya pradesh,dhar,396,116,107
+April 2025,madhya pradesh,guna,633,120,31
+April 2025,madhya pradesh,gwalior,855,370,113
+April 2025,madhya pradesh,indore,830,205,48
+April 2025,madhya pradesh,jabalpur,125,23,11
+April 2025,madhya pradesh,jhabua,466,372,48
+April 2025,madhya pradesh,katni,353,40,20
+April 2025,madhya pradesh,morena,1027,459,82
+April 2025,madhya pradesh,panna,107,33,19
+April 2025,madhya pradesh,raisen,410,83,22
+April 2025,madhya pradesh,sagar,183,26,12
+April 2025,madhya pradesh,satna,368,55,14
+April 2025,madhya pradesh,sheopur,209,163,24
+April 2025,madhya pradesh,shivpuri,499,259,111
+April 2025,madhya pradesh,vidisha,670,119,42
+April 2025,maharashtra,beed,379,52,19
+April 2025,maharashtra,chandrapur,193,18,10
+April 2025,maharashtra,hingoli,913,95,136
+April 2025,maharashtra,jalgaon,360,53,10
+April 2025,maharashtra,latur,229,42,23
+April 2025,maharashtra,mumbai suburban,389,109,44
+April 2025,maharashtra,nagpur,468,50,48
+April 2025,maharashtra,nanded,462,89,56
+April 2025,maharashtra,nandurbar,237,35,10
+April 2025,maharashtra,palghar,174,90,16
+April 2025,maharashtra,parbhani,135,10,16
+April 2025,maharashtra,pune,39,11,19
+April 2025,maharashtra,raigad,242,72,21
+April 2025,maharashtra,satara,192,26,18
+April 2025,maharashtra,solapur,548,67,45
+April 2025,maharashtra,thane,2371,913,150
+April 2025,manipur,churachandpur,130,476,26
+April 2025,meghalaya,east garo hills,491,1124,293
+April 2025,meghalaya,east jaintia hills,434,765,283
+April 2025,meghalaya,east khasi hills,1437,4688,1673
+April 2025,meghalaya,north garo hills,205,1048,242
+April 2025,meghalaya,ri bhoi,319,1500,514
+April 2025,meghalaya,south garo hills,231,820,367
+April 2025,meghalaya,south west garo hills,991,610,174
+April 2025,meghalaya,south west khasi hills,241,535,212
+April 2025,meghalaya,west garo hills,1215,1761,727
+April 2025,meghalaya,west jaintia hills,712,1478,727
+April 2025,meghalaya,west khasi hills,896,2670,1129
+April 2025,mizoram,champhai,275,76,17
+April 2025,nagaland,chumoukedima,16,57,13
+April 2025,nagaland,dimapur,249,454,80
+April 2025,nagaland,kohima,212,385,49
+April 2025,nagaland,longleng,131,226,12
+April 2025,nagaland,noklak,47,65,16
+April 2025,nagaland,peren,201,331,12
+April 2025,nagaland,phek,157,268,22
+April 2025,nagaland,tuensang,173,296,34
+April 2025,odisha,nabarangpur,182,82,12
+April 2025,punjab,amritsar,959,209,54
+April 2025,punjab,gurdaspur,233,36,49
+April 2025,punjab,hoshiarpur,267,35,34
+April 2025,punjab,kapurthala,302,65,305
+April 2025,punjab,ludhiana,1841,734,184
+April 2025,punjab,sangrur,145,11,10
+April 2025,rajasthan,ajmer,1007,196,36
+April 2025,rajasthan,alwar,784,209,39
+April 2025,rajasthan,baran,379,60,25
+April 2025,rajasthan,bharatpur,240,37,10
+April 2025,rajasthan,bikaner,552,261,16
+April 2025,rajasthan,bundi,337,93,35
+April 2025,rajasthan,churu,316,141,12
+April 2025,rajasthan,dholpur,947,347,50
+April 2025,rajasthan,dungarpur,66,83,13
+April 2025,rajasthan,jaipur,2601,671,162
+April 2025,rajasthan,jalore,1186,672,124
+April 2025,rajasthan,jhalawar,112,49,12
+April 2025,rajasthan,jodhpur,1624,565,87
+April 2025,rajasthan,karauli,348,105,12
+April 2025,rajasthan,kota,37,17,14
+April 2025,rajasthan,nagaur,563,278,32
+April 2025,rajasthan,pali,138,38,11
+April 2025,rajasthan,sikar,251,62,22
+April 2025,rajasthan,sirohi,349,210,67
+April 2025,rajasthan,udaipur,70,47,15
+April 2025,tamil nadu,kancheepuram,229,75,24
+April 2025,tamil nadu,madurai,94,10,11
+April 2025,tamil nadu,thanjavur,35,10,11
+April 2025,telangana,hyderabad,252,32,22
+April 2025,telangana,medchal malkajgiri,76,25,15
+April 2025,tripura,unakoti,19,16,15
+April 2025,tripura,west tripura,146,65,25
+April 2025,uttar pradesh,agra,832,568,37
+April 2025,uttar pradesh,aligarh,1066,643,58
+April 2025,uttar pradesh,ambedkar nagar,159,143,10
+April 2025,uttar pradesh,amroha,434,135,11
+April 2025,uttar pradesh,azamgarh,231,332,26
+April 2025,uttar pradesh,baghpat,311,224,18
+April 2025,uttar pradesh,bahraich,1748,1784,281
+April 2025,uttar pradesh,balrampur,429,642,32
+April 2025,uttar pradesh,banda,458,340,43
+April 2025,uttar pradesh,bara banki,172,72,10
+April 2025,uttar pradesh,bareilly,3176,1025,63
+April 2025,uttar pradesh,basti,140,139,10
+April 2025,uttar pradesh,budaun,480,267,13
+April 2025,uttar pradesh,bulandshahr,612,527,49
+April 2025,uttar pradesh,chandauli,195,192,41
+April 2025,uttar pradesh,etah,724,354,13
+April 2025,uttar pradesh,etawah,348,226,16
+April 2025,uttar pradesh,fatehpur,166,136,10
+April 2025,uttar pradesh,gautam buddha nagar,1192,1186,113
+April 2025,uttar pradesh,gonda,392,260,50
+April 2025,uttar pradesh,gorakhpur,378,727,86
+April 2025,uttar pradesh,jalaun,221,102,26
+April 2025,uttar pradesh,jaunpur,662,800,64
+April 2025,uttar pradesh,kanpur dehat,469,364,75
+April 2025,uttar pradesh,kanpur nagar,1405,1363,222
+April 2025,uttar pradesh,kaushambi,133,109,25
+April 2025,uttar pradesh,kheri,523,548,31
+April 2025,uttar pradesh,lucknow,1235,1253,125
+April 2025,uttar pradesh,mahrajganj,873,977,79
+April 2025,uttar pradesh,mainpuri,348,313,46
+April 2025,uttar pradesh,meerut,1370,650,33
+April 2025,uttar pradesh,moradabad,1519,510,15
+April 2025,uttar pradesh,muzaffarnagar,680,308,27
+April 2025,uttar pradesh,pilibhit,598,260,20
+April 2025,uttar pradesh,rampur,894,333,19
+April 2025,uttar pradesh,saharanpur,1499,533,29
+April 2025,uttar pradesh,shahjahanpur,1402,852,63
+April 2025,uttar pradesh,shamli,374,151,12
+April 2025,uttar pradesh,shrawasti,207,307,11
+April 2025,uttar pradesh,siddharthnagar,804,1006,68
+April 2025,uttar pradesh,sitapur,1928,1053,87
+April 2025,uttar pradesh,sultanpur,262,195,23
+April 2025,uttar pradesh,unnao,937,547,30
+April 2025,uttar pradesh,varanasi,527,733,81
+April 2025,uttarakhand,dehradun,510,138,26
+April 2025,uttarakhand,nainital,488,66,48
+April 2025,west bengal,alipurduar,38,63,27
+April 2025,west bengal,cooch behar,297,156,32
+April 2025,west bengal,darjeeling,383,200,75
+April 2025,west bengal,jalpaiguri,194,62,36
+April 2025,west bengal,jhargram,40,10,12
+April 2025,west bengal,kolkata,21,10,23
+April 2025,west bengal,malda,306,80,10
+April 2025,west bengal,nadia,204,33,11
+April 2025,west bengal,north parganas,126,67,39
+April 2025,west bengal,uttar dinajpur,1264,333,116
+May 2025,assam,baksa,37,25,20
+May 2025,assam,barpeta,90,83,10
+May 2025,assam,bongaigaon,110,41,15
+May 2025,assam,charaideo,29,11,10
+May 2025,assam,darrang,87,53,308
+May 2025,assam,dhemaji,264,174,153
+May 2025,assam,dibrugarh,140,95,149
+May 2025,assam,goalpara,412,253,116
+May 2025,assam,golaghat,807,826,230
+May 2025,assam,jorhat,17,24,13
+May 2025,assam,kamrup,813,580,264
+May 2025,assam,kamrup metro,67,42,53
+May 2025,assam,karbi anglong,446,1537,175
+May 2025,assam,kokrajhar,249,237,32
+May 2025,assam,lakhimpur,404,216,127
+May 2025,assam,marigaon,130,219,29
+May 2025,assam,nalbari,134,75,37
+May 2025,assam,sonitpur,55,160,38
+May 2025,assam,tinsukia,213,216,171
+May 2025,assam,udalguri,221,162,164
+May 2025,assam,west karbi anglong,39,216,11
+May 2025,bihar,arwal,43,156,10
+May 2025,bihar,bhagalpur,1500,1363,85
+May 2025,bihar,gaya,452,1796,69
+May 2025,bihar,gopalganj,385,495,27
+May 2025,bihar,jamui,245,292,13
+May 2025,bihar,kaimur bhabua,273,642,22
+May 2025,bihar,katihar,270,215,10
+May 2025,bihar,madhubani,874,995,102
+May 2025,bihar,muzaffarpur,2161,2046,159
+May 2025,bihar,patna,105,347,22
+May 2025,bihar,saharsa,334,295,13
+May 2025,bihar,sitamarhi,2961,2387,348
+May 2025,bihar,siwan,269,384,12
+May 2025,chhattisgarh,bijapur,275,180,155
+May 2025,chhattisgarh,sukma,178,55,19
+May 2025,delhi,shahdara,66,47,20
+May 2025,gujarat,ahmedabad,756,347,97
+May 2025,gujarat,anand,111,22,10
+May 2025,gujarat,banas kantha,1146,724,178
+May 2025,gujarat,bharuch,303,69,23
+May 2025,gujarat,chhotaudepur,127,61,28
+May 2025,gujarat,dahod,710,717,653
+May 2025,gujarat,devbhumi dwarka,167,26,23
+May 2025,gujarat,gandhinagar,251,28,16
+May 2025,gujarat,gir somnath,181,53,26
+May 2025,gujarat,jamnagar,410,77,67
+May 2025,gujarat,kachchh,59,79,12
+May 2025,gujarat,kheda,89,18,33
+May 2025,gujarat,mahesana,178,26,13
+May 2025,gujarat,morbi,389,88,46
+May 2025,gujarat,navsari,122,21,15
+May 2025,gujarat,patan,225,53,25
+May 2025,gujarat,rajkot,1375,312,221
+May 2025,gujarat,surat,1396,542,48
+May 2025,gujarat,vadodara,158,78,10
+May 2025,gujarat,valsad,277,101,20
+May 2025,haryana,faridabad,1358,311,32
+May 2025,jammu and kashmir,baramulla,136,39,12
+May 2025,jammu and kashmir,jammu,55,16,10
+May 2025,kerala,kollam,34,12,10
+May 2025,kerala,malappuram,135,121,10
+May 2025,kerala,thiruvananthapuram,32,15,11
+May 2025,madhya pradesh,alirajpur,66,42,25
+May 2025,madhya pradesh,ashoknagar,161,40,19
+May 2025,madhya pradesh,barwani,2114,1005,55
+May 2025,madhya pradesh,bhind,670,238,48
+May 2025,madhya pradesh,burhanpur,724,179,29
+May 2025,madhya pradesh,chhatarpur,394,313,30
+May 2025,madhya pradesh,dewas,518,87,17
+May 2025,madhya pradesh,gwalior,338,108,18
+May 2025,madhya pradesh,indore,519,111,18
+May 2025,madhya pradesh,jhabua,308,316,10
+May 2025,madhya pradesh,morena,709,313,44
+May 2025,madhya pradesh,panna,140,71,13
+May 2025,madhya pradesh,vidisha,209,43,15
+May 2025,maharashtra,beed,366,63,15
+May 2025,maharashtra,dhule,118,46,18
+May 2025,maharashtra,hingoli,246,31,34
+May 2025,maharashtra,jalgaon,506,92,43
+May 2025,maharashtra,mumbai suburban,882,457,230
+May 2025,maharashtra,nagpur,243,28,22
+May 2025,maharashtra,nanded,383,80,39
+May 2025,maharashtra,nandurbar,251,134,21
+May 2025,maharashtra,nashik,97,14,45
+May 2025,maharashtra,palghar,162,155,14
+May 2025,maharashtra,parbhani,425,90,32
+May 2025,maharashtra,pune,328,97,61
+May 2025,maharashtra,sangli,160,45,20
+May 2025,maharashtra,satara,150,32,10
+May 2025,maharashtra,solapur,473,97,51
+May 2025,maharashtra,thane,1437,799,96
+May 2025,maharashtra,washim,198,20,10
+May 2025,maharashtra,yavatmal,281,72,30
+May 2025,manipur,bishnupur,76,79,30
+May 2025,manipur,imphal west,44,37,25
+May 2025,meghalaya,east garo hills,180,448,267
+May 2025,meghalaya,east jaintia hills,125,248,256
+May 2025,meghalaya,east khasi hills,768,2259,1867
+May 2025,meghalaya,north garo hills,65,168,91
+May 2025,meghalaya,ri bhoi,243,733,633
+May 2025,meghalaya,south garo hills,105,388,192
+May 2025,meghalaya,south west garo hills,392,240,167
+May 2025,meghalaya,south west khasi hills,135,192,200
+May 2025,meghalaya,west garo hills,683,994,708
+May 2025,meghalaya,west jaintia hills,558,909,734
+May 2025,meghalaya,west khasi hills,406,1103,923
+May 2025,mizoram,lawngtlai,280,62,29
+May 2025,mizoram,lunglei,136,31,16
+May 2025,nagaland,dimapur,155,207,22
+May 2025,nagaland,peren,148,119,15
+May 2025,punjab,amritsar,664,284,26
+May 2025,punjab,gurdaspur,114,20,13
+May 2025,punjab,hoshiarpur,197,48,18
+May 2025,punjab,kapurthala,233,67,96
+May 2025,punjab,ludhiana,876,458,49
+May 2025,punjab,patiala,456,125,23
+May 2025,rajasthan,alwar,610,179,10
+May 2025,rajasthan,bikaner,421,164,20
+May 2025,rajasthan,jaipur,120,70,10
+May 2025,rajasthan,jodhpur,595,190,15
+May 2025,rajasthan,sirohi,246,301,10
+May 2025,tamil nadu,coimbatore,59,19,11
+May 2025,tamil nadu,cuddalore,120,11,10
+May 2025,tamil nadu,pudukkottai,143,34,13
+May 2025,telangana,hyderabad,736,154,21
+May 2025,uttar pradesh,agra,1550,967,60
+May 2025,uttar pradesh,aligarh,1564,1159,103
+May 2025,uttar pradesh,bahraich,1485,1891,193
+May 2025,uttar pradesh,banda,730,804,70
+May 2025,uttar pradesh,bareilly,1306,574,49
+May 2025,uttar pradesh,bijnor,1351,432,39
+May 2025,uttar pradesh,budaun,222,228,11
+May 2025,uttar pradesh,chandauli,214,191,14
+May 2025,uttar pradesh,deoria,384,503,20
+May 2025,uttar pradesh,etah,1092,457,48
+May 2025,uttar pradesh,fatehpur,274,224,11
+May 2025,uttar pradesh,gautam buddha nagar,867,915,52
+May 2025,uttar pradesh,ghaziabad,882,747,37
+May 2025,uttar pradesh,gorakhpur,129,352,41
+May 2025,uttar pradesh,hapur,681,450,11
+May 2025,uttar pradesh,hathras,478,319,11
+May 2025,uttar pradesh,kanpur nagar,835,854,57
+May 2025,uttar pradesh,kheri,832,687,33
+May 2025,uttar pradesh,kushinagar,170,229,10
+May 2025,uttar pradesh,lalitpur,138,71,10
+May 2025,uttar pradesh,lucknow,608,560,48
+May 2025,uttar pradesh,mahrajganj,500,791,40
+May 2025,uttar pradesh,meerut,1663,1146,38
+May 2025,uttar pradesh,moradabad,1673,793,79
+May 2025,uttar pradesh,pilibhit,1367,640,21
+May 2025,uttar pradesh,prayagraj,23,45,19
+May 2025,uttar pradesh,rampur,1304,700,27
+May 2025,uttar pradesh,shahjahanpur,1274,987,51
+May 2025,uttar pradesh,shrawasti,279,445,28
+May 2025,uttar pradesh,siddharthnagar,603,1073,47
+May 2025,uttar pradesh,sitapur,802,540,31
+May 2025,uttar pradesh,sultanpur,209,205,10
+May 2025,uttar pradesh,unnao,865,726,37
+May 2025,uttar pradesh,varanasi,574,849,23
+May 2025,uttarakhand,dehradun,477,135,12
+May 2025,west bengal,alipurduar,42,112,43
+May 2025,west bengal,birbhum,204,61,13
+May 2025,west bengal,cooch behar,991,606,77
+May 2025,west bengal,dakshin dinajpur,179,42,14
+May 2025,west bengal,darjeeling,297,223,78
+May 2025,west bengal,jalpaiguri,493,413,74
+May 2025,west bengal,kalimpong,12,39,27
+May 2025,west bengal,kolkata,247,222,34
+May 2025,west bengal,nadia,478,108,50
+May 2025,west bengal,north parganas,494,195,37
+May 2025,west bengal,uttar dinajpur,2101,1479,97
+June 2025,andhra pradesh,visakhapatnam,186,28,12
+June 2025,assam,baksa,28,12,12
+June 2025,assam,barpeta,699,376,104
+June 2025,assam,bongaigaon,33,14,14
+June 2025,assam,cachar,847,584,201
+June 2025,assam,darrang,63,25,10
+June 2025,assam,dhemaji,135,126,55
+June 2025,assam,dhubri,323,198,24
+June 2025,assam,dibrugarh,413,127,134
+June 2025,assam,dima hasao,33,28,10
+June 2025,assam,goalpara,17,43,20
+June 2025,assam,golaghat,561,502,202
+June 2025,assam,hojai,277,76,11
+June 2025,assam,jorhat,24,19,13
+June 2025,assam,kamrup,133,51,23
+June 2025,assam,kamrup metro,55,54,65
+June 2025,assam,kokrajhar,155,115,17
+June 2025,assam,lakhimpur,207,181,63
+June 2025,assam,marigaon,412,250,118
+June 2025,assam,nagaon,24,67,65
+June 2025,assam,sivasagar,37,33,10
+June 2025,assam,sonitpur,97,110,77
+June 2025,assam,west karbi anglong,52,133,110
+June 2025,bihar,araria,850,787,39
+June 2025,bihar,banka,397,542,36
+June 2025,bihar,bhagalpur,1407,2293,150
+June 2025,bihar,darbhanga,255,183,10
+June 2025,bihar,gaya,515,1341,37
+June 2025,bihar,gopalganj,577,1145,51
+June 2025,bihar,jamui,323,426,23
+June 2025,bihar,kaimur bhabua,165,536,10
+June 2025,bihar,katihar,488,463,34
+June 2025,bihar,lakhisarai,298,478,10
+June 2025,bihar,madhubani,876,1379,170
+June 2025,bihar,munger,117,279,10
+June 2025,bihar,muzaffarpur,1562,2080,140
+June 2025,bihar,nalanda,307,1153,37
+June 2025,bihar,pashchim champaran,1969,4299,239
+June 2025,bihar,patna,320,1009,38
+June 2025,bihar,purbi champaran,1549,4314,335
+June 2025,bihar,purnia,620,741,57
+June 2025,bihar,saharsa,319,487,20
+June 2025,bihar,saran,222,864,25
+June 2025,bihar,sitamarhi,2839,3126,511
+June 2025,bihar,siwan,185,298,21
+June 2025,chhattisgarh,bijapur,205,254,173
+June 2025,chhattisgarh,gaurela pendra marwahi,403,185,43
+June 2025,delhi,new delhi,212,100,51
+June 2025,gujarat,ahmedabad,685,480,60
+June 2025,gujarat,anand,148,57,24
+June 2025,gujarat,banas kantha,1459,1675,156
+June 2025,gujarat,bhavnagar,189,39,11
+June 2025,gujarat,botad,289,64,11
+June 2025,gujarat,chhotaudepur,97,34,10
+June 2025,gujarat,dangs,222,72,70
+June 2025,gujarat,gandhinagar,204,67,41
+June 2025,gujarat,kachchh,73,49,11
+June 2025,gujarat,mahisagar,106,37,18
+June 2025,gujarat,morbi,777,366,26
+June 2025,gujarat,patan,207,80,11
+June 2025,gujarat,porbandar,209,57,11
+June 2025,gujarat,rajkot,114,194,16
+June 2025,gujarat,vadodara,334,139,37
+June 2025,haryana,ambala,245,23,13
+June 2025,haryana,faridabad,1698,483,83
+June 2025,haryana,gurugram,534,207,81
+June 2025,haryana,hisar,350,46,10
+June 2025,haryana,kaithal,406,19,10
+June 2025,haryana,kurukshetra,72,10,11
+June 2025,haryana,nuh,1251,213,42
+June 2025,haryana,panipat,776,87,14
+June 2025,haryana,rohtak,420,56,52
+June 2025,haryana,sonipat,360,46,23
+June 2025,jharkhand,chatra,246,218,10
+June 2025,jharkhand,dumka,74,110,14
+June 2025,jharkhand,gumla,228,131,10
+June 2025,jharkhand,khunti,91,148,11
+June 2025,jharkhand,lohardaga,165,174,21
+June 2025,jharkhand,pakur,501,590,16
+June 2025,jharkhand,ranchi,259,273,34
+June 2025,karnataka,bengaluru rural,511,312,311
+June 2025,karnataka,bengaluru urban,5062,3223,1838
+June 2025,karnataka,raichur,290,127,11
+June 2025,kerala,ernakulam,70,58,11
+June 2025,kerala,thrissur,15,22,10
+June 2025,madhya pradesh,alirajpur,376,586,84
+June 2025,madhya pradesh,ashoknagar,437,408,23
+June 2025,madhya pradesh,barwani,1067,1106,60
+June 2025,madhya pradesh,bhind,507,328,50
+June 2025,madhya pradesh,bhopal,690,115,28
+June 2025,madhya pradesh,burhanpur,1142,574,61
+June 2025,madhya pradesh,chhatarpur,272,401,41
+June 2025,madhya pradesh,dhar,892,570,65
+June 2025,madhya pradesh,gwalior,1064,789,77
+June 2025,madhya pradesh,indore,411,138,12
+June 2025,madhya pradesh,jhabua,261,628,10
+June 2025,madhya pradesh,katni,195,88,10
+June 2025,madhya pradesh,morena,1327,872,70
+June 2025,madhya pradesh,sagar,131,53,17
+June 2025,madhya pradesh,sheopur,368,430,11
+June 2025,madhya pradesh,shivpuri,326,430,27
+June 2025,maharashtra,amravati,280,77,11
+June 2025,maharashtra,beed,659,294,46
+June 2025,maharashtra,buldhana,306,51,11
+June 2025,maharashtra,chandrapur,198,24,10
+June 2025,maharashtra,dhule,793,484,211
+June 2025,maharashtra,hingoli,261,62,14
+June 2025,maharashtra,latur,390,140,15
+June 2025,maharashtra,nanded,432,124,28
+June 2025,maharashtra,palghar,252,252,10
+June 2025,maharashtra,pune,142,83,11
+June 2025,maharashtra,sangli,240,105,11
+June 2025,maharashtra,satara,136,55,10
+June 2025,maharashtra,thane,2432,1767,222
+June 2025,manipur,churachandpur,91,499,13
+June 2025,meghalaya,east garo hills,70,469,341
+June 2025,meghalaya,east jaintia hills,96,414,308
+June 2025,meghalaya,east khasi hills,287,1875,978
+June 2025,meghalaya,ri bhoi,69,398,316
+June 2025,meghalaya,south garo hills,42,197,312
+June 2025,meghalaya,south west garo hills,264,209,145
+June 2025,meghalaya,south west khasi hills,54,184,146
+June 2025,meghalaya,west garo hills,521,992,854
+June 2025,meghalaya,west jaintia hills,192,1017,634
+June 2025,meghalaya,west khasi hills,129,1296,752
+June 2025,mizoram,champhai,86,26,26
+June 2025,mizoram,lawngtlai,119,43,11
+June 2025,nagaland,dimapur,105,240,32
+June 2025,nagaland,mon,39,121,14
+June 2025,nagaland,peren,37,141,10
+June 2025,punjab,hoshiarpur,234,59,20
+June 2025,punjab,kapurthala,182,67,68
+June 2025,punjab,ludhiana,1095,645,90
+June 2025,punjab,s a s nagar,193,75,14
+June 2025,rajasthan,alwar,670,240,13
+June 2025,rajasthan,barmer,684,259,10
+June 2025,rajasthan,bhilwara,430,117,20
+June 2025,rajasthan,bikaner,721,539,33
+June 2025,rajasthan,churu,253,269,13
+June 2025,rajasthan,jaisalmer,46,74,14
+June 2025,rajasthan,jodhpur,520,204,27
+June 2025,rajasthan,nagaur,554,363,10
+June 2025,rajasthan,sirohi,216,289,28
+June 2025,tamil nadu,kallakurichi,165,55,23
+June 2025,tamil nadu,kancheepuram,264,76,11
+June 2025,tamil nadu,madurai,62,14,12
+June 2025,tamil nadu,ramanathapuram,92,38,22
+June 2025,tamil nadu,salem,335,95,64
+June 2025,tamil nadu,sivaganga,70,13,10
+June 2025,tamil nadu,vellore,367,102,41
+June 2025,telangana,hyderabad,690,479,49
+June 2025,telangana,medchal malkajgiri,159,119,20
+June 2025,tripura,dhalai,60,87,20
+June 2025,uttar pradesh,agra,1775,1860,154
+June 2025,uttar pradesh,aligarh,1247,1291,97
+June 2025,uttar pradesh,amroha,329,240,10
+June 2025,uttar pradesh,ayodhya,38,32,12
+June 2025,uttar pradesh,azamgarh,109,333,10
+June 2025,uttar pradesh,baghpat,61,171,12
+June 2025,uttar pradesh,bahraich,1183,2599,287
+June 2025,uttar pradesh,balrampur,150,497,16
+June 2025,uttar pradesh,banda,324,451,12
+June 2025,uttar pradesh,bareilly,1242,1198,75
+June 2025,uttar pradesh,budaun,210,353,12
+June 2025,uttar pradesh,bulandshahr,166,297,14
+June 2025,uttar pradesh,chandauli,138,314,15
+June 2025,uttar pradesh,farrukhabad,73,102,11
+June 2025,uttar pradesh,fatehpur,251,344,14
+June 2025,uttar pradesh,firozabad,1568,809,21
+June 2025,uttar pradesh,gautam buddha nagar,805,1017,87
+June 2025,uttar pradesh,ghaziabad,1145,1293,42
+June 2025,uttar pradesh,gorakhpur,213,572,41
+June 2025,uttar pradesh,hardoi,1123,1368,44
+June 2025,uttar pradesh,hathras,174,282,12
+June 2025,uttar pradesh,jalaun,228,277,16
+June 2025,uttar pradesh,kanpur nagar,347,597,39
+June 2025,uttar pradesh,kheri,358,491,33
+June 2025,uttar pradesh,lucknow,81,123,19
+June 2025,uttar pradesh,mahrajganj,95,362,31
+June 2025,uttar pradesh,mainpuri,327,443,13
+June 2025,uttar pradesh,mathura,467,890,32
+June 2025,uttar pradesh,meerut,79,168,10
+June 2025,uttar pradesh,moradabad,1067,731,28
+June 2025,uttar pradesh,pilibhit,1026,628,25
+June 2025,uttar pradesh,rampur,694,751,21
+June 2025,uttar pradesh,saharanpur,929,585,14
+June 2025,uttar pradesh,shahjahanpur,736,918,55
+June 2025,uttar pradesh,shrawasti,326,564,49
+June 2025,uttar pradesh,sitapur,998,1134,87
+June 2025,uttar pradesh,sultanpur,130,223,10
+June 2025,uttar pradesh,unnao,497,892,57
+June 2025,uttar pradesh,varanasi,297,602,15
+June 2025,uttarakhand,dehradun,160,80,54
+June 2025,west bengal,alipurduar,207,352,74
+June 2025,west bengal,birbhum,139,65,17
+June 2025,west bengal,darjeeling,203,316,166
+June 2025,west bengal,jalpaiguri,74,176,65
+June 2025,west bengal,kolkata,221,328,87
+June 2025,west bengal,malda,115,127,10
+June 2025,west bengal,nadia,280,176,72
+June 2025,west bengal,north parganas,540,399,111
+June 2025,west bengal,purba bardhaman,28,18,12
+June 2025,west bengal,uttar dinajpur,1295,1253,118
+July 2025,andhra pradesh,prakasam,91,108,38
+July 2025,arunachal pradesh,longding,46,322,33
+July 2025,arunachal pradesh,west kameng,43,30,10
+July 2025,assam,baksa,110,71,39
+July 2025,assam,barpeta,3310,895,184
+July 2025,assam,bongaigaon,236,51,16
+July 2025,assam,cachar,4026,1357,490
+July 2025,assam,chirang,893,364,52
+July 2025,assam,darrang,190,56,11
+July 2025,assam,dhemaji,1625,576,337
+July 2025,assam,dhubri,774,306,27
+July 2025,assam,dibrugarh,1455,488,541
+July 2025,assam,dima hasao,83,51,14
+July 2025,assam,goalpara,2119,590,189
+July 2025,assam,golaghat,1617,1002,850
+July 2025,assam,hailakandi,683,287,46
+July 2025,assam,hojai,1750,350,23
+July 2025,assam,jorhat,633,323,415
+July 2025,assam,kamrup,2813,736,255
+July 2025,assam,kamrup metro,259,168,82
+July 2025,assam,kokrajhar,284,173,119
+July 2025,assam,lakhimpur,536,216,159
+July 2025,assam,majuli,154,45,11
+July 2025,assam,marigaon,1737,646,123
+July 2025,assam,nagaon,1553,735,132
+July 2025,assam,sivasagar,167,80,95
+July 2025,assam,sonitpur,641,279,110
+July 2025,assam,tinsukia,1074,827,606
+July 2025,assam,west karbi anglong,116,148,118
+July 2025,bihar,araria,166,108,14
+July 2025,bihar,arwal,60,432,13
+July 2025,bihar,banka,148,269,11
+July 2025,bihar,begusarai,377,372,13
+July 2025,bihar,bhagalpur,184,358,15
+July 2025,bihar,bhojpur,184,626,13
+July 2025,bihar,gaya,546,2601,65
+July 2025,bihar,gopalganj,882,1961,48
+July 2025,bihar,jehanabad,27,219,10
+July 2025,bihar,kaimur bhabua,264,420,10
+July 2025,bihar,lakhisarai,607,972,29
+July 2025,bihar,madhubani,858,1181,102
+July 2025,bihar,munger,241,445,13
+July 2025,bihar,muzaffarpur,892,1217,40
+July 2025,bihar,nalanda,434,1587,37
+July 2025,bihar,nawada,616,2933,123
+July 2025,bihar,pashchim champaran,3018,6314,310
+July 2025,bihar,patna,508,1551,51
+July 2025,bihar,purbi champaran,2391,5516,430
+July 2025,bihar,purnia,872,1017,35
+July 2025,bihar,saharsa,569,627,42
+July 2025,bihar,samastipur,513,488,13
+July 2025,bihar,saran,607,1872,52
+July 2025,bihar,sitamarhi,3852,4519,746
+July 2025,bihar,siwan,192,414,12
+July 2025,chhattisgarh,bijapur,802,346,243
+July 2025,chhattisgarh,bilaspur,1156,309,11
+July 2025,chhattisgarh,durg,385,94,16
+July 2025,chhattisgarh,gaurela pendra marwahi,220,105,27
+July 2025,chhattisgarh,raigarh,1318,181,23
+July 2025,chhattisgarh,sukma,151,178,34
+July 2025,delhi,new delhi,581,354,156
+July 2025,delhi,shahdara,545,239,15
+July 2025,goa,north goa,21,10,11
+July 2025,gujarat,ahmedabad,3111,1979,216
+July 2025,gujarat,amreli,558,151,60
+July 2025,gujarat,anand,802,192,115
+July 2025,gujarat,arvalli,476,103,22
+July 2025,gujarat,banas kantha,3990,4787,451
+July 2025,gujarat,bhavnagar,1614,403,127
+July 2025,gujarat,botad,800,246,44
+July 2025,gujarat,chhotaudepur,815,816,231
+July 2025,gujarat,dangs,309,107,92
+July 2025,gujarat,devbhumi dwarka,359,163,55
+July 2025,gujarat,gandhinagar,322,96,129
+July 2025,gujarat,gir somnath,1000,287,57
+July 2025,gujarat,jamnagar,764,195,55
+July 2025,gujarat,kachchh,870,944,115
+July 2025,gujarat,kheda,444,200,38
+July 2025,gujarat,mahesana,821,269,67
+July 2025,gujarat,mahisagar,369,162,33
+July 2025,gujarat,morbi,1789,825,215
+July 2025,gujarat,navsari,191,47,19
+July 2025,gujarat,panch mahals,789,434,100
+July 2025,gujarat,patan,1741,1178,232
+July 2025,gujarat,porbandar,450,89,56
+July 2025,gujarat,rajkot,2567,1437,200
+July 2025,gujarat,sabar kantha,951,1169,157
+July 2025,gujarat,surat,2694,1581,81
+July 2025,gujarat,surendranagar,658,574,78
+July 2025,gujarat,vadodara,507,217,60
+July 2025,gujarat,valsad,581,261,30
+July 2025,haryana,faridabad,2678,733,54
+July 2025,haryana,gurugram,1252,399,113
+July 2025,haryana,panipat,1344,169,10
+July 2025,himachal pradesh,kullu,57,24,33
+July 2025,jammu and kashmir,doda,261,260,17
+July 2025,jammu and kashmir,shopian,308,84,20
+July 2025,jharkhand,chatra,330,161,10
+July 2025,jharkhand,dhanbad,782,722,34
+July 2025,jharkhand,dumka,61,117,10
+July 2025,jharkhand,east singhbum,1028,646,66
+July 2025,jharkhand,giridih,871,921,27
+July 2025,jharkhand,gumla,383,286,23
+July 2025,jharkhand,khunti,146,196,14
+July 2025,jharkhand,pakur,994,1023,11
+July 2025,jharkhand,ranchi,792,682,121
+July 2025,jharkhand,west singhbhum,320,440,16
+July 2025,karnataka,bengaluru rural,927,417,310
+July 2025,karnataka,bengaluru urban,6740,3752,1727
+July 2025,karnataka,bidar,107,52,10
+July 2025,karnataka,mysuru,349,138,80
+July 2025,karnataka,vijayapura,363,77,10
+July 2025,kerala,ernakulam,87,111,26
+July 2025,kerala,kannur,17,38,15
+July 2025,kerala,thiruvananthapuram,54,67,59
+July 2025,madhya pradesh,alirajpur,498,884,93
+July 2025,madhya pradesh,ashoknagar,1157,915,71
+July 2025,madhya pradesh,balaghat,288,40,10
+July 2025,madhya pradesh,barwani,3561,3348,310
+July 2025,madhya pradesh,betul,713,212,43
+July 2025,madhya pradesh,bhind,2108,1743,204
+July 2025,madhya pradesh,bhopal,918,198,17
+July 2025,madhya pradesh,burhanpur,1706,1124,146
+July 2025,madhya pradesh,chhatarpur,1628,1844,114
+July 2025,madhya pradesh,datia,435,384,20
+July 2025,madhya pradesh,dewas,544,292,13
+July 2025,madhya pradesh,dhar,518,380,24
+July 2025,madhya pradesh,guna,637,423,12
+July 2025,madhya pradesh,gwalior,2413,1821,175
+July 2025,madhya pradesh,indore,3340,1547,107
+July 2025,madhya pradesh,jabalpur,361,87,14
+July 2025,madhya pradesh,jhabua,908,1760,93
+July 2025,madhya pradesh,katni,441,264,12
+July 2025,madhya pradesh,morena,3228,2669,176
+July 2025,madhya pradesh,panna,301,173,13
+July 2025,madhya pradesh,sagar,1201,320,51
+July 2025,madhya pradesh,satna,488,121,20
+July 2025,madhya pradesh,sehore,1151,496,26
+July 2025,madhya pradesh,sheopur,757,969,27
+July 2025,madhya pradesh,shivpuri,617,705,42
+July 2025,madhya pradesh,vidisha,1227,626,58
+July 2025,maharashtra,akola,390,205,42
+July 2025,maharashtra,amravati,523,148,13
+July 2025,maharashtra,beed,1472,739,72
+July 2025,maharashtra,buldhana,1103,276,83
+July 2025,maharashtra,chandrapur,306,86,11
+July 2025,maharashtra,dhule,1410,1107,127
+July 2025,maharashtra,hingoli,2245,649,112
+July 2025,maharashtra,jalgaon,1065,343,55
+July 2025,maharashtra,latur,566,225,28
+July 2025,maharashtra,mumbai,537,344,50
+July 2025,maharashtra,mumbai suburban,3187,2177,207
+July 2025,maharashtra,nagpur,904,225,37
+July 2025,maharashtra,nanded,1295,462,46
+July 2025,maharashtra,nandurbar,2031,994,75
+July 2025,maharashtra,nashik,2729,1775,111
+July 2025,maharashtra,palghar,584,607,26
+July 2025,maharashtra,pune,3645,1552,291
+July 2025,maharashtra,raigad,845,296,25
+July 2025,maharashtra,sangli,958,588,48
+July 2025,maharashtra,satara,327,116,16
+July 2025,maharashtra,solapur,355,172,34
+July 2025,maharashtra,thane,4036,3165,142
+July 2025,maharashtra,washim,378,68,11
+July 2025,maharashtra,yavatmal,858,405,39
+July 2025,manipur,churachandpur,348,1265,13
+July 2025,meghalaya,east garo hills,73,606,387
+July 2025,meghalaya,east jaintia hills,200,571,516
+July 2025,meghalaya,east khasi hills,756,3426,2404
+July 2025,meghalaya,north garo hills,22,97,125
+July 2025,meghalaya,ri bhoi,318,1160,946
+July 2025,meghalaya,south garo hills,44,206,236
+July 2025,meghalaya,south west garo hills,370,272,173
+July 2025,meghalaya,south west khasi hills,137,283,326
+July 2025,meghalaya,west garo hills,893,1870,1534
+July 2025,meghalaya,west jaintia hills,224,1089,883
+July 2025,meghalaya,west khasi hills,442,1998,1179
+July 2025,mizoram,champhai,95,57,20
+July 2025,mizoram,kolasib,44,21,20
+July 2025,mizoram,lawngtlai,240,59,31
+July 2025,mizoram,lunglei,83,32,20
+July 2025,nagaland,dimapur,246,456,82
+July 2025,nagaland,kiphire,46,233,26
+July 2025,nagaland,kohima,74,154,11
+July 2025,nagaland,longleng,47,284,20
+July 2025,nagaland,mokokchung,73,134,13
+July 2025,nagaland,mon,258,676,69
+July 2025,nagaland,peren,36,105,18
+July 2025,nagaland,tuensang,96,385,30
+July 2025,nagaland,wokha,40,191,17
+July 2025,nagaland,zunheboto,48,277,24
+July 2025,odisha,khordha,37,37,13
+July 2025,odisha,nabarangpur,327,103,12
+July 2025,punjab,amritsar,1293,400,24
+July 2025,punjab,gurdaspur,549,99,10
+July 2025,punjab,hoshiarpur,277,66,22
+July 2025,punjab,kapurthala,324,74,177
+July 2025,punjab,ludhiana,2012,1133,221
+July 2025,punjab,patiala,766,237,18
+July 2025,punjab,s a s nagar,300,89,34
+July 2025,punjab,tarn taran,341,34,11
+July 2025,rajasthan,ajmer,673,241,18
+July 2025,rajasthan,alwar,1837,879,41
+July 2025,rajasthan,baran,336,91,10
+July 2025,rajasthan,bharatpur,1219,758,21
+July 2025,rajasthan,bhilwara,477,332,22
+July 2025,rajasthan,bikaner,763,452,30
+July 2025,rajasthan,bundi,121,85,17
+July 2025,rajasthan,chittorgarh,835,701,40
+July 2025,rajasthan,churu,1072,1028,50
+July 2025,rajasthan,dholpur,467,247,13
+July 2025,rajasthan,hanumangarh,456,284,11
+July 2025,rajasthan,jaipur,2242,1110,86
+July 2025,rajasthan,jalore,296,181,13
+July 2025,rajasthan,jodhpur,1722,828,66
+July 2025,rajasthan,karauli,612,323,11
+July 2025,rajasthan,nagaur,870,660,21
+July 2025,rajasthan,sawai madhopur,593,307,10
+July 2025,rajasthan,sikar,461,178,11
+July 2025,rajasthan,sirohi,1174,1471,72
+July 2025,rajasthan,tonk,635,332,19
+July 2025,rajasthan,udaipur,511,323,21
+July 2025,tamil nadu,chengalpattu,138,62,26
+July 2025,tamil nadu,chennai,231,136,33
+July 2025,tamil nadu,thiruvallur,261,75,10
+July 2025,telangana,bhadradri kothagudem,507,109,23
+July 2025,telangana,hyderabad,5199,1820,233
+July 2025,telangana,medchal malkajgiri,250,146,10
+July 2025,telangana,ranga reddy,181,93,10
+July 2025,tripura,gomati,69,45,10
+July 2025,tripura,north tripura,124,75,17
+July 2025,tripura,sepahijala,166,144,15
+July 2025,uttar pradesh,agra,2371,2123,75
+July 2025,uttar pradesh,aligarh,3024,3256,128
+July 2025,uttar pradesh,ayodhya,262,324,17
+July 2025,uttar pradesh,azamgarh,1034,2456,77
+July 2025,uttar pradesh,baghpat,118,280,15
+July 2025,uttar pradesh,bahraich,3919,6096,532
+July 2025,uttar pradesh,balrampur,500,1822,58
+July 2025,uttar pradesh,banda,401,753,11
+July 2025,uttar pradesh,bareilly,1671,1356,45
+July 2025,uttar pradesh,budaun,1617,1656,53
+July 2025,uttar pradesh,bulandshahr,604,749,11
+July 2025,uttar pradesh,chandauli,609,949,47
+July 2025,uttar pradesh,deoria,130,240,11
+July 2025,uttar pradesh,etah,2059,1625,48
+July 2025,uttar pradesh,etawah,551,456,16
+July 2025,uttar pradesh,fatehpur,1271,1283,86
+July 2025,uttar pradesh,firozabad,1940,1040,10
+July 2025,uttar pradesh,gautam buddha nagar,1392,1633,150
+July 2025,uttar pradesh,ghaziabad,1776,1881,59
+July 2025,uttar pradesh,gonda,1120,1506,96
+July 2025,uttar pradesh,gorakhpur,1187,2262,130
+July 2025,uttar pradesh,hapur,1010,770,11
+July 2025,uttar pradesh,hardoi,4089,4330,75
+July 2025,uttar pradesh,jaunpur,262,766,38
+July 2025,uttar pradesh,jhansi,78,76,13
+July 2025,uttar pradesh,kannauj,425,628,29
+July 2025,uttar pradesh,kanpur dehat,803,1060,48
+July 2025,uttar pradesh,kanpur nagar,1289,1946,85
+July 2025,uttar pradesh,kasganj,1047,1168,33
+July 2025,uttar pradesh,kaushambi,583,509,21
+July 2025,uttar pradesh,kheri,2068,2463,98
+July 2025,uttar pradesh,kushinagar,779,777,14
+July 2025,uttar pradesh,lucknow,1340,1322,88
+July 2025,uttar pradesh,mahrajganj,1186,2920,103
+July 2025,uttar pradesh,mainpuri,958,1349,56
+July 2025,uttar pradesh,mathura,133,151,10
+July 2025,uttar pradesh,meerut,2293,1831,60
+July 2025,uttar pradesh,moradabad,2722,1295,34
+July 2025,uttar pradesh,muzaffarnagar,1025,604,32
+July 2025,uttar pradesh,pilibhit,1622,1108,36
+July 2025,uttar pradesh,prayagraj,503,540,23
+July 2025,uttar pradesh,rampur,3375,2652,127
+July 2025,uttar pradesh,saharanpur,2054,852,14
+July 2025,uttar pradesh,sambhal,339,200,11
+July 2025,uttar pradesh,shahjahanpur,4039,3765,121
+July 2025,uttar pradesh,shrawasti,541,1006,49
+July 2025,uttar pradesh,sitapur,4236,3712,168
+July 2025,uttar pradesh,sultanpur,471,652,41
+July 2025,uttar pradesh,unnao,1408,1887,49
+July 2025,uttar pradesh,varanasi,2392,3993,268
+July 2025,uttarakhand,dehradun,1298,323,10
+July 2025,uttarakhand,haridwar,565,156,11
+July 2025,west bengal,alipurduar,646,840,145
+July 2025,west bengal,birbhum,575,159,35
+July 2025,west bengal,dakshin dinajpur,707,256,34
+July 2025,west bengal,darjeeling,607,694,184
+July 2025,west bengal,hooghly,177,111,12
+July 2025,west bengal,howrah,149,200,12
+July 2025,west bengal,jalpaiguri,234,344,65
+July 2025,west bengal,kalimpong,78,77,34
+July 2025,west bengal,kolkata,277,407,131
+July 2025,west bengal,nadia,1312,556,187
+July 2025,west bengal,north parganas,2637,2059,401
+July 2025,west bengal,south parganas,364,104,22
+July 2025,west bengal,uttar dinajpur,5157,3588,189
+September 2025,andaman and nicobar islands,nicobars,41,6,0
+September 2025,andaman and nicobar islands,north and middle andaman,38,2,0
+September 2025,andaman and nicobar islands,south andamans,54,4,0
+September 2025,andhra pradesh,alluri sitharama raju,332,47,8
+September 2025,andhra pradesh,anakapalli,146,4,0
+September 2025,andhra pradesh,ananthapuramu,1438,102,4
+September 2025,andhra pradesh,annamayya,244,14,48
+September 2025,andhra pradesh,bapatla,113,18,3
+September 2025,andhra pradesh,chittoor,2315,246,12
+September 2025,andhra pradesh,dr b r ambedkar konaseema,199,12,9
+September 2025,andhra pradesh,east godavari,2291,209,3
+September 2025,andhra pradesh,eluru,165,16,1
+September 2025,andhra pradesh,guntur,2402,337,9
+September 2025,andhra pradesh,kakinada,238,24,9
+September 2025,andhra pradesh,krishna,1995,207,7
+September 2025,andhra pradesh,kurnool,3164,308,9
+September 2025,andhra pradesh,nandyal,221,6,3
+September 2025,andhra pradesh,palnadu,239,34,11
+September 2025,andhra pradesh,parvathipuram manyam,162,11,4
+September 2025,andhra pradesh,prakasam,2197,479,13
+September 2025,andhra pradesh,sri potti sriramulu nellore,251,224,83
+September 2025,andhra pradesh,sri sathya sai,240,14,9
+September 2025,andhra pradesh,srikakulam,1339,53,5
+September 2025,andhra pradesh,tirupati,223,310,84
+September 2025,andhra pradesh,visakhapatnam,2358,185,8
+September 2025,andhra pradesh,vizianagaram,1220,72,2
+September 2025,andhra pradesh,west godavari,1871,128,6
+September 2025,arunachal pradesh,anjaw,16,5,0
+September 2025,arunachal pradesh,changlang,288,136,5
+September 2025,arunachal pradesh,dibang valley,2,2,0
+September 2025,arunachal pradesh,east kameng,47,29,0
+September 2025,arunachal pradesh,east siang,29,27,0
+September 2025,arunachal pradesh,kamle,2,18,0
+September 2025,arunachal pradesh,kra daadi,7,27,0
+September 2025,arunachal pradesh,kurung kumey,7,19,0
+September 2025,arunachal pradesh,leparada,0,1,0
+September 2025,arunachal pradesh,lohit,30,18,0
+September 2025,arunachal pradesh,longding,61,269,0
+September 2025,arunachal pradesh,lower dibang valley,24,19,0
+September 2025,arunachal pradesh,lower siang,6,6,0
+September 2025,arunachal pradesh,lower subansiri,19,25,0
+September 2025,arunachal pradesh,namsai,32,29,0
+September 2025,arunachal pradesh,pakke kessang,1,1,0
+September 2025,arunachal pradesh,papum pare,72,87,0
+September 2025,arunachal pradesh,shi yomi,5,0,0
+September 2025,arunachal pradesh,siang,31,43,0
+September 2025,arunachal pradesh,tawang,56,14,0
+September 2025,arunachal pradesh,tirap,16,10,0
+September 2025,arunachal pradesh,upper siang,10,5,0
+September 2025,arunachal pradesh,upper subansiri,34,22,0
+September 2025,arunachal pradesh,west kameng,46,35,1
+September 2025,arunachal pradesh,west siang,45,35,0
+September 2025,assam,bajali,7,5,0
+September 2025,assam,baksa,493,215,1
+September 2025,assam,barpeta,2848,843,11
+September 2025,assam,biswanath,215,120,2
+September 2025,assam,bongaigaon,734,161,6
+September 2025,assam,cachar,2579,871,13
+September 2025,assam,charaideo,202,97,0
+September 2025,assam,chirang,335,175,1
+September 2025,assam,darrang,1221,556,7
+September 2025,assam,dhemaji,566,274,66
+September 2025,assam,dhubri,2776,1048,5
+September 2025,assam,dibrugarh,652,306,52
+September 2025,assam,dima hasao,1,10,2
+September 2025,assam,goalpara,1671,448,29
+September 2025,assam,golaghat,907,457,64
+September 2025,assam,hailakandi,1295,468,1
+September 2025,assam,hojai,1102,352,0
+September 2025,assam,jorhat,597,229,2
+September 2025,assam,kamrup,1802,686,12
+September 2025,assam,kamrup metro,597,602,5
+September 2025,assam,karbi anglong,814,537,240
+September 2025,assam,kokrajhar,494,237,35
+September 2025,assam,lakhimpur,1317,448,8
+September 2025,assam,majuli,101,64,0
+September 2025,assam,marigaon,1645,502,58
+September 2025,assam,nagaon,3157,1088,1
+September 2025,assam,nalbari,962,394,10
+September 2025,assam,sonitpur,1544,712,2
+September 2025,assam,south salmara mancachar,364,114,2
+September 2025,assam,sribhumi,32,14,0
+September 2025,assam,tinsukia,690,445,9
+September 2025,assam,udalguri,616,260,4
+September 2025,assam,west karbi anglong,36,57,86
+September 2025,bihar,araria,2770,1398,17
+September 2025,bihar,arwal,215,866,0
+September 2025,bihar,aurangabad,907,2249,8
+September 2025,bihar,banka,1531,1263,2
+September 2025,bihar,begusarai,2338,1516,9
+September 2025,bihar,bhagalpur,1902,2031,9
+September 2025,bihar,bhojpur,835,2653,15
+September 2025,bihar,buxar,856,1621,7
+September 2025,bihar,darbhanga,3286,1960,10
+September 2025,bihar,gaya,1467,4143,42
+September 2025,bihar,gopalganj,1132,1917,7
+September 2025,bihar,jamui,1014,1266,21
+September 2025,bihar,jehanabad,235,1054,9
+September 2025,bihar,kaimur bhabua,778,1343,4
+September 2025,bihar,katihar,3631,1724,6
+September 2025,bihar,khagaria,1480,1497,30
+September 2025,bihar,kishanganj,2368,664,3
+September 2025,bihar,lakhisarai,523,622,6
+September 2025,bihar,madhepura,1368,1485,15
+September 2025,bihar,madhubani,2590,2425,86
+September 2025,bihar,munger,640,964,11
+September 2025,bihar,muzaffarpur,2712,2717,15
+September 2025,bihar,nalanda,912,2759,16
+September 2025,bihar,nawada,724,3664,68
+September 2025,bihar,pashchim champaran,21,12,0
+September 2025,bihar,patna,1692,4715,18
+September 2025,bihar,purbi champaran,16,30,0
+September 2025,bihar,purnia,3333,2028,14
+September 2025,bihar,rohtas,847,1800,11
+September 2025,bihar,saharsa,1673,1812,39
+September 2025,bihar,samastipur,3163,2335,31
+September 2025,bihar,saran,1970,4355,44
+September 2025,bihar,sheikhpura,466,768,4
+September 2025,bihar,sheohar,498,334,4
+September 2025,bihar,sitamarhi,2426,2048,127
+September 2025,bihar,siwan,1652,2631,14
+September 2025,bihar,supaul,1425,1155,54
+September 2025,bihar,vaishali,2562,3417,5
+September 2025,chandigarh,chandigarh,775,79,1
+September 2025,chhattisgarh,balod,507,25,1
+September 2025,chhattisgarh,bastar,1151,366,5
+September 2025,chhattisgarh,bemetara,654,88,2
+September 2025,chhattisgarh,bijapur,377,237,196
+September 2025,chhattisgarh,bilaspur,2203,375,0
+September 2025,chhattisgarh,dakshin bastar dantewada,101,34,2
+September 2025,chhattisgarh,dhamtari,614,26,2
+September 2025,chhattisgarh,durg,946,162,12
+September 2025,chhattisgarh,gariyaband,446,75,2
+September 2025,chhattisgarh,gaurela pendra marwahi,41,8,0
+September 2025,chhattisgarh,janjgir champa,1385,241,1
+September 2025,chhattisgarh,jashpur,551,126,0
+September 2025,chhattisgarh,kabeerdham,276,25,0
+September 2025,chhattisgarh,khairagarh chhuikhadan gandai,45,15,0
+September 2025,chhattisgarh,kondagaon,612,267,1
+September 2025,chhattisgarh,korba,1088,159,3
+September 2025,chhattisgarh,mahasamund,998,194,2
+September 2025,chhattisgarh,manendragarh chirmiri bharatpur m c b,58,35,0
+September 2025,chhattisgarh,mohla manpur ambagarh chouki,50,35,2
+September 2025,chhattisgarh,mungeli,801,112,1
+September 2025,chhattisgarh,narayanpur,140,102,0
+September 2025,chhattisgarh,raigarh,1282,166,3
+September 2025,chhattisgarh,raipur,1877,209,0
+September 2025,chhattisgarh,rajnandgaon,1061,132,1
+September 2025,chhattisgarh,sakti,135,40,2
+September 2025,chhattisgarh,sarangarh bilaigarh,22,4,3
+September 2025,chhattisgarh,sukma,146,150,11
+September 2025,chhattisgarh,surajpur,823,177,2
+September 2025,chhattisgarh,surguja,1128,225,0
+September 2025,chhattisgarh,uttar bastar kanker,207,46,0
+September 2025,delhi,new delhi,40,16,4
+September 2025,delhi,north east,454,163,2
+September 2025,delhi,shahdara,121,55,8
+September 2025,goa,north goa,410,64,40
+September 2025,goa,south goa,282,41,34
+September 2025,gujarat,ahmedabad,4177,2148,72
+September 2025,gujarat,amreli,893,226,35
+September 2025,gujarat,anand,1545,249,29
+September 2025,gujarat,arvalli,490,98,4
+September 2025,gujarat,banas kantha,2591,2168,91
+September 2025,gujarat,bharuch,1178,121,8
+September 2025,gujarat,bhavnagar,2316,430,89
+September 2025,gujarat,botad,370,78,8
+September 2025,gujarat,chhotaudepur,278,128,18
+September 2025,gujarat,dahod,1358,1182,36
+September 2025,gujarat,devbhumi dwarka,477,98,17
+September 2025,gujarat,gandhinagar,941,184,46
+September 2025,gujarat,gir somnath,675,184,22
+September 2025,gujarat,jamnagar,1253,242,25
+September 2025,gujarat,junagadh,1725,246,18
+September 2025,gujarat,kachchh,1221,530,45
+September 2025,gujarat,kheda,1620,502,73
+September 2025,gujarat,mahesana,1232,255,23
+September 2025,gujarat,mahisagar,547,83,19
+September 2025,gujarat,morbi,638,141,49
+September 2025,gujarat,narmada,470,35,1
+September 2025,gujarat,navsari,736,59,6
+September 2025,gujarat,panch mahals,28,4,0
+September 2025,gujarat,patan,1184,396,71
+September 2025,gujarat,porbandar,404,73,20
+September 2025,gujarat,rajkot,2225,651,50
+September 2025,gujarat,sabar kantha,45,14,0
+September 2025,gujarat,surat,3848,1392,39
+September 2025,gujarat,surendranagar,42,6,0
+September 2025,gujarat,tapi,918,116,7
+September 2025,gujarat,vadodara,2210,744,82
+September 2025,gujarat,valsad,1455,373,13
+September 2025,haryana,ambala,699,40,1
+September 2025,haryana,bhiwani,937,55,2
+September 2025,haryana,charkhi dadri,253,2,0
+September 2025,haryana,faridabad,1712,486,34
+September 2025,haryana,fatehabad,572,35,5
+September 2025,haryana,hisar,1327,84,2
+September 2025,haryana,jhajjar,804,37,2
+September 2025,haryana,jind,1245,29,0
+September 2025,haryana,kaithal,790,20,0
+September 2025,haryana,karnal,1285,66,1
+September 2025,haryana,kurukshetra,639,23,0
+September 2025,haryana,mahendragarh,783,56,1
+September 2025,haryana,palwal,1117,125,2
+September 2025,haryana,panchkula,308,31,0
+September 2025,haryana,panipat,1076,108,6
+September 2025,haryana,rewari,630,62,2
+September 2025,haryana,rohtak,829,47,1
+September 2025,haryana,sirsa,811,66,0
+September 2025,haryana,sonipat,1190,74,6
+September 2025,haryana,yamunanagar,16,0,0
+September 2025,himachal pradesh,bilaspur,254,3,0
+September 2025,himachal pradesh,chamba,360,23,1
+September 2025,himachal pradesh,hamirpur,271,4,0
+September 2025,himachal pradesh,kangra,1190,35,6
+September 2025,himachal pradesh,kinnaur,38,13,0
+September 2025,himachal pradesh,kullu,178,20,11
+September 2025,himachal pradesh,lahaul and spiti,10,1,0
+September 2025,himachal pradesh,mandi,669,17,3
+September 2025,himachal pradesh,shimla,374,69,1
+September 2025,himachal pradesh,sirmaur,480,30,2
+September 2025,himachal pradesh,solan,303,29,0
+September 2025,himachal pradesh,una,336,9,0
+September 2025,jammu and kashmir,anantnag,860,103,1
+September 2025,jammu and kashmir,bandipora,366,101,2
+September 2025,jammu and kashmir,baramulla,768,162,3
+September 2025,jammu and kashmir,budgam,218,16,0
+September 2025,jammu and kashmir,doda,270,145,0
+September 2025,jammu and kashmir,ganderbal,246,27,0
+September 2025,jammu and kashmir,jammu,1158,309,10
+September 2025,jammu and kashmir,kathua,473,91,0
+September 2025,jammu and kashmir,kishtwar,181,45,1
+September 2025,jammu and kashmir,kulgam,245,62,0
+September 2025,jammu and kashmir,kupwara,671,160,0
+September 2025,jammu and kashmir,pulwama,457,40,0
+September 2025,jammu and kashmir,rajouri,513,166,0
+September 2025,jammu and kashmir,ramban,204,132,0
+September 2025,jammu and kashmir,reasi,242,113,0
+September 2025,jammu and kashmir,samba,150,12,0
+September 2025,jammu and kashmir,srinagar,1011,82,1
+September 2025,jammu and kashmir,udhampur,494,95,4
+September 2025,jharkhand,bokaro,1061,845,4
+September 2025,jharkhand,chatra,954,760,3
+September 2025,jharkhand,deoghar,1050,993,16
+September 2025,jharkhand,dhanbad,1983,1346,11
+September 2025,jharkhand,dumka,827,963,8
+September 2025,jharkhand,east singhbum,1572,808,10
+September 2025,jharkhand,garhwa,1518,593,0
+September 2025,jharkhand,giridih,2033,1714,21
+September 2025,jharkhand,godda,995,765,1
+September 2025,jharkhand,gumla,1281,927,2
+September 2025,jharkhand,hazaribagh,1354,784,0
+September 2025,jharkhand,jamtara,1140,424,1
+September 2025,jharkhand,khunti,376,320,9
+September 2025,jharkhand,koderma,826,449,0
+September 2025,jharkhand,latehar,600,384,1
+September 2025,jharkhand,lohardaga,388,277,1
+September 2025,jharkhand,pakur,1110,729,5
+September 2025,jharkhand,palamu,2011,665,18
+September 2025,jharkhand,ramgarh,581,392,4
+September 2025,jharkhand,ranchi,1954,1079,8
+September 2025,jharkhand,sahebganj,1030,961,9
+September 2025,jharkhand,saraikela kharsawan,820,436,3
+September 2025,jharkhand,simdega,622,288,0
+September 2025,jharkhand,west singhbhum,1122,579,12
+September 2025,karnataka,bagalkote,2132,392,34
+September 2025,karnataka,ballari,893,114,24
+September 2025,karnataka,belagavi,2418,254,25
+September 2025,karnataka,bengaluru rural,0,1,0
+September 2025,karnataka,bengaluru south,1,0,2
+September 2025,karnataka,bidar,1237,367,6
+September 2025,karnataka,chamarajanagar,770,111,8
+September 2025,karnataka,chikkaballapura,903,94,5
+September 2025,karnataka,chikkamagaluru,331,31,19
+September 2025,karnataka,chitradurga,1053,94,5
+September 2025,karnataka,dakshina kannada,1658,119,5
+September 2025,karnataka,davanagere,1477,121,9
+September 2025,karnataka,dharwad,1536,111,3
+September 2025,karnataka,gadag,1845,149,19
+September 2025,karnataka,hassan,994,45,0
+September 2025,karnataka,haveri,1263,119,22
+September 2025,karnataka,kalaburagi,1093,215,10
+September 2025,karnataka,kodagu,262,20,12
+September 2025,karnataka,kolar,1129,103,7
+September 2025,karnataka,koppal,1395,278,11
+September 2025,karnataka,mandya,832,45,1
+September 2025,karnataka,mysuru,871,132,77
+September 2025,karnataka,raichur,2095,730,28
+September 2025,karnataka,shivamogga,636,75,0
+September 2025,karnataka,tumakuru,1609,105,24
+September 2025,karnataka,udupi,1413,61,9
+September 2025,karnataka,uttara kannada,906,67,4
+September 2025,karnataka,vijayanagara,662,106,22
+September 2025,karnataka,vijayapura,1785,364,29
+September 2025,karnataka,yadgir,1604,500,11
+September 2025,kerala,alappuzha,713,275,5
+September 2025,kerala,ernakulam,1092,559,17
+September 2025,kerala,idukki,415,94,1
+September 2025,kerala,kannur,1039,553,33
+September 2025,kerala,kasaragod,726,252,0
+September 2025,kerala,kollam,1069,322,24
+September 2025,kerala,kottayam,690,221,4
+September 2025,kerala,kozhikode,1208,606,11
+September 2025,kerala,malappuram,2367,1187,31
+September 2025,kerala,palakkad,1208,433,3
+September 2025,kerala,pathanamthitta,413,142,14
+September 2025,kerala,thiruvananthapuram,1239,404,14
+September 2025,kerala,thrissur,1184,538,19
+September 2025,kerala,wayanad,296,75,3
+September 2025,ladakh,kargil,101,44,0
+September 2025,madhya pradesh,agar malwa,392,186,5
+September 2025,madhya pradesh,alirajpur,481,729,15
+September 2025,madhya pradesh,anuppur,542,117,0
+September 2025,madhya pradesh,ashoknagar,1537,604,7
+September 2025,madhya pradesh,balaghat,1901,205,1
+September 2025,madhya pradesh,barwani,2115,1441,92
+September 2025,madhya pradesh,betul,1815,413,18
+September 2025,madhya pradesh,bhind,1435,948,108
+September 2025,madhya pradesh,bhopal,3101,458,18
+September 2025,madhya pradesh,burhanpur,737,370,12
+September 2025,madhya pradesh,chhatarpur,2816,1375,24
+September 2025,madhya pradesh,chhindwara,2443,288,14
+September 2025,madhya pradesh,damoh,1802,399,3
+September 2025,madhya pradesh,datia,1388,721,7
+September 2025,madhya pradesh,dewas,1737,758,11
+September 2025,madhya pradesh,dhar,1993,1123,12
+September 2025,madhya pradesh,dindori,762,111,0
+September 2025,madhya pradesh,guna,2653,878,4
+September 2025,madhya pradesh,gwalior,2608,1077,30
+September 2025,madhya pradesh,harda,887,266,2
+September 2025,madhya pradesh,indore,3434,1158,139
+September 2025,madhya pradesh,jabalpur,3260,674,2
+September 2025,madhya pradesh,jhabua,1716,1543,18
+September 2025,madhya pradesh,katni,2223,670,7
+September 2025,madhya pradesh,maihar,118,8,4
+September 2025,madhya pradesh,mandla,1298,117,0
+September 2025,madhya pradesh,mandsaur,1547,323,3
+September 2025,madhya pradesh,mauganj,127,21,1
+September 2025,madhya pradesh,morena,2231,1311,66
+September 2025,madhya pradesh,narmadapuram,243,28,2
+September 2025,madhya pradesh,narsimhapur,386,100,0
+September 2025,madhya pradesh,neemuch,1093,355,2
+September 2025,madhya pradesh,niwari,29,5,0
+September 2025,madhya pradesh,pandhurna,14,1,1
+September 2025,madhya pradesh,panna,2714,916,17
+September 2025,madhya pradesh,raisen,2252,589,10
+September 2025,madhya pradesh,rajgarh,1685,679,4
+September 2025,madhya pradesh,ratlam,1847,637,6
+September 2025,madhya pradesh,rewa,3014,622,1
+September 2025,madhya pradesh,sagar,3017,658,12
+September 2025,madhya pradesh,satna,3932,765,5
+September 2025,madhya pradesh,sehore,993,312,4
+September 2025,madhya pradesh,seoni,2063,234,0
+September 2025,madhya pradesh,shahdol,1270,341,11
+September 2025,madhya pradesh,shajapur,1499,484,8
+September 2025,madhya pradesh,sheopur,676,718,50
+September 2025,madhya pradesh,shivpuri,2330,1770,17
+September 2025,madhya pradesh,sidhi,1652,298,4
+September 2025,madhya pradesh,singrauli,1673,318,7
+September 2025,madhya pradesh,tikamgarh,1706,683,3
+September 2025,madhya pradesh,ujjain,3626,695,6
+September 2025,madhya pradesh,umaria,1452,417,5
+September 2025,madhya pradesh,vidisha,2295,709,17
+September 2025,maharashtra,akola,1261,241,0
+September 2025,maharashtra,amravati,1841,431,19
+September 2025,maharashtra,beed,1545,741,25
+September 2025,maharashtra,bhandara,596,36,2
+September 2025,maharashtra,buldhana,2147,523,19
+September 2025,maharashtra,chandrapur,1204,113,26
+September 2025,maharashtra,chhatrapati sambhajinagar,148,171,3
+September 2025,maharashtra,dharashiv,28,14,0
+September 2025,maharashtra,dhule,2028,2152,26
+September 2025,maharashtra,gadchiroli,815,148,7
+September 2025,maharashtra,gondia,1050,60,2
+September 2025,maharashtra,hingoli,1010,352,31
+September 2025,maharashtra,jalgaon,3346,1387,25
+September 2025,maharashtra,jalna,1723,504,6
+September 2025,maharashtra,kolhapur,1989,470,5
+September 2025,maharashtra,latur,1719,695,30
+September 2025,maharashtra,mumbai,2758,1496,11
+September 2025,maharashtra,mumbai suburban,2283,848,26
+September 2025,maharashtra,nagpur,3027,501,33
+September 2025,maharashtra,nanded,2729,968,10
+September 2025,maharashtra,nandurbar,2086,873,64
+September 2025,maharashtra,nashik,4980,2054,32
+September 2025,maharashtra,palghar,1966,983,47
+September 2025,maharashtra,parbhani,1476,446,4
+September 2025,maharashtra,pune,5891,1905,81
+September 2025,maharashtra,raigad,496,139,9
+September 2025,maharashtra,ratnagiri,665,102,3
+September 2025,maharashtra,sangli,1434,658,21
+September 2025,maharashtra,satara,1074,221,26
+September 2025,maharashtra,sindhudurg,344,21,1
+September 2025,maharashtra,solapur,2315,1054,20
+September 2025,maharashtra,thane,5713,3003,64
+September 2025,maharashtra,wardha,679,41,1
+September 2025,maharashtra,washim,700,115,11
+September 2025,maharashtra,yavatmal,1749,440,16
+September 2025,manipur,bishnupur,136,178,8
+September 2025,manipur,chandel,109,244,2
+September 2025,manipur,churachandpur,238,400,12
+September 2025,manipur,imphal east,151,154,1
+September 2025,manipur,imphal west,146,152,3
+September 2025,manipur,jiribam,19,24,0
+September 2025,manipur,kakching,12,25,1
+September 2025,manipur,pherzawl,1,6,0
+September 2025,manipur,senapati,252,292,1
+September 2025,manipur,tamenglong,81,200,2
+September 2025,manipur,thoubal,125,169,1
+September 2025,manipur,ukhrul,91,148,1
+September 2025,meghalaya,east garo hills,136,464,185
+September 2025,meghalaya,east jaintia hills,64,173,171
+September 2025,meghalaya,east khasi hills,406,1031,885
+September 2025,meghalaya,eastern west khasi hills,1,102,2
+September 2025,meghalaya,north garo hills,107,332,37
+September 2025,meghalaya,ri bhoi,167,376,261
+September 2025,meghalaya,south garo hills,81,486,166
+September 2025,meghalaya,south west garo hills,223,176,104
+September 2025,meghalaya,south west khasi hills,55,86,109
+September 2025,meghalaya,west garo hills,439,527,168
+September 2025,meghalaya,west jaintia hills,200,498,295
+September 2025,meghalaya,west khasi hills,207,496,323
+September 2025,mizoram,aizawl,262,92,11
+September 2025,mizoram,champhai,117,38,0
+September 2025,mizoram,hnahthial,1,0,0
+September 2025,mizoram,khawzawl,3,4,0
+September 2025,mizoram,kolasib,53,13,8
+September 2025,mizoram,lawngtlai,144,97,13
+September 2025,mizoram,lunglei,78,20,1
+September 2025,mizoram,mamit,62,12,0
+September 2025,mizoram,saitual,0,0,1
+September 2025,mizoram,serchhip,33,7,2
+September 2025,nagaland,chumoukedima,7,13,19
+September 2025,nagaland,dimapur,121,210,22
+September 2025,nagaland,kiphire,44,148,9
+September 2025,nagaland,kohima,140,231,13
+September 2025,nagaland,longleng,17,82,7
+September 2025,nagaland,meluri,1,2,1
+September 2025,nagaland,mokokchung,31,88,13
+September 2025,nagaland,mon,130,225,30
+September 2025,nagaland,niuland,5,10,1
+September 2025,nagaland,noklak,4,18,5
+September 2025,nagaland,peren,47,90,12
+September 2025,nagaland,phek,50,174,8
+September 2025,nagaland,shamator,2,145,9
+September 2025,nagaland,tseminyu,2,4,3
+September 2025,nagaland,tuensang,73,138,8
+September 2025,nagaland,wokha,44,145,7
+September 2025,nagaland,zunheboto,27,88,11
+September 2025,odisha,angul,1253,212,2
+September 2025,odisha,balangir,1767,381,1
+September 2025,odisha,bargarh,1861,358,0
+September 2025,odisha,bhadrak,1490,540,0
+September 2025,odisha,boudh,556,92,0
+September 2025,odisha,cuttack,1654,454,4
+September 2025,odisha,dhenkanal,1027,255,0
+September 2025,odisha,gajapati,803,165,2
+September 2025,odisha,ganjam,2415,403,2
+September 2025,odisha,jagatsinghapur,913,152,0
+September 2025,odisha,jajpur,1446,440,3
+September 2025,odisha,jharsuguda,420,30,0
+September 2025,odisha,kalahandi,1559,488,8
+September 2025,odisha,kandhamal,1348,224,0
+September 2025,odisha,kendrapara,1189,352,1
+September 2025,odisha,khordha,1394,279,4
+September 2025,odisha,koraput,1692,594,0
+September 2025,odisha,malkangiri,1365,286,1
+September 2025,odisha,mayurbhanj,3027,877,4
+September 2025,odisha,nabarangpur,2043,981,2
+September 2025,odisha,nayagarh,849,119,1
+September 2025,odisha,nuapada,885,206,0
+September 2025,odisha,puri,1138,233,0
+September 2025,odisha,rayagada,1331,325,1
+September 2025,odisha,sambalpur,840,130,0
+September 2025,odisha,sonepur,624,112,0
+September 2025,odisha,sundargarh,1704,349,8
+September 2025,puducherry,karaikal,146,11,0
+September 2025,puducherry,puducherry,401,31,10
+September 2025,punjab,amritsar,1862,337,21
+September 2025,punjab,barnala,309,32,0
+September 2025,punjab,bathinda,952,123,2
+September 2025,punjab,faridkot,339,41,1
+September 2025,punjab,fatehgarh sahib,361,38,3
+September 2025,punjab,fazilka,756,123,3
+September 2025,punjab,ferozepur,555,46,1
+September 2025,punjab,gurdaspur,1298,152,3
+September 2025,punjab,hoshiarpur,902,67,3
+September 2025,punjab,jalandhar,1242,234,10
+September 2025,punjab,kapurthala,380,64,64
+September 2025,punjab,ludhiana,2521,597,40
+September 2025,punjab,malerkotla,262,56,0
+September 2025,punjab,mansa,394,49,2
+September 2025,punjab,moga,590,75,3
+September 2025,punjab,pathankot,339,23,0
+September 2025,punjab,patiala,1290,157,0
+September 2025,punjab,rupnagar,437,41,0
+September 2025,punjab,sangrur,837,87,0
+September 2025,punjab,shahid bhagat singh nagar,310,39,1
+September 2025,punjab,sri muktsar sahib,515,62,0
+September 2025,punjab,tarn taran,878,95,0
+September 2025,rajasthan,ajmer,3125,980,17
+September 2025,rajasthan,alwar,5235,2311,41
+September 2025,rajasthan,banswara,1902,1318,3
+September 2025,rajasthan,baran,1575,646,14
+September 2025,rajasthan,barmer,4413,2236,18
+September 2025,rajasthan,bharatpur,3996,2505,37
+September 2025,rajasthan,bhilwara,3141,1068,25
+September 2025,rajasthan,bikaner,2186,1865,32
+September 2025,rajasthan,bundi,1257,410,7
+September 2025,rajasthan,chittorgarh,1499,720,29
+September 2025,rajasthan,churu,2645,1315,12
+September 2025,rajasthan,dausa,1824,643,5
+September 2025,rajasthan,deeg,0,2,0
+September 2025,rajasthan,dholpur,2045,844,2
+September 2025,rajasthan,dungarpur,1620,1149,3
+September 2025,rajasthan,ganganagar,1464,551,9
+September 2025,rajasthan,hanumangarh,1368,384,7
+September 2025,rajasthan,jaipur,6530,2576,25
+September 2025,rajasthan,jaisalmer,751,500,8
+September 2025,rajasthan,jalore,3095,1889,8
+September 2025,rajasthan,jhalawar,2269,762,7
+September 2025,rajasthan,jhunjhunu,2548,804,16
+September 2025,rajasthan,jodhpur,4211,2111,119
+September 2025,rajasthan,karauli,2050,813,9
+September 2025,rajasthan,kota,2012,756,37
+September 2025,rajasthan,nagaur,4461,1747,19
+September 2025,rajasthan,pali,2731,1112,24
+September 2025,rajasthan,pratapgarh,1229,540,3
+September 2025,rajasthan,rajsamand,1293,590,2
+September 2025,rajasthan,sawai madhopur,1717,685,9
+September 2025,rajasthan,sikar,3566,1238,10
+September 2025,rajasthan,sirohi,1471,1084,7
+September 2025,rajasthan,tonk,1555,533,4
+September 2025,rajasthan,udaipur,3271,2205,8
+September 2025,sikkim,namchi,1,4,6
+September 2025,tamil nadu,ariyalur,657,97,0
+September 2025,tamil nadu,chengalpattu,272,57,16
+September 2025,tamil nadu,chennai,2418,711,27
+September 2025,tamil nadu,coimbatore,2466,566,12
+September 2025,tamil nadu,cuddalore,2753,364,0
+September 2025,tamil nadu,dharmapuri,1472,253,0
+September 2025,tamil nadu,dindigul,1809,526,2
+September 2025,tamil nadu,erode,1879,320,0
+September 2025,tamil nadu,kallakurichi,213,26,1
+September 2025,tamil nadu,kancheepuram,3306,1071,16
+September 2025,tamil nadu,kanniyakumari,1476,83,3
+September 2025,tamil nadu,karur,1309,248,1
+September 2025,tamil nadu,krishnagiri,1447,224,1
+September 2025,tamil nadu,madurai,3504,367,6
+September 2025,tamil nadu,mayiladuthurai,180,22,0
+September 2025,tamil nadu,nagapattinam,1256,261,0
+September 2025,tamil nadu,namakkal,1827,162,3
+September 2025,tamil nadu,perambalur,703,72,0
+September 2025,tamil nadu,pudukkottai,2009,574,1
+September 2025,tamil nadu,ramanathapuram,1095,163,0
+September 2025,tamil nadu,ranipet,30,6,0
+September 2025,tamil nadu,salem,2872,457,2
+September 2025,tamil nadu,sivaganga,1314,168,0
+September 2025,tamil nadu,tenkasi,380,43,0
+September 2025,tamil nadu,thanjavur,2152,517,3
+September 2025,tamil nadu,the nilgiris,469,114,1
+September 2025,tamil nadu,theni,1060,197,0
+September 2025,tamil nadu,thiruvallur,2980,785,9
+September 2025,tamil nadu,thiruvarur,1171,296,1
+September 2025,tamil nadu,thoothukkudi,1458,229,0
+September 2025,tamil nadu,tiruchirappalli,3430,491,1
+September 2025,tamil nadu,tirunelveli,2835,468,0
+September 2025,tamil nadu,tirupathur,305,20,0
+September 2025,tamil nadu,tiruppur,1849,350,0
+September 2025,tamil nadu,tiruvannamalai,2449,274,4
+September 2025,tamil nadu,vellore,2703,359,0
+September 2025,tamil nadu,viluppuram,3231,526,0
+September 2025,tamil nadu,virudhunagar,1692,198,1
+September 2025,telangana,adilabad,1022,189,0
+September 2025,telangana,bhadradri kothagudem,688,189,1
+September 2025,telangana,hanumakonda,333,34,0
+September 2025,telangana,hyderabad,3790,1074,78
+September 2025,telangana,jagitial,562,40,0
+September 2025,telangana,jangoan,384,63,0
+September 2025,telangana,jayashankar bhupalapally,238,60,0
+September 2025,telangana,jogulamba gadwal,547,79,0
+September 2025,telangana,kamareddy,680,65,0
+September 2025,telangana,karimnagar,1866,288,1
+September 2025,telangana,khammam,985,629,2
+September 2025,telangana,mahabubabad,457,83,1
+September 2025,telangana,mahabubnagar,3115,994,2
+September 2025,telangana,mancherial,329,69,1
+September 2025,telangana,medak,2228,558,1
+September 2025,telangana,medchal malkajgiri,1040,315,18
+September 2025,telangana,mulugu,261,88,0
+September 2025,telangana,nagarkurnool,467,111,0
+September 2025,telangana,nalgonda,2041,470,0
+September 2025,telangana,narayanpet,441,76,0
+September 2025,telangana,nirmal,531,41,0
+September 2025,telangana,nizamabad,2344,203,1
+September 2025,telangana,peddapalli,197,31,1
+September 2025,telangana,rajanna sircilla,262,21,0
+September 2025,telangana,ranga reddy,79,16,1
+September 2025,telangana,sangareddy,729,154,3
+September 2025,telangana,siddipet,596,49,0
+September 2025,telangana,suryapet,641,137,0
+September 2025,telangana,vikarabad,764,185,0
+September 2025,telangana,wanaparthy,443,120,0
+September 2025,telangana,warangal,923,202,0
+September 2025,tripura,dhalai,274,200,0
+September 2025,tripura,gomati,122,52,0
+September 2025,tripura,khowai,51,36,12
+September 2025,tripura,north tripura,319,125,4
+September 2025,tripura,sepahijala,255,132,0
+September 2025,tripura,south tripura,416,256,0
+September 2025,tripura,unakoti,119,56,1
+September 2025,tripura,west tripura,471,215,5
+September 2025,uttar pradesh,agra,3078,2629,57
+September 2025,uttar pradesh,aligarh,2267,2037,51
+September 2025,uttar pradesh,ambedkar nagar,1387,1778,13
+September 2025,uttar pradesh,amethi,1436,1468,8
+September 2025,uttar pradesh,amroha,1460,720,11
+September 2025,uttar pradesh,auraiya,840,649,3
+September 2025,uttar pradesh,ayodhya,298,111,0
+September 2025,uttar pradesh,azamgarh,1883,4129,16
+September 2025,uttar pradesh,baghpat,1096,1184,34
+September 2025,uttar pradesh,bahraich,2606,4385,381
+September 2025,uttar pradesh,ballia,1401,2137,4
+September 2025,uttar pradesh,balrampur,849,1598,13
+September 2025,uttar pradesh,banda,979,1472,10
+September 2025,uttar pradesh,bara banki,2168,1422,21
+September 2025,uttar pradesh,bareilly,3019,2296,43
+September 2025,uttar pradesh,basti,1486,1760,14
+September 2025,uttar pradesh,bhadohi,106,102,1
+September 2025,uttar pradesh,bijnor,3164,1300,2
+September 2025,uttar pradesh,budaun,2091,2180,104
+September 2025,uttar pradesh,bulandshahr,2731,2387,32
+September 2025,uttar pradesh,chandauli,1329,1488,22
+September 2025,uttar pradesh,chitrakoot,924,796,6
+September 2025,uttar pradesh,deoria,1694,1899,10
+September 2025,uttar pradesh,etah,956,686,10
+September 2025,uttar pradesh,etawah,1155,994,14
+September 2025,uttar pradesh,farrukhabad,843,1069,17
+September 2025,uttar pradesh,fatehpur,1641,1516,13
+September 2025,uttar pradesh,firozabad,1380,1269,21
+September 2025,uttar pradesh,gautam buddha nagar,1489,1627,54
+September 2025,uttar pradesh,ghaziabad,2979,2524,71
+September 2025,uttar pradesh,ghazipur,1772,3069,26
+September 2025,uttar pradesh,gonda,2144,2479,66
+September 2025,uttar pradesh,gorakhpur,1898,3260,27
+September 2025,uttar pradesh,hamirpur,777,584,10
+September 2025,uttar pradesh,hapur,904,553,5
+September 2025,uttar pradesh,hardoi,2670,2696,49
+September 2025,uttar pradesh,hathras,1017,796,16
+September 2025,uttar pradesh,jalaun,756,986,22
+September 2025,uttar pradesh,jaunpur,1516,3510,9
+September 2025,uttar pradesh,jhansi,1477,1050,10
+September 2025,uttar pradesh,kannauj,1040,1194,32
+September 2025,uttar pradesh,kanpur dehat,1028,1043,16
+September 2025,uttar pradesh,kanpur nagar,2581,3142,71
+September 2025,uttar pradesh,kasganj,654,653,49
+September 2025,uttar pradesh,kaushambi,1109,1033,4
+September 2025,uttar pradesh,kheri,2812,3982,110
+September 2025,uttar pradesh,kushinagar,1561,2352,6
+September 2025,uttar pradesh,lalitpur,1070,557,24
+September 2025,uttar pradesh,lucknow,3575,2913,11
+September 2025,uttar pradesh,mahoba,699,539,5
+September 2025,uttar pradesh,mahrajganj,1241,2559,35
+September 2025,uttar pradesh,mainpuri,1193,1907,17
+September 2025,uttar pradesh,mathura,1646,1798,10
+September 2025,uttar pradesh,mau,963,2152,14
+September 2025,uttar pradesh,meerut,2889,2090,20
+September 2025,uttar pradesh,mirzapur,1387,1782,1
+September 2025,uttar pradesh,moradabad,2568,1027,19
+September 2025,uttar pradesh,muzaffarnagar,1794,1196,3
+September 2025,uttar pradesh,pilibhit,1483,800,22
+September 2025,uttar pradesh,pratapgarh,2127,1927,11
+September 2025,uttar pradesh,prayagraj,326,249,8
+September 2025,uttar pradesh,rae bareli,1849,1499,16
+September 2025,uttar pradesh,rampur,1741,1247,27
+September 2025,uttar pradesh,saharanpur,2694,1165,6
+September 2025,uttar pradesh,sambhal,1571,1476,42
+September 2025,uttar pradesh,sant kabir nagar,758,1215,5
+September 2025,uttar pradesh,shahjahanpur,1948,1902,57
+September 2025,uttar pradesh,shamli,1407,833,6
+September 2025,uttar pradesh,shrawasti,524,1056,46
+September 2025,uttar pradesh,siddharthnagar,1326,2270,130
+September 2025,uttar pradesh,sitapur,3166,3284,102
+September 2025,uttar pradesh,sonbhadra,1322,963,5
+September 2025,uttar pradesh,sultanpur,1472,2058,15
+September 2025,uttar pradesh,unnao,1789,1863,74
+September 2025,uttar pradesh,varanasi,1948,3218,16
+September 2025,uttarakhand,almora,355,45,3
+September 2025,uttarakhand,bageshwar,219,22,0
+September 2025,uttarakhand,chamoli,336,35,2
+September 2025,uttarakhand,champawat,280,37,0
+September 2025,uttarakhand,dehradun,1918,301,2
+September 2025,uttarakhand,haridwar,1218,421,8
+September 2025,uttarakhand,nainital,886,139,4
+September 2025,uttarakhand,pauri garhwal,551,58,2
+September 2025,uttarakhand,pithoragarh,376,48,2
+September 2025,uttarakhand,rudraprayag,279,34,0
+September 2025,uttarakhand,tehri garhwal,745,122,2
+September 2025,uttarakhand,udham singh nagar,1834,397,2
+September 2025,uttarakhand,uttarkashi,208,44,2
+September 2025,west bengal,alipurduar,240,120,17
+September 2025,west bengal,bankura,2931,851,43
+September 2025,west bengal,birbhum,3927,580,8
+September 2025,west bengal,cooch behar,2203,997,44
+September 2025,west bengal,dakshin dinajpur,2345,452,39
+September 2025,west bengal,darjeeling,896,450,56
+September 2025,west bengal,hooghly,3980,1541,82
+September 2025,west bengal,howrah,3044,1157,33
+September 2025,west bengal,jalpaiguri,1783,1409,65
+September 2025,west bengal,jhargram,270,69,10
+September 2025,west bengal,kalimpong,34,28,22
+September 2025,west bengal,kolkata,1479,1289,100
+September 2025,west bengal,malda,4784,1655,19
+September 2025,west bengal,murshidabad,12270,1592,15
+September 2025,west bengal,nadia,4039,998,100
+September 2025,west bengal,north parganas,8255,2149,238
+September 2025,west bengal,paschim bardhaman,330,129,22
+September 2025,west bengal,paschim medinipur,5425,1590,28
+September 2025,west bengal,purba bardhaman,932,123,22
+September 2025,west bengal,purba medinipur,5084,514,17
+September 2025,west bengal,purulia,4189,1445,40
+September 2025,west bengal,south parganas,6981,2419,59
+September 2025,west bengal,uttar dinajpur,5458,2585,40
+October 2025,andaman and nicobar islands,nicobars,6,4,0
+October 2025,andaman and nicobar islands,north and middle andaman,20,1,0
+October 2025,andaman and nicobar islands,south andamans,26,3,0
+October 2025,andhra pradesh,alluri sitharama raju,265,26,4
+October 2025,andhra pradesh,anakapalli,86,4,0
+October 2025,andhra pradesh,ananthapuramu,1087,81,1
+October 2025,andhra pradesh,annamayya,164,15,6
+October 2025,andhra pradesh,bapatla,75,11,2
+October 2025,andhra pradesh,chittoor,1620,165,5
+October 2025,andhra pradesh,dr b r ambedkar konaseema,99,9,1
+October 2025,andhra pradesh,east godavari,1361,126,1
+October 2025,andhra pradesh,eluru,100,10,1
+October 2025,andhra pradesh,guntur,1514,219,1
+October 2025,andhra pradesh,kakinada,169,28,2
+October 2025,andhra pradesh,krishna,1127,140,3
+October 2025,andhra pradesh,kurnool,2561,212,2
+October 2025,andhra pradesh,nandyal,194,16,0
+October 2025,andhra pradesh,palnadu,148,17,1
+October 2025,andhra pradesh,parvathipuram manyam,103,14,2
+October 2025,andhra pradesh,prakasam,1290,217,2
+October 2025,andhra pradesh,sri potti sriramulu nellore,128,134,70
+October 2025,andhra pradesh,sri sathya sai,200,9,1
+October 2025,andhra pradesh,srikakulam,861,34,1
+October 2025,andhra pradesh,tirupati,130,83,20
+October 2025,andhra pradesh,visakhapatnam,1525,88,1
+October 2025,andhra pradesh,vizianagaram,739,40,0
+October 2025,andhra pradesh,west godavari,1015,91,6
+October 2025,arunachal pradesh,anjaw,1,2,0
+October 2025,arunachal pradesh,changlang,76,117,1
+October 2025,arunachal pradesh,dibang valley,3,1,0
+October 2025,arunachal pradesh,east kameng,18,21,0
+October 2025,arunachal pradesh,east siang,21,21,0
+October 2025,arunachal pradesh,kamle,0,1,0
+October 2025,arunachal pradesh,kra daadi,7,15,0
+October 2025,arunachal pradesh,kurung kumey,7,11,0
+October 2025,arunachal pradesh,lohit,18,23,0
+October 2025,arunachal pradesh,longding,12,59,0
+October 2025,arunachal pradesh,lower dibang valley,17,11,0
+October 2025,arunachal pradesh,lower siang,0,4,0
+October 2025,arunachal pradesh,lower subansiri,6,16,0
+October 2025,arunachal pradesh,namsai,20,15,1
+October 2025,arunachal pradesh,pakke kessang,1,0,0
+October 2025,arunachal pradesh,papum pare,56,66,0
+October 2025,arunachal pradesh,shi yomi,2,5,0
+October 2025,arunachal pradesh,siang,4,11,0
+October 2025,arunachal pradesh,tawang,20,10,2
+October 2025,arunachal pradesh,tirap,19,9,0
+October 2025,arunachal pradesh,upper siang,6,9,0
+October 2025,arunachal pradesh,upper subansiri,14,16,1
+October 2025,arunachal pradesh,west kameng,32,14,0
+October 2025,arunachal pradesh,west siang,27,16,0
+October 2025,assam,bajali,4,0,0
+October 2025,assam,baksa,408,128,90
+October 2025,assam,barpeta,1303,408,25
+October 2025,assam,biswanath,148,72,1
+October 2025,assam,bongaigaon,313,81,28
+October 2025,assam,cachar,1150,427,304
+October 2025,assam,charaideo,106,63,0
+October 2025,assam,chirang,145,83,1
+October 2025,assam,darrang,672,306,107
+October 2025,assam,dhemaji,267,140,257
+October 2025,assam,dhubri,1260,458,108
+October 2025,assam,dibrugarh,362,174,144
+October 2025,assam,dima hasao,0,7,2
+October 2025,assam,goalpara,750,224,22
+October 2025,assam,golaghat,297,223,216
+October 2025,assam,hailakandi,562,176,116
+October 2025,assam,hojai,539,196,1
+October 2025,assam,jorhat,493,136,119
+October 2025,assam,kamrup,1015,344,166
+October 2025,assam,kamrup metro,421,290,384
+October 2025,assam,karbi anglong,327,325,174
+October 2025,assam,kokrajhar,255,132,113
+October 2025,assam,lakhimpur,629,190,55
+October 2025,assam,majuli,32,20,0
+October 2025,assam,marigaon,666,231,52
+October 2025,assam,nagaon,1261,513,57
+October 2025,assam,nalbari,605,194,34
+October 2025,assam,sonitpur,1080,467,5
+October 2025,assam,south salmara mancachar,207,48,0
+October 2025,assam,sribhumi,20,5,1
+October 2025,assam,tinsukia,385,238,9
+October 2025,assam,udalguri,479,181,29
+October 2025,assam,west karbi anglong,12,40,46
+October 2025,bihar,araria,2809,1382,24
+October 2025,bihar,arwal,183,571,9
+October 2025,bihar,aurangabad,652,1616,21
+October 2025,bihar,banka,1330,870,20
+October 2025,bihar,begusarai,1526,969,23
+October 2025,bihar,bhagalpur,1281,1106,61
+October 2025,bihar,bhojpur,657,2244,22
+October 2025,bihar,buxar,561,1141,29
+October 2025,bihar,darbhanga,2224,1266,32
+October 2025,bihar,gaya,996,3134,104
+October 2025,bihar,gopalganj,764,1426,31
+October 2025,bihar,jamui,905,946,50
+October 2025,bihar,jehanabad,195,829,49
+October 2025,bihar,kaimur bhabua,465,606,14
+October 2025,bihar,katihar,2521,916,23
+October 2025,bihar,khagaria,817,729,12
+October 2025,bihar,kishanganj,2017,536,6
+October 2025,bihar,lakhisarai,247,285,17
+October 2025,bihar,madhepura,981,1028,10
+October 2025,bihar,madhubani,2477,2035,125
+October 2025,bihar,munger,377,470,21
+October 2025,bihar,muzaffarpur,1648,1596,111
+October 2025,bihar,nalanda,619,1894,26
+October 2025,bihar,nawada,489,2508,64
+October 2025,bihar,pashchim champaran,4,6,0
+October 2025,bihar,patna,921,2146,159
+October 2025,bihar,purbi champaran,14,14,0
+October 2025,bihar,purnia,3070,1471,24
+October 2025,bihar,rohtas,474,962,44
+October 2025,bihar,saharsa,1087,1193,34
+October 2025,bihar,samastipur,2273,1438,42
+October 2025,bihar,saran,1566,3234,32
+October 2025,bihar,sheikhpura,260,506,5
+October 2025,bihar,sheohar,470,230,1
+October 2025,bihar,sitamarhi,1814,1317,62
+October 2025,bihar,siwan,1327,1856,42
+October 2025,bihar,supaul,1698,1275,46
+October 2025,bihar,vaishali,1964,2249,20
+October 2025,chandigarh,chandigarh,429,44,0
+October 2025,chhattisgarh,balod,324,15,0
+October 2025,chhattisgarh,bastar,595,309,1
+October 2025,chhattisgarh,bemetara,460,63,3
+October 2025,chhattisgarh,bijapur,242,176,74
+October 2025,chhattisgarh,bilaspur,1429,269,2
+October 2025,chhattisgarh,dakshin bastar dantewada,69,32,17
+October 2025,chhattisgarh,dhamtari,350,17,0
+October 2025,chhattisgarh,durg,355,50,1
+October 2025,chhattisgarh,gariyaband,244,38,2
+October 2025,chhattisgarh,gaurela pendra marwahi,28,8,2
+October 2025,chhattisgarh,janjgir champa,833,117,0
+October 2025,chhattisgarh,jashpur,295,134,0
+October 2025,chhattisgarh,kabeerdham,183,15,0
+October 2025,chhattisgarh,khairagarh chhuikhadan gandai,33,9,0
+October 2025,chhattisgarh,kondagaon,403,210,1
+October 2025,chhattisgarh,korba,726,155,5
+October 2025,chhattisgarh,mahasamund,577,138,5
+October 2025,chhattisgarh,manendragarh chirmiri bharatpur m c b,51,15,0
+October 2025,chhattisgarh,mohla manpur ambagarh chouki,36,17,0
+October 2025,chhattisgarh,mungeli,590,95,0
+October 2025,chhattisgarh,narayanpur,79,54,0
+October 2025,chhattisgarh,raigarh,547,82,4
+October 2025,chhattisgarh,raipur,1071,168,0
+October 2025,chhattisgarh,rajnandgaon,699,39,0
+October 2025,chhattisgarh,sakti,63,13,0
+October 2025,chhattisgarh,sarangarh bilaigarh,29,3,0
+October 2025,chhattisgarh,sukma,120,79,0
+October 2025,chhattisgarh,surajpur,450,136,0
+October 2025,chhattisgarh,surguja,517,96,0
+October 2025,chhattisgarh,uttar bastar kanker,123,35,8
+October 2025,delhi,new delhi,22,3,3
+October 2025,delhi,north east,261,82,0
+October 2025,delhi,shahdara,45,16,2
+October 2025,goa,north goa,216,23,6
+October 2025,goa,south goa,159,24,4
+October 2025,gujarat,ahmedabad,1678,780,77
+October 2025,gujarat,amreli,291,39,41
+October 2025,gujarat,anand,555,65,82
+October 2025,gujarat,arvalli,152,18,12
+October 2025,gujarat,banas kantha,760,384,151
+October 2025,gujarat,bharuch,447,61,9
+October 2025,gujarat,bhavnagar,694,89,87
+October 2025,gujarat,botad,71,15,21
+October 2025,gujarat,chhotaudepur,92,35,37
+October 2025,gujarat,dahod,464,225,82
+October 2025,gujarat,devbhumi dwarka,135,22,44
+October 2025,gujarat,gandhinagar,311,77,38
+October 2025,gujarat,gir somnath,252,49,53
+October 2025,gujarat,jamnagar,614,70,9
+October 2025,gujarat,junagadh,565,72,7
+October 2025,gujarat,kachchh,617,156,41
+October 2025,gujarat,kheda,604,97,79
+October 2025,gujarat,mahesana,438,63,48
+October 2025,gujarat,mahisagar,187,30,22
+October 2025,gujarat,morbi,276,46,63
+October 2025,gujarat,narmada,135,23,9
+October 2025,gujarat,navsari,228,12,20
+October 2025,gujarat,panch mahals,6,0,0
+October 2025,gujarat,patan,317,77,39
+October 2025,gujarat,porbandar,149,22,21
+October 2025,gujarat,rajkot,979,231,82
+October 2025,gujarat,sabar kantha,16,4,0
+October 2025,gujarat,surat,1371,441,68
+October 2025,gujarat,surendranagar,14,2,0
+October 2025,gujarat,tapi,217,24,8
+October 2025,gujarat,vadodara,1159,241,19
+October 2025,gujarat,valsad,499,100,14
+October 2025,haryana,ambala,614,22,8
+October 2025,haryana,bhiwani,715,34,7
+October 2025,haryana,charkhi dadri,146,6,0
+October 2025,haryana,faridabad,1018,216,7
+October 2025,haryana,fatehabad,648,20,2
+October 2025,haryana,hisar,1096,56,1
+October 2025,haryana,jhajjar,587,21,0
+October 2025,haryana,jind,847,21,0
+October 2025,haryana,kaithal,441,19,1
+October 2025,haryana,karnal,781,35,0
+October 2025,haryana,kurukshetra,499,15,0
+October 2025,haryana,mahendragarh,517,30,0
+October 2025,haryana,palwal,864,61,1
+October 2025,haryana,panchkula,269,17,2
+October 2025,haryana,panipat,677,44,6
+October 2025,haryana,rewari,501,28,2
+October 2025,haryana,rohtak,580,28,1
+October 2025,haryana,sirsa,684,45,0
+October 2025,haryana,sonipat,795,43,4
+October 2025,haryana,yamunanagar,14,2,0
+October 2025,himachal pradesh,bilaspur,222,5,0
+October 2025,himachal pradesh,chamba,355,13,2
+October 2025,himachal pradesh,hamirpur,292,5,0
+October 2025,himachal pradesh,kangra,901,15,4
+October 2025,himachal pradesh,kinnaur,26,0,1
+October 2025,himachal pradesh,kullu,215,14,18
+October 2025,himachal pradesh,lahaul and spiti,7,0,0
+October 2025,himachal pradesh,mandi,563,12,3
+October 2025,himachal pradesh,shimla,375,35,10
+October 2025,himachal pradesh,sirmaur,289,13,2
+October 2025,himachal pradesh,solan,246,16,2
+October 2025,himachal pradesh,una,327,4,0
+October 2025,jammu and kashmir,anantnag,646,83,3
+October 2025,jammu and kashmir,bandipora,317,81,8
+October 2025,jammu and kashmir,baramulla,480,103,6
+October 2025,jammu and kashmir,budgam,174,10,3
+October 2025,jammu and kashmir,doda,1178,261,0
+October 2025,jammu and kashmir,ganderbal,140,10,1
+October 2025,jammu and kashmir,jammu,795,184,8
+October 2025,jammu and kashmir,kathua,394,67,4
+October 2025,jammu and kashmir,kishtwar,227,59,0
+October 2025,jammu and kashmir,kulgam,206,57,0
+October 2025,jammu and kashmir,kupwara,573,112,5
+October 2025,jammu and kashmir,pulwama,426,30,12
+October 2025,jammu and kashmir,rajouri,313,121,2
+October 2025,jammu and kashmir,ramban,300,157,0
+October 2025,jammu and kashmir,reasi,215,120,3
+October 2025,jammu and kashmir,samba,110,16,2
+October 2025,jammu and kashmir,srinagar,653,66,33
+October 2025,jammu and kashmir,udhampur,343,72,4
+October 2025,jharkhand,bokaro,625,415,5
+October 2025,jharkhand,chatra,498,362,3
+October 2025,jharkhand,deoghar,768,661,60
+October 2025,jharkhand,dhanbad,1394,580,7
+October 2025,jharkhand,dumka,496,533,13
+October 2025,jharkhand,east singhbum,985,322,11
+October 2025,jharkhand,garhwa,842,273,7
+October 2025,jharkhand,giridih,1258,1108,11
+October 2025,jharkhand,godda,507,373,3
+October 2025,jharkhand,gumla,628,398,26
+October 2025,jharkhand,hazaribagh,843,486,2
+October 2025,jharkhand,jamtara,650,308,5
+October 2025,jharkhand,khunti,256,158,7
+October 2025,jharkhand,koderma,392,262,8
+October 2025,jharkhand,latehar,202,103,5
+October 2025,jharkhand,lohardaga,220,126,6
+October 2025,jharkhand,pakur,258,113,1
+October 2025,jharkhand,palamu,1005,303,4
+October 2025,jharkhand,ramgarh,391,223,1
+October 2025,jharkhand,ranchi,1394,687,26
+October 2025,jharkhand,sahebganj,643,437,1
+October 2025,jharkhand,saraikela kharsawan,547,242,19
+October 2025,jharkhand,simdega,286,97,0
+October 2025,jharkhand,west singhbhum,811,503,8
+October 2025,karnataka,bagalkote,1131,195,7
+October 2025,karnataka,ballari,425,52,6
+October 2025,karnataka,belagavi,1387,134,30
+October 2025,karnataka,bengaluru rural,1,0,0
+October 2025,karnataka,bengaluru south,2,27,0
+October 2025,karnataka,bidar,790,155,8
+October 2025,karnataka,chamarajanagar,580,58,6
+October 2025,karnataka,chikkaballapura,594,68,0
+October 2025,karnataka,chikkamagaluru,239,21,9
+October 2025,karnataka,chitradurga,804,74,15
+October 2025,karnataka,dakshina kannada,1262,152,42
+October 2025,karnataka,davanagere,806,108,7
+October 2025,karnataka,dharwad,986,104,7
+October 2025,karnataka,gadag,607,53,1
+October 2025,karnataka,hassan,642,39,2
+October 2025,karnataka,haveri,753,53,10
+October 2025,karnataka,kalaburagi,726,92,4
+October 2025,karnataka,kodagu,230,27,9
+October 2025,karnataka,kolar,698,67,6
+October 2025,karnataka,koppal,793,136,9
+October 2025,karnataka,mandya,706,29,29
+October 2025,karnataka,mysuru,655,51,17
+October 2025,karnataka,raichur,1553,400,20
+October 2025,karnataka,shivamogga,380,30,16
+October 2025,karnataka,tumakuru,1215,70,20
+October 2025,karnataka,udupi,708,60,13
+October 2025,karnataka,uttara kannada,661,49,5
+October 2025,karnataka,vijayanagara,345,52,12
+October 2025,karnataka,vijayapura,735,152,17
+October 2025,karnataka,yadgir,1091,252,2
+October 2025,kerala,alappuzha,614,230,27
+October 2025,kerala,ernakulam,1013,369,38
+October 2025,kerala,idukki,339,69,7
+October 2025,kerala,kannur,869,357,43
+October 2025,kerala,kasaragod,649,206,33
+October 2025,kerala,kollam,864,248,60
+October 2025,kerala,kottayam,607,200,12
+October 2025,kerala,kozhikode,921,421,47
+October 2025,kerala,malappuram,2035,997,73
+October 2025,kerala,palakkad,1122,363,60
+October 2025,kerala,pathanamthitta,329,102,24
+October 2025,kerala,thiruvananthapuram,1226,330,49
+October 2025,kerala,thrissur,1320,444,62
+October 2025,kerala,wayanad,276,68,3
+October 2025,ladakh,kargil,43,36,3
+October 2025,madhya pradesh,agar malwa,275,65,0
+October 2025,madhya pradesh,alirajpur,514,313,0
+October 2025,madhya pradesh,anuppur,527,67,5
+October 2025,madhya pradesh,ashoknagar,326,116,18
+October 2025,madhya pradesh,balaghat,1091,71,3
+October 2025,madhya pradesh,barwani,869,371,4
+October 2025,madhya pradesh,betul,1041,140,11
+October 2025,madhya pradesh,bhind,610,321,33
+October 2025,madhya pradesh,bhopal,1658,196,15
+October 2025,madhya pradesh,burhanpur,423,124,16
+October 2025,madhya pradesh,chhatarpur,1036,466,17
+October 2025,madhya pradesh,chhindwara,1687,105,25
+October 2025,madhya pradesh,damoh,931,180,11
+October 2025,madhya pradesh,datia,378,138,2
+October 2025,madhya pradesh,dewas,1158,227,1
+October 2025,madhya pradesh,dhar,1203,402,123
+October 2025,madhya pradesh,dindori,447,50,0
+October 2025,madhya pradesh,guna,784,223,0
+October 2025,madhya pradesh,gwalior,961,330,38
+October 2025,madhya pradesh,harda,319,66,2
+October 2025,madhya pradesh,indore,2066,581,107
+October 2025,madhya pradesh,jabalpur,1909,340,0
+October 2025,madhya pradesh,jhabua,688,651,94
+October 2025,madhya pradesh,katni,1580,385,17
+October 2025,madhya pradesh,maihar,79,6,7
+October 2025,madhya pradesh,mandla,855,50,2
+October 2025,madhya pradesh,mandsaur,1291,113,6
+October 2025,madhya pradesh,mauganj,104,19,0
+October 2025,madhya pradesh,morena,1104,453,110
+October 2025,madhya pradesh,narmadapuram,97,19,2
+October 2025,madhya pradesh,narsimhapur,130,31,0
+October 2025,madhya pradesh,neemuch,654,109,0
+October 2025,madhya pradesh,niwari,15,2,1
+October 2025,madhya pradesh,pandhurna,9,1,23
+October 2025,madhya pradesh,panna,1153,407,19
+October 2025,madhya pradesh,raisen,887,178,35
+October 2025,madhya pradesh,rajgarh,651,202,12
+October 2025,madhya pradesh,ratlam,953,212,1
+October 2025,madhya pradesh,rewa,2152,309,6
+October 2025,madhya pradesh,sagar,1594,233,86
+October 2025,madhya pradesh,satna,2028,397,13
+October 2025,madhya pradesh,sehore,511,107,8
+October 2025,madhya pradesh,seoni,836,84,4
+October 2025,madhya pradesh,shahdol,766,168,5
+October 2025,madhya pradesh,shajapur,918,154,4
+October 2025,madhya pradesh,sheopur,246,172,1
+October 2025,madhya pradesh,shivpuri,574,353,325
+October 2025,madhya pradesh,sidhi,1391,126,5
+October 2025,madhya pradesh,singrauli,1315,207,0
+October 2025,madhya pradesh,tikamgarh,854,229,4
+October 2025,madhya pradesh,ujjain,2110,274,14
+October 2025,madhya pradesh,umaria,803,157,0
+October 2025,madhya pradesh,vidisha,773,174,15
+October 2025,maharashtra,akola,688,72,4
+October 2025,maharashtra,amravati,929,127,18
+October 2025,maharashtra,beed,904,215,7
+October 2025,maharashtra,bhandara,252,6,2
+October 2025,maharashtra,buldhana,1005,137,3
+October 2025,maharashtra,chandrapur,512,36,9
+October 2025,maharashtra,chhatrapati sambhajinagar,71,68,135
+October 2025,maharashtra,dharashiv,19,6,13
+October 2025,maharashtra,dhule,788,384,62
+October 2025,maharashtra,gadchiroli,267,30,1
+October 2025,maharashtra,gondia,501,11,0
+October 2025,maharashtra,hingoli,504,101,26
+October 2025,maharashtra,jalgaon,1392,269,11
+October 2025,maharashtra,jalna,877,149,0
+October 2025,maharashtra,kolhapur,1332,181,54
+October 2025,maharashtra,latur,913,188,12
+October 2025,maharashtra,mumbai,1943,689,4
+October 2025,maharashtra,mumbai suburban,1479,365,62
+October 2025,maharashtra,nagpur,1458,213,12
+October 2025,maharashtra,nanded,1197,256,47
+October 2025,maharashtra,nandurbar,1101,248,27
+October 2025,maharashtra,nashik,2162,584,33
+October 2025,maharashtra,palghar,1144,359,23
+October 2025,maharashtra,parbhani,957,171,23
+October 2025,maharashtra,pune,3896,849,144
+October 2025,maharashtra,raigad,305,62,3
+October 2025,maharashtra,ratnagiri,536,36,2
+October 2025,maharashtra,sangli,795,134,24
+October 2025,maharashtra,satara,797,89,18
+October 2025,maharashtra,sindhudurg,211,7,3
+October 2025,maharashtra,solapur,1528,330,20
+October 2025,maharashtra,thane,3651,1238,53
+October 2025,maharashtra,wardha,298,22,0
+October 2025,maharashtra,washim,475,38,7
+October 2025,maharashtra,yavatmal,995,174,20
+October 2025,manipur,bishnupur,107,114,1
+October 2025,manipur,chandel,32,101,1
+October 2025,manipur,churachandpur,172,282,15
+October 2025,manipur,imphal east,115,160,4
+October 2025,manipur,imphal west,125,111,1
+October 2025,manipur,jiribam,13,38,0
+October 2025,manipur,kakching,6,19,0
+October 2025,manipur,pherzawl,0,1,0
+October 2025,manipur,senapati,207,183,4
+October 2025,manipur,tamenglong,78,175,16
+October 2025,manipur,thoubal,90,129,3
+October 2025,manipur,ukhrul,84,113,5
+October 2025,meghalaya,east garo hills,26,135,78
+October 2025,meghalaya,east jaintia hills,38,85,105
+October 2025,meghalaya,east khasi hills,236,527,638
+October 2025,meghalaya,eastern west khasi hills,1,63,2
+October 2025,meghalaya,north garo hills,17,87,46
+October 2025,meghalaya,ri bhoi,65,135,260
+October 2025,meghalaya,south garo hills,29,206,14
+October 2025,meghalaya,south west garo hills,88,76,42
+October 2025,meghalaya,south west khasi hills,45,78,49
+October 2025,meghalaya,west garo hills,290,282,242
+October 2025,meghalaya,west jaintia hills,81,203,93
+October 2025,meghalaya,west khasi hills,118,223,297
+October 2025,mizoram,aizawl,198,85,45
+October 2025,mizoram,champhai,136,22,19
+October 2025,mizoram,khawzawl,0,1,20
+October 2025,mizoram,kolasib,41,11,3
+October 2025,mizoram,lawngtlai,66,17,12
+October 2025,mizoram,lunglei,90,11,0
+October 2025,mizoram,mamit,56,14,3
+October 2025,mizoram,saitual,1,0,5
+October 2025,mizoram,serchhip,20,5,3
+October 2025,nagaland,chumoukedima,6,10,2
+October 2025,nagaland,dimapur,115,125,8
+October 2025,nagaland,kiphire,40,182,5
+October 2025,nagaland,kohima,69,116,8
+October 2025,nagaland,longleng,6,17,0
+October 2025,nagaland,meluri,0,5,0
+October 2025,nagaland,mokokchung,21,44,3
+October 2025,nagaland,mon,114,246,15
+October 2025,nagaland,niuland,8,3,0
+October 2025,nagaland,noklak,12,61,3
+October 2025,nagaland,peren,23,52,12
+October 2025,nagaland,phek,42,147,3
+October 2025,nagaland,shamator,1,34,0
+October 2025,nagaland,tseminyu,3,7,1
+October 2025,nagaland,tuensang,95,82,4
+October 2025,nagaland,wokha,17,40,0
+October 2025,nagaland,zunheboto,31,129,3
+October 2025,odisha,angul,385,74,8
+October 2025,odisha,balangir,859,219,23
+October 2025,odisha,bargarh,876,171,2
+October 2025,odisha,bhadrak,736,242,1
+October 2025,odisha,boudh,256,67,0
+October 2025,odisha,cuttack,792,195,4
+October 2025,odisha,dhenkanal,375,87,0
+October 2025,odisha,gajapati,281,49,2
+October 2025,odisha,ganjam,1324,188,0
+October 2025,odisha,jagatsinghapur,1324,90,9
+October 2025,odisha,jajpur,764,202,15
+October 2025,odisha,jharsuguda,243,20,0
+October 2025,odisha,kalahandi,760,251,22
+October 2025,odisha,kandhamal,464,80,7
+October 2025,odisha,kendrapara,602,137,42
+October 2025,odisha,khordha,714,145,60
+October 2025,odisha,koraput,568,236,2
+October 2025,odisha,malkangiri,286,86,0
+October 2025,odisha,mayurbhanj,1290,392,25
+October 2025,odisha,nabarangpur,868,404,8
+October 2025,odisha,nayagarh,429,53,3
+October 2025,odisha,nuapada,325,78,0
+October 2025,odisha,puri,565,117,2
+October 2025,odisha,rayagada,399,135,0
+October 2025,odisha,sambalpur,454,55,0
+October 2025,odisha,sonepur,238,35,0
+October 2025,odisha,sundargarh,694,144,6
+October 2025,puducherry,karaikal,79,10,2
+October 2025,puducherry,puducherry,222,20,1
+October 2025,punjab,amritsar,866,165,14
+October 2025,punjab,barnala,218,12,2
+October 2025,punjab,bathinda,466,60,1
+October 2025,punjab,faridkot,108,22,3
+October 2025,punjab,fatehgarh sahib,163,37,5
+October 2025,punjab,fazilka,281,48,1
+October 2025,punjab,ferozepur,227,30,0
+October 2025,punjab,gurdaspur,726,79,12
+October 2025,punjab,hoshiarpur,472,40,11
+October 2025,punjab,jalandhar,770,179,21
+October 2025,punjab,kapurthala,182,33,109
+October 2025,punjab,ludhiana,1230,273,56
+October 2025,punjab,malerkotla,138,33,1
+October 2025,punjab,mansa,204,19,5
+October 2025,punjab,moga,217,23,21
+October 2025,punjab,pathankot,154,12,0
+October 2025,punjab,patiala,602,95,23
+October 2025,punjab,rupnagar,159,16,3
+October 2025,punjab,sangrur,339,29,3
+October 2025,punjab,shahid bhagat singh nagar,124,15,10
+October 2025,punjab,sri muktsar sahib,162,25,0
+October 2025,punjab,tarn taran,487,55,4
+October 2025,rajasthan,ajmer,1146,404,5
+October 2025,rajasthan,alwar,2103,1129,38
+October 2025,rajasthan,banswara,533,408,0
+October 2025,rajasthan,baran,450,175,6
+October 2025,rajasthan,barmer,1430,705,4
+October 2025,rajasthan,bharatpur,1363,972,16
+October 2025,rajasthan,bhilwara,959,391,20
+October 2025,rajasthan,bikaner,739,655,16
+October 2025,rajasthan,bundi,379,175,4
+October 2025,rajasthan,chittorgarh,344,190,3
+October 2025,rajasthan,churu,978,560,8
+October 2025,rajasthan,dausa,674,317,0
+October 2025,rajasthan,deeg,2,3,0
+October 2025,rajasthan,dholpur,614,363,3
+October 2025,rajasthan,dungarpur,563,365,1
+October 2025,rajasthan,ganganagar,578,178,2
+October 2025,rajasthan,hanumangarh,493,180,0
+October 2025,rajasthan,jaipur,2359,1156,13
+October 2025,rajasthan,jaisalmer,271,165,7
+October 2025,rajasthan,jalore,920,801,5
+October 2025,rajasthan,jhalawar,577,302,1
+October 2025,rajasthan,jhunjhunu,1046,350,12
+October 2025,rajasthan,jodhpur,1505,702,9
+October 2025,rajasthan,karauli,722,369,0
+October 2025,rajasthan,kota,776,314,12
+October 2025,rajasthan,nagaur,1384,611,18
+October 2025,rajasthan,pali,887,411,7
+October 2025,rajasthan,pratapgarh,284,141,0
+October 2025,rajasthan,rajsamand,464,243,4
+October 2025,rajasthan,sawai madhopur,612,326,26
+October 2025,rajasthan,sikar,1092,444,1
+October 2025,rajasthan,sirohi,508,420,17
+October 2025,rajasthan,tonk,535,187,17
+October 2025,rajasthan,udaipur,1245,965,14
+October 2025,sikkim,mangan,0,1,0
+October 2025,sikkim,namchi,0,1,3
+October 2025,tamil nadu,ariyalur,392,90,24
+October 2025,tamil nadu,chengalpattu,141,41,0
+October 2025,tamil nadu,chennai,1439,418,13
+October 2025,tamil nadu,coimbatore,1520,382,0
+October 2025,tamil nadu,cuddalore,1264,206,0
+October 2025,tamil nadu,dharmapuri,999,172,14
+October 2025,tamil nadu,dindigul,805,251,0
+October 2025,tamil nadu,erode,966,243,0
+October 2025,tamil nadu,kallakurichi,152,18,1
+October 2025,tamil nadu,kancheepuram,1746,704,2
+October 2025,tamil nadu,kanniyakumari,865,51,0
+October 2025,tamil nadu,karur,593,117,0
+October 2025,tamil nadu,krishnagiri,741,170,0
+October 2025,tamil nadu,madurai,1623,202,1
+October 2025,tamil nadu,mayiladuthurai,88,11,0
+October 2025,tamil nadu,nagapattinam,594,146,0
+October 2025,tamil nadu,namakkal,776,126,0
+October 2025,tamil nadu,perambalur,375,44,0
+October 2025,tamil nadu,pudukkottai,918,289,3
+October 2025,tamil nadu,ramanathapuram,621,148,5
+October 2025,tamil nadu,ranipet,19,2,0
+October 2025,tamil nadu,salem,1609,311,17
+October 2025,tamil nadu,sivaganga,687,118,0
+October 2025,tamil nadu,tenkasi,231,21,0
+October 2025,tamil nadu,thanjavur,1025,275,0
+October 2025,tamil nadu,the nilgiris,257,102,0
+October 2025,tamil nadu,theni,608,109,0
+October 2025,tamil nadu,thiruvallur,1649,567,5
+October 2025,tamil nadu,thiruvarur,551,120,0
+October 2025,tamil nadu,thoothukkudi,922,230,0
+October 2025,tamil nadu,tiruchirappalli,1467,364,0
+October 2025,tamil nadu,tirunelveli,1826,321,0
+October 2025,tamil nadu,tirupathur,191,21,0
+October 2025,tamil nadu,tiruppur,966,228,1
+October 2025,tamil nadu,tiruvannamalai,1228,140,0
+October 2025,tamil nadu,vellore,1572,225,0
+October 2025,tamil nadu,viluppuram,1743,369,0
+October 2025,tamil nadu,virudhunagar,833,136,0
+October 2025,telangana,adilabad,574,101,0
+October 2025,telangana,bhadradri kothagudem,549,187,13
+October 2025,telangana,hanumakonda,227,30,1
+October 2025,telangana,hyderabad,3289,740,58
+October 2025,telangana,jagitial,355,25,0
+October 2025,telangana,jangoan,246,44,0
+October 2025,telangana,jayashankar bhupalapally,185,51,0
+October 2025,telangana,jogulamba gadwal,436,99,0
+October 2025,telangana,kamareddy,453,36,0
+October 2025,telangana,karimnagar,1365,191,1
+October 2025,telangana,khammam,690,179,2
+October 2025,telangana,mahabubabad,329,67,0
+October 2025,telangana,mahabubnagar,1889,671,2
+October 2025,telangana,mancherial,235,39,0
+October 2025,telangana,medak,1697,400,3
+October 2025,telangana,medchal malkajgiri,918,252,24
+October 2025,telangana,mulugu,165,79,0
+October 2025,telangana,nagarkurnool,230,71,0
+October 2025,telangana,nalgonda,1389,348,0
+October 2025,telangana,narayanpet,267,73,0
+October 2025,telangana,nirmal,270,19,2
+October 2025,telangana,nizamabad,1595,148,0
+October 2025,telangana,peddapalli,120,16,1
+October 2025,telangana,rajanna sircilla,250,11,1
+October 2025,telangana,ranga reddy,60,10,0
+October 2025,telangana,sangareddy,596,150,1
+October 2025,telangana,siddipet,467,49,0
+October 2025,telangana,suryapet,480,79,1
+October 2025,telangana,vikarabad,510,152,0
+October 2025,telangana,wanaparthy,294,122,0
+October 2025,telangana,warangal,645,125,0
+October 2025,tripura,dhalai,108,84,5
+October 2025,tripura,gomati,55,27,1
+October 2025,tripura,khowai,44,12,8
+October 2025,tripura,north tripura,135,59,0
+October 2025,tripura,sepahijala,189,79,2
+October 2025,tripura,south tripura,227,152,0
+October 2025,tripura,unakoti,102,25,7
+October 2025,tripura,west tripura,380,148,27
+October 2025,uttar pradesh,agra,1652,1236,64
+October 2025,uttar pradesh,aligarh,1213,983,37
+October 2025,uttar pradesh,ambedkar nagar,782,845,6
+October 2025,uttar pradesh,amethi,769,722,30
+October 2025,uttar pradesh,amroha,921,437,9
+October 2025,uttar pradesh,auraiya,372,233,3
+October 2025,uttar pradesh,ayodhya,136,60,0
+October 2025,uttar pradesh,azamgarh,1131,2428,51
+October 2025,uttar pradesh,baghpat,613,491,28
+October 2025,uttar pradesh,bahraich,1409,2436,292
+October 2025,uttar pradesh,ballia,856,1209,5
+October 2025,uttar pradesh,balrampur,615,1216,52
+October 2025,uttar pradesh,banda,548,655,14
+October 2025,uttar pradesh,bara banki,951,581,22
+October 2025,uttar pradesh,bareilly,1924,1187,167
+October 2025,uttar pradesh,basti,972,1230,27
+October 2025,uttar pradesh,bhadohi,54,78,0
+October 2025,uttar pradesh,bijnor,2918,791,11
+October 2025,uttar pradesh,budaun,770,855,61
+October 2025,uttar pradesh,bulandshahr,1528,1031,35
+October 2025,uttar pradesh,chandauli,506,510,7
+October 2025,uttar pradesh,chitrakoot,659,547,4
+October 2025,uttar pradesh,deoria,723,915,28
+October 2025,uttar pradesh,etah,479,332,4
+October 2025,uttar pradesh,etawah,581,378,41
+October 2025,uttar pradesh,farrukhabad,444,551,22
+October 2025,uttar pradesh,fatehpur,855,709,44
+October 2025,uttar pradesh,firozabad,645,532,11
+October 2025,uttar pradesh,gautam buddha nagar,988,725,27
+October 2025,uttar pradesh,ghaziabad,1473,1156,30
+October 2025,uttar pradesh,ghazipur,769,1305,17
+October 2025,uttar pradesh,gonda,1111,1213,23
+October 2025,uttar pradesh,gorakhpur,1117,1669,52
+October 2025,uttar pradesh,hamirpur,306,260,8
+October 2025,uttar pradesh,hapur,554,338,2
+October 2025,uttar pradesh,hardoi,1424,1237,53
+October 2025,uttar pradesh,hathras,497,328,10
+October 2025,uttar pradesh,jalaun,389,400,17
+October 2025,uttar pradesh,jaunpur,943,1942,8
+October 2025,uttar pradesh,jhansi,706,401,16
+October 2025,uttar pradesh,kannauj,444,491,15
+October 2025,uttar pradesh,kanpur dehat,444,397,16
+October 2025,uttar pradesh,kanpur nagar,1436,1347,67
+October 2025,uttar pradesh,kasganj,388,323,32
+October 2025,uttar pradesh,kaushambi,689,486,2
+October 2025,uttar pradesh,kheri,1382,1700,61
+October 2025,uttar pradesh,kushinagar,682,1016,2
+October 2025,uttar pradesh,lalitpur,475,175,20
+October 2025,uttar pradesh,lucknow,2405,1806,17
+October 2025,uttar pradesh,mahoba,336,154,4
+October 2025,uttar pradesh,mahrajganj,642,1107,54
+October 2025,uttar pradesh,mainpuri,620,805,15
+October 2025,uttar pradesh,mathura,943,932,12
+October 2025,uttar pradesh,mau,524,1086,12
+October 2025,uttar pradesh,meerut,1952,1325,32
+October 2025,uttar pradesh,mirzapur,626,726,2
+October 2025,uttar pradesh,moradabad,1677,579,9
+October 2025,uttar pradesh,muzaffarnagar,1211,898,35
+October 2025,uttar pradesh,pilibhit,720,438,32
+October 2025,uttar pradesh,pratapgarh,1291,1004,23
+October 2025,uttar pradesh,prayagraj,171,147,91
+October 2025,uttar pradesh,rae bareli,1317,896,5
+October 2025,uttar pradesh,rampur,1252,690,7
+October 2025,uttar pradesh,saharanpur,1896,646,12
+October 2025,uttar pradesh,sambhal,781,539,12
+October 2025,uttar pradesh,sant kabir nagar,657,733,9
+October 2025,uttar pradesh,shahjahanpur,948,925,28
+October 2025,uttar pradesh,shamli,1038,506,13
+October 2025,uttar pradesh,shrawasti,235,429,26
+October 2025,uttar pradesh,siddharthnagar,541,1348,52
+October 2025,uttar pradesh,sitapur,1306,1262,107
+October 2025,uttar pradesh,sonbhadra,441,289,4
+October 2025,uttar pradesh,sultanpur,1018,1037,23
+October 2025,uttar pradesh,unnao,952,1014,25
+October 2025,uttar pradesh,varanasi,1157,1423,6
+October 2025,uttarakhand,almora,262,33,2
+October 2025,uttarakhand,bageshwar,143,14,0
+October 2025,uttarakhand,chamoli,210,16,1
+October 2025,uttarakhand,champawat,200,19,0
+October 2025,uttarakhand,dehradun,1054,206,4
+October 2025,uttarakhand,haridwar,1002,215,1
+October 2025,uttarakhand,nainital,709,105,4
+October 2025,uttarakhand,pauri garhwal,438,39,5
+October 2025,uttarakhand,pithoragarh,209,41,3
+October 2025,uttarakhand,rudraprayag,192,20,0
+October 2025,uttarakhand,tehri garhwal,460,60,5
+October 2025,uttarakhand,udham singh nagar,991,222,1
+October 2025,uttarakhand,uttarkashi,196,29,3
+October 2025,west bengal,alipurduar,108,82,3
+October 2025,west bengal,bankura,1844,385,2
+October 2025,west bengal,birbhum,2952,460,0
+October 2025,west bengal,cooch behar,1823,714,3
+October 2025,west bengal,dakshin dinajpur,1176,221,7
+October 2025,west bengal,darjeeling,450,232,24
+October 2025,west bengal,hooghly,2695,767,3
+October 2025,west bengal,howrah,1906,706,4
+October 2025,west bengal,jalpaiguri,849,720,22
+October 2025,west bengal,jhargram,143,27,1
+October 2025,west bengal,kalimpong,20,9,0
+October 2025,west bengal,kolkata,975,769,20
+October 2025,west bengal,malda,3119,1025,2
+October 2025,west bengal,murshidabad,7844,1135,6
+October 2025,west bengal,nadia,2541,711,21
+October 2025,west bengal,north parganas,4564,1284,29
+October 2025,west bengal,paschim bardhaman,160,73,3
+October 2025,west bengal,paschim medinipur,3354,787,1
+October 2025,west bengal,purba bardhaman,567,64,4
+October 2025,west bengal,purba medinipur,2852,294,3
+October 2025,west bengal,purulia,2071,746,0
+October 2025,west bengal,south parganas,7489,2338,14
+October 2025,west bengal,uttar dinajpur,4513,1796,22
+November 2025,andaman and nicobar islands,nicobars,12,0,0
+November 2025,andaman and nicobar islands,north and middle andaman,31,0,0
+November 2025,andaman and nicobar islands,south andamans,45,3,0
+November 2025,andhra pradesh,alluri sitharama raju,280,32,14
+November 2025,andhra pradesh,anakapalli,169,4,4
+November 2025,andhra pradesh,ananthapuramu,1305,75,3
+November 2025,andhra pradesh,annamayya,250,11,30
+November 2025,andhra pradesh,bapatla,133,13,6
+November 2025,andhra pradesh,chittoor,2143,170,13
+November 2025,andhra pradesh,dr b r ambedkar konaseema,179,7,4
+November 2025,andhra pradesh,east godavari,2041,116,5
+November 2025,andhra pradesh,eluru,180,13,10
+November 2025,andhra pradesh,guntur,2698,257,14
+November 2025,andhra pradesh,kakinada,246,19,11
+November 2025,andhra pradesh,krishna,1741,128,18
+November 2025,andhra pradesh,kurnool,2965,194,6
+November 2025,andhra pradesh,nandyal,264,12,2
+November 2025,andhra pradesh,palnadu,167,14,7
+November 2025,andhra pradesh,parvathipuram manyam,106,9,0
+November 2025,andhra pradesh,prakasam,1633,246,5
+November 2025,andhra pradesh,sri potti sriramulu nellore,195,187,103
+November 2025,andhra pradesh,sri sathya sai,239,13,3
+November 2025,andhra pradesh,srikakulam,1185,34,0
+November 2025,andhra pradesh,tirupati,223,209,76
+November 2025,andhra pradesh,visakhapatnam,2065,124,14
+November 2025,andhra pradesh,vizianagaram,1012,33,1
+November 2025,andhra pradesh,west godavari,1579,89,7
+November 2025,arunachal pradesh,anjaw,3,4,3
+November 2025,arunachal pradesh,changlang,66,45,7
+November 2025,arunachal pradesh,dibang valley,1,0,0
+November 2025,arunachal pradesh,east kameng,14,16,14
+November 2025,arunachal pradesh,east siang,23,29,2
+November 2025,arunachal pradesh,kamle,0,5,2
+November 2025,arunachal pradesh,kra daadi,3,9,4
+November 2025,arunachal pradesh,kurung kumey,3,12,12
+November 2025,arunachal pradesh,leparada,0,0,1
+November 2025,arunachal pradesh,lohit,17,11,1
+November 2025,arunachal pradesh,longding,17,63,4
+November 2025,arunachal pradesh,lower dibang valley,7,14,2
+November 2025,arunachal pradesh,lower siang,4,7,3
+November 2025,arunachal pradesh,lower subansiri,18,10,0
+November 2025,arunachal pradesh,namsai,22,3,0
+November 2025,arunachal pradesh,pakke kessang,0,0,1
+November 2025,arunachal pradesh,papum pare,49,63,5
+November 2025,arunachal pradesh,shi yomi,1,15,5
+November 2025,arunachal pradesh,siang,2,6,4
+November 2025,arunachal pradesh,tawang,16,13,5
+November 2025,arunachal pradesh,tirap,20,14,1
+November 2025,arunachal pradesh,upper siang,3,5,1
+November 2025,arunachal pradesh,upper subansiri,11,11,11
+November 2025,arunachal pradesh,west kameng,20,19,7
+November 2025,arunachal pradesh,west siang,21,21,2
+November 2025,assam,bajali,3,3,2
+November 2025,assam,baksa,322,138,25
+November 2025,assam,barpeta,1286,394,158
+November 2025,assam,biswanath,203,100,33
+November 2025,assam,bongaigaon,385,95,14
+November 2025,assam,cachar,1167,540,177
+November 2025,assam,charaideo,144,80,1
+November 2025,assam,chirang,223,135,2
+November 2025,assam,darrang,762,325,575
+November 2025,assam,dhemaji,441,175,211
+November 2025,assam,dhubri,1264,592,22
+November 2025,assam,dibrugarh,409,226,218
+November 2025,assam,dima hasao,1,5,0
+November 2025,assam,goalpara,794,244,48
+November 2025,assam,golaghat,434,347,212
+November 2025,assam,hailakandi,665,219,45
+November 2025,assam,hojai,524,221,0
+November 2025,assam,jorhat,626,152,119
+November 2025,assam,kamrup,1109,345,29
+November 2025,assam,kamrup metro,573,399,503
+November 2025,assam,karbi anglong,521,500,127
+November 2025,assam,kokrajhar,339,187,97
+November 2025,assam,lakhimpur,562,186,53
+November 2025,assam,majuli,19,14,0
+November 2025,assam,marigaon,673,279,82
+November 2025,assam,nagaon,1319,509,65
+November 2025,assam,nalbari,604,157,28
+November 2025,assam,sonitpur,1192,505,161
+November 2025,assam,south salmara mancachar,216,76,14
+November 2025,assam,sribhumi,43,14,10
+November 2025,assam,tinsukia,603,382,57
+November 2025,assam,udalguri,546,185,25
+November 2025,assam,west karbi anglong,30,44,57
+November 2025,bihar,araria,1602,986,14
+November 2025,bihar,arwal,177,573,0
+November 2025,bihar,aurangabad,828,2048,8
+November 2025,bihar,banka,1552,994,7
+November 2025,bihar,begusarai,1886,1100,9
+November 2025,bihar,bhagalpur,2131,1533,8
+November 2025,bihar,bhojpur,797,2561,38
+November 2025,bihar,buxar,595,1077,20
+November 2025,bihar,darbhanga,2436,1433,14
+November 2025,bihar,gaya,1039,2688,25
+November 2025,bihar,gopalganj,794,1420,24
+November 2025,bihar,jamui,987,904,14
+November 2025,bihar,jehanabad,181,835,19
+November 2025,bihar,kaimur bhabua,517,496,8
+November 2025,bihar,katihar,2413,892,32
+November 2025,bihar,khagaria,842,773,17
+November 2025,bihar,kishanganj,1436,348,11
+November 2025,bihar,lakhisarai,588,672,4
+November 2025,bihar,madhepura,1002,830,7
+November 2025,bihar,madhubani,2373,2207,77
+November 2025,bihar,munger,495,589,27
+November 2025,bihar,muzaffarpur,2197,2123,17
+November 2025,bihar,nalanda,695,1850,11
+November 2025,bihar,nawada,450,1815,27
+November 2025,bihar,pashchim champaran,12,6,0
+November 2025,bihar,patna,1161,2757,28
+November 2025,bihar,purbi champaran,16,16,0
+November 2025,bihar,purnia,1654,1061,20
+November 2025,bihar,rohtas,740,1273,13
+November 2025,bihar,saharsa,1219,1180,39
+November 2025,bihar,samastipur,2821,1935,31
+November 2025,bihar,saran,1598,3207,27
+November 2025,bihar,sheikhpura,293,399,9
+November 2025,bihar,sheohar,498,284,2
+November 2025,bihar,sitamarhi,2063,1701,86
+November 2025,bihar,siwan,1492,2104,30
+November 2025,bihar,supaul,1387,1216,34
+November 2025,bihar,vaishali,1807,2246,6
+November 2025,chandigarh,chandigarh,672,36,17
+November 2025,chhattisgarh,balod,432,21,3
+November 2025,chhattisgarh,bastar,1056,753,0
+November 2025,chhattisgarh,bemetara,792,112,5
+November 2025,chhattisgarh,bijapur,476,208,184
+November 2025,chhattisgarh,bilaspur,1625,316,5
+November 2025,chhattisgarh,dakshin bastar dantewada,554,69,5
+November 2025,chhattisgarh,dhamtari,554,33,0
+November 2025,chhattisgarh,durg,843,115,7
+November 2025,chhattisgarh,gariyaband,371,77,2
+November 2025,chhattisgarh,gaurela pendra marwahi,28,3,2
+November 2025,chhattisgarh,janjgir champa,1109,142,0
+November 2025,chhattisgarh,jashpur,456,374,2
+November 2025,chhattisgarh,kabeerdham,211,36,3
+November 2025,chhattisgarh,khairagarh chhuikhadan gandai,72,23,0
+November 2025,chhattisgarh,kondagaon,468,304,7
+November 2025,chhattisgarh,korba,692,111,4
+November 2025,chhattisgarh,mahasamund,779,154,14
+November 2025,chhattisgarh,manendragarh chirmiri bharatpur m c b,41,43,0
+November 2025,chhattisgarh,mohla manpur ambagarh chouki,67,25,0
+November 2025,chhattisgarh,mungeli,738,107,1
+November 2025,chhattisgarh,narayanpur,119,100,0
+November 2025,chhattisgarh,raigarh,710,104,7
+November 2025,chhattisgarh,raipur,1949,306,6
+November 2025,chhattisgarh,rajnandgaon,1281,141,22
+November 2025,chhattisgarh,sakti,110,17,0
+November 2025,chhattisgarh,sarangarh bilaigarh,41,9,0
+November 2025,chhattisgarh,sukma,140,109,3
+November 2025,chhattisgarh,surajpur,493,236,1
+November 2025,chhattisgarh,surguja,658,223,11
+November 2025,chhattisgarh,uttar bastar kanker,181,41,0
+November 2025,delhi,new delhi,36,13,3
+November 2025,delhi,north east,344,108,0
+November 2025,delhi,shahdara,84,36,4
+November 2025,goa,north goa,296,37,25
+November 2025,goa,south goa,256,31,20
+November 2025,gujarat,ahmedabad,3961,1569,168
+November 2025,gujarat,amreli,778,88,40
+November 2025,gujarat,anand,1315,131,75
+November 2025,gujarat,arvalli,308,47,25
+November 2025,gujarat,banas kantha,1852,693,139
+November 2025,gujarat,bharuch,894,117,21
+November 2025,gujarat,bhavnagar,1846,213,73
+November 2025,gujarat,botad,300,37,50
+November 2025,gujarat,chhotaudepur,269,66,119
+November 2025,gujarat,dahod,1297,762,63
+November 2025,gujarat,devbhumi dwarka,274,42,22
+November 2025,gujarat,gandhinagar,903,160,189
+November 2025,gujarat,gir somnath,582,104,19
+November 2025,gujarat,jamnagar,973,117,78
+November 2025,gujarat,junagadh,1309,161,51
+November 2025,gujarat,kachchh,1572,380,176
+November 2025,gujarat,kheda,1758,219,103
+November 2025,gujarat,mahesana,1314,161,16
+November 2025,gujarat,mahisagar,405,51,12
+November 2025,gujarat,morbi,499,88,37
+November 2025,gujarat,narmada,296,23,14
+November 2025,gujarat,navsari,733,33,8
+November 2025,gujarat,panch mahals,21,4,0
+November 2025,gujarat,patan,911,170,65
+November 2025,gujarat,porbandar,290,41,20
+November 2025,gujarat,rajkot,2363,385,93
+November 2025,gujarat,sabar kantha,43,6,0
+November 2025,gujarat,surat,4025,1000,80
+November 2025,gujarat,surendranagar,31,8,0
+November 2025,gujarat,tapi,421,38,97
+November 2025,gujarat,vadodara,2560,512,111
+November 2025,gujarat,valsad,1324,279,34
+November 2025,haryana,ambala,974,30,7
+November 2025,haryana,bhiwani,963,34,7
+November 2025,haryana,charkhi dadri,300,6,0
+November 2025,haryana,faridabad,1839,471,70
+November 2025,haryana,fatehabad,768,24,2
+November 2025,haryana,hisar,1324,88,5
+November 2025,haryana,jhajjar,665,27,5
+November 2025,haryana,jind,978,32,0
+November 2025,haryana,kaithal,760,17,1
+November 2025,haryana,karnal,943,45,4
+November 2025,haryana,kurukshetra,704,22,0
+November 2025,haryana,mahendragarh,710,38,22
+November 2025,haryana,palwal,1490,86,1
+November 2025,haryana,panchkula,434,31,2
+November 2025,haryana,panipat,990,98,10
+November 2025,haryana,rewari,753,45,2
+November 2025,haryana,rohtak,810,39,7
+November 2025,haryana,sirsa,974,53,2
+November 2025,haryana,sonipat,1241,74,3
+November 2025,haryana,yamunanagar,16,0,0
+November 2025,himachal pradesh,bilaspur,305,4,0
+November 2025,himachal pradesh,chamba,579,18,3
+November 2025,himachal pradesh,hamirpur,389,5,0
+November 2025,himachal pradesh,kangra,1165,20,8
+November 2025,himachal pradesh,kinnaur,42,4,4
+November 2025,himachal pradesh,kullu,392,39,35
+November 2025,himachal pradesh,lahaul and spiti,10,0,0
+November 2025,himachal pradesh,mandi,745,10,5
+November 2025,himachal pradesh,shimla,495,36,7
+November 2025,himachal pradesh,sirmaur,498,11,2
+November 2025,himachal pradesh,solan,372,12,1
+November 2025,himachal pradesh,una,345,4,0
+November 2025,jammu and kashmir,anantnag,836,102,25
+November 2025,jammu and kashmir,bandipora,329,75,31
+November 2025,jammu and kashmir,baramulla,750,147,42
+November 2025,jammu and kashmir,budgam,211,17,9
+November 2025,jammu and kashmir,doda,858,272,10
+November 2025,jammu and kashmir,ganderbal,216,17,8
+November 2025,jammu and kashmir,jammu,868,208,5
+November 2025,jammu and kashmir,kathua,922,97,4
+November 2025,jammu and kashmir,kishtwar,337,68,4
+November 2025,jammu and kashmir,kulgam,283,76,9
+November 2025,jammu and kashmir,kupwara,676,113,35
+November 2025,jammu and kashmir,pulwama,450,32,2
+November 2025,jammu and kashmir,rajouri,728,221,7
+November 2025,jammu and kashmir,ramban,329,212,5
+November 2025,jammu and kashmir,reasi,348,249,2
+November 2025,jammu and kashmir,samba,143,12,7
+November 2025,jammu and kashmir,srinagar,685,80,87
+November 2025,jammu and kashmir,udhampur,827,127,3
+November 2025,jharkhand,bokaro,1102,661,4
+November 2025,jharkhand,chatra,902,851,4
+November 2025,jharkhand,deoghar,1384,1069,11
+November 2025,jharkhand,dhanbad,1928,1040,23
+November 2025,jharkhand,dumka,817,850,16
+November 2025,jharkhand,east singhbum,1598,540,36
+November 2025,jharkhand,garhwa,1552,488,7
+November 2025,jharkhand,giridih,2101,1839,19
+November 2025,jharkhand,godda,1067,652,1
+November 2025,jharkhand,gumla,881,518,15
+November 2025,jharkhand,hazaribagh,1346,632,15
+November 2025,jharkhand,jamtara,849,379,6
+November 2025,jharkhand,khunti,351,249,4
+November 2025,jharkhand,koderma,632,343,3
+November 2025,jharkhand,latehar,507,305,4
+November 2025,jharkhand,lohardaga,421,153,11
+November 2025,jharkhand,pakur,519,125,1
+November 2025,jharkhand,palamu,2569,785,27
+November 2025,jharkhand,ramgarh,632,296,6
+November 2025,jharkhand,ranchi,3402,1083,7
+November 2025,jharkhand,sahebganj,1451,1142,2
+November 2025,jharkhand,saraikela kharsawan,929,395,4
+November 2025,jharkhand,simdega,353,148,13
+November 2025,jharkhand,west singhbhum,1189,691,8
+November 2025,karnataka,bagalkote,1342,199,30
+November 2025,karnataka,ballari,618,53,24
+November 2025,karnataka,belagavi,1806,125,58
+November 2025,karnataka,bengaluru south,6,96,2
+November 2025,karnataka,bidar,1045,220,36
+November 2025,karnataka,chamarajanagar,803,65,9
+November 2025,karnataka,chikkaballapura,707,78,0
+November 2025,karnataka,chikkamagaluru,342,32,10
+November 2025,karnataka,chitradurga,872,72,17
+November 2025,karnataka,dakshina kannada,1659,176,30
+November 2025,karnataka,davanagere,963,96,26
+November 2025,karnataka,dharwad,1341,94,9
+November 2025,karnataka,gadag,1098,105,0
+November 2025,karnataka,hassan,886,68,16
+November 2025,karnataka,haveri,1042,62,17
+November 2025,karnataka,kalaburagi,976,164,53
+November 2025,karnataka,kodagu,300,18,20
+November 2025,karnataka,kolar,1305,94,15
+November 2025,karnataka,koppal,1447,140,15
+November 2025,karnataka,mandya,1000,42,13
+November 2025,karnataka,mysuru,709,75,60
+November 2025,karnataka,raichur,1918,487,27
+November 2025,karnataka,shivamogga,462,43,23
+November 2025,karnataka,tumakuru,1300,97,3
+November 2025,karnataka,udupi,613,60,15
+November 2025,karnataka,uttara kannada,1018,75,19
+November 2025,karnataka,vijayanagara,434,51,12
+November 2025,karnataka,vijayapura,999,148,19
+November 2025,karnataka,yadgir,1238,332,72
+November 2025,kerala,alappuzha,753,253,57
+November 2025,kerala,ernakulam,1244,467,153
+November 2025,kerala,idukki,423,64,15
+November 2025,kerala,kannur,1334,528,76
+November 2025,kerala,kasaragod,911,260,23
+November 2025,kerala,kollam,1151,287,93
+November 2025,kerala,kottayam,642,232,35
+November 2025,kerala,kozhikode,1473,582,118
+November 2025,kerala,malappuram,3086,1169,101
+November 2025,kerala,palakkad,1526,373,82
+November 2025,kerala,pathanamthitta,352,126,21
+November 2025,kerala,thiruvananthapuram,1433,349,259
+November 2025,kerala,thrissur,1644,383,380
+November 2025,kerala,wayanad,512,67,9
+November 2025,ladakh,kargil,100,28,3
+November 2025,madhya pradesh,agar malwa,868,86,1
+November 2025,madhya pradesh,alirajpur,621,421,24
+November 2025,madhya pradesh,anuppur,1016,84,7
+November 2025,madhya pradesh,ashoknagar,754,209,55
+November 2025,madhya pradesh,balaghat,1742,126,7
+November 2025,madhya pradesh,barwani,1264,437,83
+November 2025,madhya pradesh,betul,1753,270,30
+November 2025,madhya pradesh,bhind,1367,596,76
+November 2025,madhya pradesh,bhopal,2570,308,46
+November 2025,madhya pradesh,burhanpur,615,138,17
+November 2025,madhya pradesh,chhatarpur,2385,741,33
+November 2025,madhya pradesh,chhindwara,2365,132,7
+November 2025,madhya pradesh,damoh,1381,225,32
+November 2025,madhya pradesh,datia,912,306,3
+November 2025,madhya pradesh,dewas,2576,319,20
+November 2025,madhya pradesh,dhar,1952,532,70
+November 2025,madhya pradesh,dindori,424,51,1
+November 2025,madhya pradesh,guna,1410,313,0
+November 2025,madhya pradesh,gwalior,2245,599,260
+November 2025,madhya pradesh,harda,544,87,12
+November 2025,madhya pradesh,indore,3386,818,97
+November 2025,madhya pradesh,jabalpur,2787,368,28
+November 2025,madhya pradesh,jhabua,1215,892,30
+November 2025,madhya pradesh,katni,1915,455,11
+November 2025,madhya pradesh,maihar,90,2,7
+November 2025,madhya pradesh,mandla,1310,62,2
+November 2025,madhya pradesh,mandsaur,3253,225,9
+November 2025,madhya pradesh,mauganj,73,11,0
+November 2025,madhya pradesh,morena,2342,913,70
+November 2025,madhya pradesh,narmadapuram,136,31,20
+November 2025,madhya pradesh,narsimhapur,271,57,0
+November 2025,madhya pradesh,neemuch,1697,170,13
+November 2025,madhya pradesh,niwari,47,8,1
+November 2025,madhya pradesh,pandhurna,20,0,4
+November 2025,madhya pradesh,panna,1432,493,16
+November 2025,madhya pradesh,raisen,1194,171,40
+November 2025,madhya pradesh,rajgarh,1493,345,5
+November 2025,madhya pradesh,ratlam,2668,457,45
+November 2025,madhya pradesh,rewa,2416,341,10
+November 2025,madhya pradesh,sagar,3049,310,152
+November 2025,madhya pradesh,satna,2537,327,22
+November 2025,madhya pradesh,sehore,943,172,12
+November 2025,madhya pradesh,seoni,1322,101,5
+November 2025,madhya pradesh,shahdol,915,143,42
+November 2025,madhya pradesh,shajapur,2048,232,6
+November 2025,madhya pradesh,sheopur,580,398,23
+November 2025,madhya pradesh,shivpuri,1257,638,206
+November 2025,madhya pradesh,sidhi,1393,119,5
+November 2025,madhya pradesh,singrauli,1289,188,4
+November 2025,madhya pradesh,tikamgarh,1607,364,14
+November 2025,madhya pradesh,ujjain,4115,490,70
+November 2025,madhya pradesh,umaria,1003,161,8
+November 2025,madhya pradesh,vidisha,1317,267,12
+November 2025,maharashtra,akola,928,122,2
+November 2025,maharashtra,amravati,1080,136,44
+November 2025,maharashtra,beed,1248,264,68
+November 2025,maharashtra,bhandara,456,8,2
+November 2025,maharashtra,buldhana,1103,129,13
+November 2025,maharashtra,chandrapur,814,52,15
+November 2025,maharashtra,chhatrapati sambhajinagar,100,75,81
+November 2025,maharashtra,dharashiv,18,7,14
+November 2025,maharashtra,dhule,1156,390,63
+November 2025,maharashtra,gadchiroli,408,42,12
+November 2025,maharashtra,gondia,722,25,1
+November 2025,maharashtra,hingoli,635,107,11
+November 2025,maharashtra,jalgaon,2036,252,44
+November 2025,maharashtra,jalna,1051,181,11
+November 2025,maharashtra,kolhapur,1773,212,12
+November 2025,maharashtra,latur,1174,235,36
+November 2025,maharashtra,mumbai,3256,900,10
+November 2025,maharashtra,mumbai suburban,2508,624,156
+November 2025,maharashtra,nagpur,2376,353,18
+November 2025,maharashtra,nanded,1242,274,83
+November 2025,maharashtra,nandurbar,1249,279,35
+November 2025,maharashtra,nashik,3479,923,79
+November 2025,maharashtra,palghar,1821,467,19
+November 2025,maharashtra,parbhani,1220,190,77
+November 2025,maharashtra,pune,5677,1275,360
+November 2025,maharashtra,raigad,392,106,31
+November 2025,maharashtra,ratnagiri,642,49,18
+November 2025,maharashtra,sangli,1157,189,8
+November 2025,maharashtra,satara,1180,105,33
+November 2025,maharashtra,sindhudurg,373,19,15
+November 2025,maharashtra,solapur,2258,454,50
+November 2025,maharashtra,thane,5723,1865,96
+November 2025,maharashtra,wardha,343,11,4
+November 2025,maharashtra,washim,508,30,6
+November 2025,maharashtra,yavatmal,908,128,58
+November 2025,manipur,bishnupur,128,130,3
+November 2025,manipur,chandel,69,91,2
+November 2025,manipur,churachandpur,164,239,13
+November 2025,manipur,imphal east,169,150,4
+November 2025,manipur,imphal west,186,169,3
+November 2025,manipur,jiribam,12,24,1
+November 2025,manipur,kakching,14,17,0
+November 2025,manipur,pherzawl,0,1,0
+November 2025,manipur,senapati,207,151,7
+November 2025,manipur,tamenglong,94,163,11
+November 2025,manipur,thoubal,117,205,2
+November 2025,manipur,ukhrul,127,133,5
+November 2025,meghalaya,east garo hills,33,99,117
+November 2025,meghalaya,east jaintia hills,19,75,143
+November 2025,meghalaya,east khasi hills,225,517,1106
+November 2025,meghalaya,eastern west khasi hills,1,45,0
+November 2025,meghalaya,north garo hills,32,89,71
+November 2025,meghalaya,ri bhoi,111,222,329
+November 2025,meghalaya,south garo hills,35,107,159
+November 2025,meghalaya,south west garo hills,76,61,59
+November 2025,meghalaya,south west khasi hills,112,158,60
+November 2025,meghalaya,west garo hills,385,282,276
+November 2025,meghalaya,west jaintia hills,75,149,285
+November 2025,meghalaya,west khasi hills,75,204,181
+November 2025,mizoram,aizawl,237,51,4
+November 2025,mizoram,champhai,78,34,7
+November 2025,mizoram,hnahthial,1,0,0
+November 2025,mizoram,khawzawl,2,1,4
+November 2025,mizoram,kolasib,38,6,4
+November 2025,mizoram,lawngtlai,116,57,1
+November 2025,mizoram,lunglei,125,19,25
+November 2025,mizoram,mamit,68,4,0
+November 2025,mizoram,saitual,0,2,1
+November 2025,mizoram,serchhip,18,4,1
+November 2025,nagaland,chumoukedima,3,11,16
+November 2025,nagaland,dimapur,107,77,29
+November 2025,nagaland,kiphire,28,115,11
+November 2025,nagaland,kohima,50,48,26
+November 2025,nagaland,longleng,3,18,9
+November 2025,nagaland,meluri,1,6,1
+November 2025,nagaland,mokokchung,5,29,13
+November 2025,nagaland,mon,65,119,41
+November 2025,nagaland,niuland,0,2,1
+November 2025,nagaland,noklak,7,72,14
+November 2025,nagaland,peren,11,5,21
+November 2025,nagaland,phek,58,98,6
+November 2025,nagaland,shamator,0,23,14
+November 2025,nagaland,tseminyu,1,3,6
+November 2025,nagaland,tuensang,66,61,8
+November 2025,nagaland,wokha,12,19,6
+November 2025,nagaland,zunheboto,17,81,9
+November 2025,odisha,angul,487,79,2
+November 2025,odisha,balangir,732,173,31
+November 2025,odisha,bargarh,823,163,0
+November 2025,odisha,bhadrak,678,216,11
+November 2025,odisha,boudh,193,50,1
+November 2025,odisha,cuttack,759,195,4
+November 2025,odisha,dhenkanal,349,87,1
+November 2025,odisha,gajapati,361,53,9
+November 2025,odisha,ganjam,1577,230,5
+November 2025,odisha,jagatsinghapur,638,80,14
+November 2025,odisha,jajpur,1021,155,31
+November 2025,odisha,jharsuguda,230,23,0
+November 2025,odisha,kalahandi,588,212,18
+November 2025,odisha,kandhamal,452,74,1
+November 2025,odisha,kendrapara,604,140,5
+November 2025,odisha,khordha,932,184,61
+November 2025,odisha,koraput,481,181,22
+November 2025,odisha,malkangiri,401,69,1
+November 2025,odisha,mayurbhanj,1192,369,6
+November 2025,odisha,nabarangpur,578,345,8
+November 2025,odisha,nayagarh,401,65,7
+November 2025,odisha,nuapada,260,62,2
+November 2025,odisha,puri,704,117,2
+November 2025,odisha,rayagada,402,131,1
+November 2025,odisha,sambalpur,483,82,1
+November 2025,odisha,sonepur,230,48,0
+November 2025,odisha,sundargarh,745,150,1
+November 2025,puducherry,karaikal,86,6,7
+November 2025,puducherry,puducherry,372,21,8
+November 2025,punjab,amritsar,1315,271,40
+November 2025,punjab,barnala,263,25,5
+November 2025,punjab,bathinda,604,77,14
+November 2025,punjab,faridkot,205,24,3
+November 2025,punjab,fatehgarh sahib,234,43,4
+November 2025,punjab,fazilka,344,51,1
+November 2025,punjab,ferozepur,327,19,3
+November 2025,punjab,gurdaspur,984,113,33
+November 2025,punjab,hoshiarpur,744,60,41
+November 2025,punjab,jalandhar,870,204,28
+November 2025,punjab,kapurthala,314,47,234
+November 2025,punjab,ludhiana,1629,485,108
+November 2025,punjab,malerkotla,181,42,4
+November 2025,punjab,mansa,241,28,2
+November 2025,punjab,moga,327,44,17
+November 2025,punjab,pathankot,297,27,1
+November 2025,punjab,patiala,703,100,2
+November 2025,punjab,rupnagar,363,24,3
+November 2025,punjab,sangrur,460,52,26
+November 2025,punjab,shahid bhagat singh nagar,248,36,30
+November 2025,punjab,sri muktsar sahib,310,43,6
+November 2025,punjab,tarn taran,656,62,4
+November 2025,rajasthan,ajmer,1972,550,66
+November 2025,rajasthan,alwar,2676,1462,88
+November 2025,rajasthan,balotra,1,0,0
+November 2025,rajasthan,banswara,1038,770,21
+November 2025,rajasthan,baran,1001,366,19
+November 2025,rajasthan,barmer,2342,1158,41
+November 2025,rajasthan,bharatpur,2149,1429,79
+November 2025,rajasthan,bhilwara,1751,611,72
+November 2025,rajasthan,bikaner,1164,876,36
+November 2025,rajasthan,bundi,690,324,49
+November 2025,rajasthan,chittorgarh,748,325,45
+November 2025,rajasthan,churu,1495,796,57
+November 2025,rajasthan,dausa,1120,512,39
+November 2025,rajasthan,deeg,4,15,12
+November 2025,rajasthan,dholpur,1021,539,77
+November 2025,rajasthan,dungarpur,917,635,35
+November 2025,rajasthan,ganganagar,852,266,26
+November 2025,rajasthan,hanumangarh,706,222,19
+November 2025,rajasthan,jaipur,4561,1840,391
+November 2025,rajasthan,jaisalmer,336,217,17
+November 2025,rajasthan,jalore,1675,1351,89
+November 2025,rajasthan,jhalawar,1223,491,33
+November 2025,rajasthan,jhunjhunu,1412,414,51
+November 2025,rajasthan,jodhpur,2303,1211,498
+November 2025,rajasthan,karauli,1373,647,72
+November 2025,rajasthan,kota,1637,496,40
+November 2025,rajasthan,nagaur,2277,1012,104
+November 2025,rajasthan,pali,1596,680,61
+November 2025,rajasthan,pratapgarh,661,256,13
+November 2025,rajasthan,rajsamand,839,337,19
+November 2025,rajasthan,sawai madhopur,1057,438,41
+November 2025,rajasthan,sikar,1717,555,113
+November 2025,rajasthan,sirohi,896,585,160
+November 2025,rajasthan,tonk,992,368,17
+November 2025,rajasthan,udaipur,2217,1514,125
+November 2025,sikkim,mangan,0,1,0
+November 2025,sikkim,namchi,1,2,1
+November 2025,tamil nadu,ariyalur,550,180,39
+November 2025,tamil nadu,chengalpattu,179,113,13
+November 2025,tamil nadu,chennai,2257,645,81
+November 2025,tamil nadu,coimbatore,2013,572,9
+November 2025,tamil nadu,cuddalore,2140,392,2
+November 2025,tamil nadu,dharmapuri,1549,289,9
+November 2025,tamil nadu,dindigul,1318,458,3
+November 2025,tamil nadu,erode,1350,346,5
+November 2025,tamil nadu,kallakurichi,216,37,3
+November 2025,tamil nadu,kancheepuram,2583,1065,18
+November 2025,tamil nadu,kanniyakumari,1040,63,15
+November 2025,tamil nadu,karur,874,219,0
+November 2025,tamil nadu,krishnagiri,1070,346,5
+November 2025,tamil nadu,madurai,2381,314,7
+November 2025,tamil nadu,mayiladuthurai,100,20,1
+November 2025,tamil nadu,nagapattinam,923,234,0
+November 2025,tamil nadu,namakkal,1034,234,4
+November 2025,tamil nadu,perambalur,505,88,0
+November 2025,tamil nadu,pudukkottai,1405,563,4
+November 2025,tamil nadu,ramanathapuram,934,236,6
+November 2025,tamil nadu,ranipet,32,2,1
+November 2025,tamil nadu,salem,2012,490,95
+November 2025,tamil nadu,sivaganga,1027,312,9
+November 2025,tamil nadu,tenkasi,342,39,0
+November 2025,tamil nadu,thanjavur,1517,407,2
+November 2025,tamil nadu,the nilgiris,345,139,4
+November 2025,tamil nadu,theni,771,189,2
+November 2025,tamil nadu,thiruvallur,2595,1040,24
+November 2025,tamil nadu,thiruvarur,948,284,2
+November 2025,tamil nadu,thoothukkudi,1201,277,3
+November 2025,tamil nadu,tiruchirappalli,2029,514,1
+November 2025,tamil nadu,tirunelveli,2159,444,2
+November 2025,tamil nadu,tirupathur,245,37,2
+November 2025,tamil nadu,tiruppur,1390,381,3
+November 2025,tamil nadu,tiruvannamalai,1827,210,21
+November 2025,tamil nadu,vellore,2176,460,11
+November 2025,tamil nadu,viluppuram,3849,658,2
+November 2025,tamil nadu,virudhunagar,1351,226,3
+November 2025,telangana,adilabad,577,121,2
+November 2025,telangana,bhadradri kothagudem,478,144,1
+November 2025,telangana,hanumakonda,228,29,4
+November 2025,telangana,hyderabad,3632,821,139
+November 2025,telangana,jagitial,285,22,9
+November 2025,telangana,jangoan,214,28,0
+November 2025,telangana,jayashankar bhupalapally,166,39,4
+November 2025,telangana,jogulamba gadwal,397,87,2
+November 2025,telangana,kamareddy,509,27,0
+November 2025,telangana,karimnagar,1188,142,4
+November 2025,telangana,khammam,733,210,4
+November 2025,telangana,mahabubabad,329,71,0
+November 2025,telangana,mahabubnagar,1744,570,11
+November 2025,telangana,mancherial,206,41,0
+November 2025,telangana,medak,1481,334,3
+November 2025,telangana,medchal malkajgiri,893,262,40
+November 2025,telangana,mulugu,172,42,4
+November 2025,telangana,nagarkurnool,248,67,1
+November 2025,telangana,nalgonda,1350,327,1
+November 2025,telangana,narayanpet,240,48,4
+November 2025,telangana,nirmal,325,33,1
+November 2025,telangana,nizamabad,1344,162,4
+November 2025,telangana,peddapalli,125,10,1
+November 2025,telangana,rajanna sircilla,194,12,1
+November 2025,telangana,ranga reddy,52,21,1
+November 2025,telangana,sangareddy,595,118,2
+November 2025,telangana,siddipet,430,57,1
+November 2025,telangana,suryapet,424,60,1
+November 2025,telangana,vikarabad,560,125,2
+November 2025,telangana,wanaparthy,346,125,0
+November 2025,telangana,warangal,599,113,0
+November 2025,tripura,dhalai,193,160,10
+November 2025,tripura,gomati,95,55,0
+November 2025,tripura,khowai,56,33,18
+November 2025,tripura,north tripura,265,87,3
+November 2025,tripura,sepahijala,275,113,10
+November 2025,tripura,south tripura,353,268,4
+November 2025,tripura,unakoti,116,42,3
+November 2025,tripura,west tripura,588,222,15
+November 2025,uttar pradesh,agra,2709,1766,62
+November 2025,uttar pradesh,aligarh,1632,1280,50
+November 2025,uttar pradesh,ambedkar nagar,923,855,17
+November 2025,uttar pradesh,amethi,938,606,16
+November 2025,uttar pradesh,amroha,1364,526,4
+November 2025,uttar pradesh,auraiya,618,371,0
+November 2025,uttar pradesh,ayodhya,193,68,3
+November 2025,uttar pradesh,azamgarh,1325,2557,64
+November 2025,uttar pradesh,baghpat,738,539,43
+November 2025,uttar pradesh,bahraich,1286,1704,225
+November 2025,uttar pradesh,ballia,1083,1618,23
+November 2025,uttar pradesh,balrampur,898,1219,40
+November 2025,uttar pradesh,banda,811,674,17
+November 2025,uttar pradesh,bara banki,1384,714,33
+November 2025,uttar pradesh,bareilly,2921,1561,137
+November 2025,uttar pradesh,basti,1336,1278,14
+November 2025,uttar pradesh,bhadohi,63,50,3
+November 2025,uttar pradesh,bijnor,3559,884,11
+November 2025,uttar pradesh,budaun,1480,1104,53
+November 2025,uttar pradesh,bulandshahr,2102,1532,37
+November 2025,uttar pradesh,chandauli,973,922,20
+November 2025,uttar pradesh,chitrakoot,683,567,1
+November 2025,uttar pradesh,deoria,1013,1184,37
+November 2025,uttar pradesh,etah,835,582,24
+November 2025,uttar pradesh,etawah,906,512,26
+November 2025,uttar pradesh,farrukhabad,792,730,30
+November 2025,uttar pradesh,fatehpur,1185,856,41
+November 2025,uttar pradesh,firozabad,887,670,35
+November 2025,uttar pradesh,gautam buddha nagar,1320,1022,45
+November 2025,uttar pradesh,ghaziabad,2356,1753,51
+November 2025,uttar pradesh,ghazipur,1018,1636,18
+November 2025,uttar pradesh,gonda,1629,1273,24
+November 2025,uttar pradesh,gorakhpur,1534,2063,29
+November 2025,uttar pradesh,hamirpur,572,357,5
+November 2025,uttar pradesh,hapur,679,366,7
+November 2025,uttar pradesh,hardoi,1929,1741,63
+November 2025,uttar pradesh,hathras,827,503,24
+November 2025,uttar pradesh,jalaun,726,583,17
+November 2025,uttar pradesh,jaunpur,1079,1984,32
+November 2025,uttar pradesh,jhansi,1369,651,20
+November 2025,uttar pradesh,kannauj,715,757,18
+November 2025,uttar pradesh,kanpur dehat,748,569,10
+November 2025,uttar pradesh,kanpur nagar,2186,2114,66
+November 2025,uttar pradesh,kasganj,639,519,18
+November 2025,uttar pradesh,kaushambi,1076,580,16
+November 2025,uttar pradesh,kheri,1984,1954,58
+November 2025,uttar pradesh,kushinagar,1171,1547,6
+November 2025,uttar pradesh,lalitpur,1037,326,3
+November 2025,uttar pradesh,lucknow,2678,1910,108
+November 2025,uttar pradesh,mahoba,544,181,1
+November 2025,uttar pradesh,mahrajganj,921,1461,58
+November 2025,uttar pradesh,mainpuri,903,1023,15
+November 2025,uttar pradesh,mathura,1497,1258,17
+November 2025,uttar pradesh,mau,666,1134,14
+November 2025,uttar pradesh,meerut,2600,1574,41
+November 2025,uttar pradesh,mirzapur,909,1046,4
+November 2025,uttar pradesh,moradabad,2710,780,22
+November 2025,uttar pradesh,muzaffarnagar,1667,1146,14
+November 2025,uttar pradesh,pilibhit,1155,521,37
+November 2025,uttar pradesh,pratapgarh,1473,878,2
+November 2025,uttar pradesh,prayagraj,240,177,36
+November 2025,uttar pradesh,rae bareli,1506,825,11
+November 2025,uttar pradesh,rampur,1709,898,50
+November 2025,uttar pradesh,saharanpur,2678,868,8
+November 2025,uttar pradesh,sambhal,1133,875,25
+November 2025,uttar pradesh,sant kabir nagar,793,880,20
+November 2025,uttar pradesh,shahjahanpur,1520,1161,55
+November 2025,uttar pradesh,shamli,1678,754,11
+November 2025,uttar pradesh,shrawasti,312,529,30
+November 2025,uttar pradesh,siddharthnagar,900,1893,68
+November 2025,uttar pradesh,sitapur,2013,1695,131
+November 2025,uttar pradesh,sonbhadra,724,506,4
+November 2025,uttar pradesh,sultanpur,1199,947,9
+November 2025,uttar pradesh,unnao,2384,1063,50
+November 2025,uttar pradesh,varanasi,1496,1703,20
+November 2025,uttarakhand,almora,358,34,3
+November 2025,uttarakhand,bageshwar,217,16,1
+November 2025,uttarakhand,chamoli,231,18,0
+November 2025,uttarakhand,champawat,177,29,0
+November 2025,uttarakhand,dehradun,1356,236,11
+November 2025,uttarakhand,haridwar,1141,264,2
+November 2025,uttarakhand,nainital,846,87,1
+November 2025,uttarakhand,pauri garhwal,388,39,1
+November 2025,uttarakhand,pithoragarh,252,36,3
+November 2025,uttarakhand,rudraprayag,225,17,0
+November 2025,uttarakhand,tehri garhwal,700,81,0
+November 2025,uttarakhand,udham singh nagar,1253,231,8
+November 2025,uttarakhand,uttarkashi,317,42,0
+November 2025,west bengal,alipurduar,136,93,2
+November 2025,west bengal,bankura,2984,564,1
+November 2025,west bengal,birbhum,3418,472,1
+November 2025,west bengal,cooch behar,1317,546,6
+November 2025,west bengal,dakshin dinajpur,1004,235,8
+November 2025,west bengal,darjeeling,663,302,8
+November 2025,west bengal,hooghly,2650,932,10
+November 2025,west bengal,howrah,2054,720,0
+November 2025,west bengal,jalpaiguri,1219,774,17
+November 2025,west bengal,jhargram,184,39,0
+November 2025,west bengal,kalimpong,18,22,0
+November 2025,west bengal,kolkata,1148,1076,46
+November 2025,west bengal,malda,2476,988,1
+November 2025,west bengal,murshidabad,7291,1133,3
+November 2025,west bengal,nadia,2770,722,34
+November 2025,west bengal,north parganas,4974,1304,55
+November 2025,west bengal,paschim bardhaman,239,77,3
+November 2025,west bengal,paschim medinipur,3439,841,2
+November 2025,west bengal,purba bardhaman,649,120,4
+November 2025,west bengal,purba medinipur,3170,352,1
+November 2025,west bengal,purulia,2527,957,4
+November 2025,west bengal,south parganas,6570,2258,10
+November 2025,west bengal,uttar dinajpur,3081,1326,27
+December 2025,andaman and nicobar islands,nicobars,5,1,0
+December 2025,andaman and nicobar islands,north and middle andaman,39,1,0
+December 2025,andaman and nicobar islands,south andamans,53,2,0
+December 2025,andhra pradesh,alluri sitharama raju,228,11,8
+December 2025,andhra pradesh,anakapalli,122,0,4
+December 2025,andhra pradesh,ananthapuramu,1031,52,2
+December 2025,andhra pradesh,annamayya,210,8,21
+December 2025,andhra pradesh,bapatla,100,13,5
+December 2025,andhra pradesh,chittoor,1419,78,13
+December 2025,andhra pradesh,dr b r ambedkar konaseema,141,2,3
+December 2025,andhra pradesh,east godavari,1468,56,1
+December 2025,andhra pradesh,eluru,123,6,4
+December 2025,andhra pradesh,guntur,2155,112,11
+December 2025,andhra pradesh,kakinada,205,13,5
+December 2025,andhra pradesh,krishna,1300,65,6
+December 2025,andhra pradesh,kurnool,2233,109,7
+December 2025,andhra pradesh,nandyal,181,5,1
+December 2025,andhra pradesh,palnadu,205,11,6
+December 2025,andhra pradesh,parvathipuram manyam,93,2,2
+December 2025,andhra pradesh,prakasam,1194,107,3
+December 2025,andhra pradesh,sri potti sriramulu nellore,115,77,47
+December 2025,andhra pradesh,sri sathya sai,200,4,6
+December 2025,andhra pradesh,srikakulam,772,14,2
+December 2025,andhra pradesh,tirupati,226,87,48
+December 2025,andhra pradesh,visakhapatnam,1740,63,7
+December 2025,andhra pradesh,vizianagaram,724,13,0
+December 2025,andhra pradesh,west godavari,1103,35,5
+December 2025,arunachal pradesh,anjaw,3,0,0
+December 2025,arunachal pradesh,changlang,56,6,0
+December 2025,arunachal pradesh,dibang valley,1,0,0
+December 2025,arunachal pradesh,east kameng,9,13,0
+December 2025,arunachal pradesh,east siang,7,9,0
+December 2025,arunachal pradesh,kamle,1,1,0
+December 2025,arunachal pradesh,kra daadi,1,8,0
+December 2025,arunachal pradesh,kurung kumey,2,2,0
+December 2025,arunachal pradesh,leparada,0,1,0
+December 2025,arunachal pradesh,lohit,37,11,0
+December 2025,arunachal pradesh,longding,5,6,0
+December 2025,arunachal pradesh,lower dibang valley,10,5,0
+December 2025,arunachal pradesh,lower siang,0,1,0
+December 2025,arunachal pradesh,lower subansiri,7,4,0
+December 2025,arunachal pradesh,namsai,21,7,0
+December 2025,arunachal pradesh,papum pare,24,25,0
+December 2025,arunachal pradesh,shi yomi,0,2,0
+December 2025,arunachal pradesh,siang,2,0,0
+December 2025,arunachal pradesh,tawang,12,6,0
+December 2025,arunachal pradesh,tirap,4,6,0
+December 2025,arunachal pradesh,upper siang,2,2,0
+December 2025,arunachal pradesh,upper subansiri,17,6,0
+December 2025,arunachal pradesh,west kameng,16,5,0
+December 2025,arunachal pradesh,west siang,17,8,0
+December 2025,assam,bajali,5,0,0
+December 2025,assam,baksa,303,93,13
+December 2025,assam,barpeta,847,219,7
+December 2025,assam,biswanath,119,58,8
+December 2025,assam,bongaigaon,267,63,40
+December 2025,assam,cachar,717,273,43
+December 2025,assam,charaideo,87,35,19
+December 2025,assam,chirang,216,86,14
+December 2025,assam,darrang,741,253,3
+December 2025,assam,dhemaji,367,159,41
+December 2025,assam,dhubri,948,364,1
+December 2025,assam,dibrugarh,275,98,54
+December 2025,assam,dima hasao,1,2,0
+December 2025,assam,goalpara,531,124,90
+December 2025,assam,golaghat,346,189,3
+December 2025,assam,hailakandi,379,148,25
+December 2025,assam,hojai,306,117,0
+December 2025,assam,jorhat,305,83,25
+December 2025,assam,kamrup,872,204,44
+December 2025,assam,kamrup metro,406,104,32
+December 2025,assam,karbi anglong,267,178,43
+December 2025,assam,kokrajhar,351,84,0
+December 2025,assam,lakhimpur,646,133,48
+December 2025,assam,majuli,41,14,0
+December 2025,assam,marigaon,815,160,21
+December 2025,assam,nagaon,1165,315,15
+December 2025,assam,nalbari,349,108,9
+December 2025,assam,sonitpur,744,293,472
+December 2025,assam,south salmara mancachar,99,24,0
+December 2025,assam,sribhumi,20,10,0
+December 2025,assam,tinsukia,496,198,419
+December 2025,assam,udalguri,339,124,10
+December 2025,assam,west karbi anglong,11,5,34
+December 2025,bihar,araria,1742,854,17
+December 2025,bihar,arwal,134,422,2
+December 2025,bihar,aurangabad,663,1247,36
+December 2025,bihar,banka,1240,859,3
+December 2025,bihar,begusarai,1979,1088,4
+December 2025,bihar,bhagalpur,1360,971,5
+December 2025,bihar,bhojpur,663,2031,18
+December 2025,bihar,buxar,516,809,8
+December 2025,bihar,darbhanga,1816,835,5
+December 2025,bihar,gaya,1270,3170,39
+December 2025,bihar,gopalganj,769,1285,8
+December 2025,bihar,jamui,704,548,9
+December 2025,bihar,jehanabad,199,598,6
+December 2025,bihar,kaimur bhabua,425,465,5
+December 2025,bihar,katihar,2009,693,10
+December 2025,bihar,khagaria,1209,780,10
+December 2025,bihar,kishanganj,1136,234,5
+December 2025,bihar,lakhisarai,401,394,2
+December 2025,bihar,madhepura,1220,1074,7
+December 2025,bihar,madhubani,2116,1592,27
+December 2025,bihar,munger,384,509,4
+December 2025,bihar,muzaffarpur,1732,1419,108
+December 2025,bihar,nalanda,709,1520,9
+December 2025,bihar,nawada,463,1460,9
+December 2025,bihar,pashchim champaran,11,12,0
+December 2025,bihar,patna,1303,2271,43
+December 2025,bihar,purbi champaran,15,6,0
+December 2025,bihar,purnia,2129,1127,13
+December 2025,bihar,rohtas,680,1085,10
+December 2025,bihar,saharsa,1080,983,18
+December 2025,bihar,samastipur,2560,1632,14
+December 2025,bihar,saran,1486,2701,29
+December 2025,bihar,sheikhpura,236,279,3
+December 2025,bihar,sheohar,601,336,4
+December 2025,bihar,sitamarhi,1936,1437,27
+December 2025,bihar,siwan,1032,1338,6
+December 2025,bihar,supaul,1181,917,23
+December 2025,bihar,vaishali,1654,1569,11
+December 2025,chandigarh,chandigarh,511,31,8
+December 2025,chhattisgarh,balod,340,10,0
+December 2025,chhattisgarh,bastar,1992,380,0
+December 2025,chhattisgarh,bemetara,552,39,1
+December 2025,chhattisgarh,bijapur,761,194,148
+December 2025,chhattisgarh,bilaspur,1077,163,1
+December 2025,chhattisgarh,dakshin bastar dantewada,304,37,0
+December 2025,chhattisgarh,dhamtari,358,13,1
+December 2025,chhattisgarh,durg,663,61,1
+December 2025,chhattisgarh,gariyaband,246,39,0
+December 2025,chhattisgarh,gaurela pendra marwahi,18,1,1
+December 2025,chhattisgarh,janjgir champa,792,77,0
+December 2025,chhattisgarh,jashpur,364,241,0
+December 2025,chhattisgarh,kabeerdham,190,16,0
+December 2025,chhattisgarh,khairagarh chhuikhadan gandai,33,16,0
+December 2025,chhattisgarh,kondagaon,492,273,0
+December 2025,chhattisgarh,korba,534,64,1
+December 2025,chhattisgarh,mahasamund,419,77,4
+December 2025,chhattisgarh,manendragarh chirmiri bharatpur m c b,38,13,0
+December 2025,chhattisgarh,mohla manpur ambagarh chouki,19,20,2
+December 2025,chhattisgarh,mungeli,471,41,0
+December 2025,chhattisgarh,narayanpur,110,50,8
+December 2025,chhattisgarh,raigarh,437,92,0
+December 2025,chhattisgarh,raipur,960,69,4
+December 2025,chhattisgarh,rajnandgaon,750,59,0
+December 2025,chhattisgarh,sakti,65,10,0
+December 2025,chhattisgarh,sarangarh bilaigarh,67,8,0
+December 2025,chhattisgarh,sukma,254,164,7
+December 2025,chhattisgarh,surajpur,484,171,4
+December 2025,chhattisgarh,surguja,563,135,0
+December 2025,chhattisgarh,uttar bastar kanker,207,40,0
+December 2025,delhi,new delhi,27,16,0
+December 2025,delhi,north east,271,55,0
+December 2025,delhi,shahdara,52,24,2
+December 2025,goa,north goa,166,12,17
+December 2025,goa,south goa,108,12,6
+December 2025,gujarat,ahmedabad,2504,672,138
+December 2025,gujarat,amreli,766,62,27
+December 2025,gujarat,anand,1004,82,126
+December 2025,gujarat,arvalli,382,24,24
+December 2025,gujarat,banas kantha,2050,488,75
+December 2025,gujarat,bharuch,785,90,14
+December 2025,gujarat,bhavnagar,1194,99,33
+December 2025,gujarat,botad,181,13,17
+December 2025,gujarat,chhotaudepur,295,42,27
+December 2025,gujarat,dahod,657,223,9
+December 2025,gujarat,devbhumi dwarka,247,27,8
+December 2025,gujarat,gandhinagar,648,87,123
+December 2025,gujarat,gir somnath,423,33,17
+December 2025,gujarat,jamnagar,744,55,14
+December 2025,gujarat,junagadh,1027,62,4
+December 2025,gujarat,kachchh,1144,212,33
+December 2025,gujarat,kheda,886,108,41
+December 2025,gujarat,mahesana,873,79,61
+December 2025,gujarat,mahisagar,312,22,10
+December 2025,gujarat,morbi,326,59,19
+December 2025,gujarat,narmada,254,15,5
+December 2025,gujarat,navsari,310,19,2
+December 2025,gujarat,panch mahals,14,2,0
+December 2025,gujarat,patan,497,75,25
+December 2025,gujarat,porbandar,237,12,9
+December 2025,gujarat,rajkot,1398,184,26
+December 2025,gujarat,sabar kantha,28,4,0
+December 2025,gujarat,surat,2146,467,62
+December 2025,gujarat,surendranagar,26,3,0
+December 2025,gujarat,tapi,232,15,26
+December 2025,gujarat,vadodara,1554,243,36
+December 2025,gujarat,valsad,1064,106,13
+December 2025,haryana,ambala,531,7,4
+December 2025,haryana,bhiwani,706,29,0
+December 2025,haryana,charkhi dadri,140,5,0
+December 2025,haryana,faridabad,933,175,8
+December 2025,haryana,fatehabad,522,13,1
+December 2025,haryana,hisar,830,15,0
+December 2025,haryana,jhajjar,459,15,3
+December 2025,haryana,jind,659,10,0
+December 2025,haryana,kaithal,497,10,0
+December 2025,haryana,karnal,852,33,3
+December 2025,haryana,kurukshetra,401,8,0
+December 2025,haryana,mahendragarh,565,31,1
+December 2025,haryana,palwal,896,60,0
+December 2025,haryana,panchkula,276,13,1
+December 2025,haryana,panipat,635,37,1
+December 2025,haryana,rewari,445,15,0
+December 2025,haryana,rohtak,522,21,0
+December 2025,haryana,sirsa,666,34,0
+December 2025,haryana,sonipat,728,31,1
+December 2025,haryana,yamunanagar,10,1,0
+December 2025,himachal pradesh,bilaspur,204,2,0
+December 2025,himachal pradesh,chamba,292,10,1
+December 2025,himachal pradesh,hamirpur,229,2,1
+December 2025,himachal pradesh,kangra,613,5,4
+December 2025,himachal pradesh,kinnaur,31,4,0
+December 2025,himachal pradesh,kullu,180,14,9
+December 2025,himachal pradesh,lahaul and spiti,7,0,0
+December 2025,himachal pradesh,mandi,483,4,0
+December 2025,himachal pradesh,shimla,244,21,3
+December 2025,himachal pradesh,sirmaur,243,13,1
+December 2025,himachal pradesh,solan,184,8,3
+December 2025,himachal pradesh,una,218,4,0
+December 2025,jammu and kashmir,anantnag,633,52,6
+December 2025,jammu and kashmir,bandipora,276,51,2
+December 2025,jammu and kashmir,baramulla,1021,77,1
+December 2025,jammu and kashmir,budgam,190,8,3
+December 2025,jammu and kashmir,doda,880,85,5
+December 2025,jammu and kashmir,ganderbal,171,5,2
+December 2025,jammu and kashmir,jammu,821,108,3
+December 2025,jammu and kashmir,kathua,846,55,1
+December 2025,jammu and kashmir,kishtwar,313,33,1
+December 2025,jammu and kashmir,kulgam,236,37,0
+December 2025,jammu and kashmir,kupwara,472,58,0
+December 2025,jammu and kashmir,pulwama,405,16,1
+December 2025,jammu and kashmir,rajouri,517,86,0
+December 2025,jammu and kashmir,ramban,484,96,1
+December 2025,jammu and kashmir,reasi,331,88,4
+December 2025,jammu and kashmir,samba,129,7,0
+December 2025,jammu and kashmir,srinagar,502,42,14
+December 2025,jammu and kashmir,udhampur,782,55,0
+December 2025,jharkhand,bokaro,719,357,4
+December 2025,jharkhand,chatra,518,467,5
+December 2025,jharkhand,deoghar,933,589,12
+December 2025,jharkhand,dhanbad,791,373,17
+December 2025,jharkhand,dumka,434,391,2
+December 2025,jharkhand,east singhbum,1593,285,18
+December 2025,jharkhand,garhwa,925,248,1
+December 2025,jharkhand,giridih,1432,944,4
+December 2025,jharkhand,godda,590,299,1
+December 2025,jharkhand,gumla,682,264,18
+December 2025,jharkhand,hazaribagh,771,289,0
+December 2025,jharkhand,jamtara,521,163,4
+December 2025,jharkhand,khunti,206,102,0
+December 2025,jharkhand,koderma,430,186,1
+December 2025,jharkhand,latehar,366,131,1
+December 2025,jharkhand,lohardaga,603,85,0
+December 2025,jharkhand,pakur,207,56,0
+December 2025,jharkhand,palamu,1183,307,15
+December 2025,jharkhand,ramgarh,298,155,0
+December 2025,jharkhand,ranchi,965,328,51
+December 2025,jharkhand,sahebganj,699,308,3
+December 2025,jharkhand,saraikela kharsawan,647,204,4
+December 2025,jharkhand,simdega,211,61,0
+December 2025,jharkhand,west singhbhum,769,376,4
+December 2025,karnataka,bagalkote,1771,145,13
+December 2025,karnataka,ballari,514,48,10
+December 2025,karnataka,belagavi,1452,109,7
+December 2025,karnataka,bengaluru south,6,60,1
+December 2025,karnataka,bidar,781,102,4
+December 2025,karnataka,chamarajanagar,446,23,0
+December 2025,karnataka,chikkaballapura,638,56,9
+December 2025,karnataka,chikkamagaluru,251,20,0
+December 2025,karnataka,chitradurga,1313,86,8
+December 2025,karnataka,dakshina kannada,1317,83,2
+December 2025,karnataka,davanagere,1607,73,3
+December 2025,karnataka,dharwad,870,42,0
+December 2025,karnataka,gadag,673,52,0
+December 2025,karnataka,hassan,755,39,1
+December 2025,karnataka,haveri,970,38,10
+December 2025,karnataka,kalaburagi,741,100,0
+December 2025,karnataka,kodagu,303,10,0
+December 2025,karnataka,kolar,709,50,3
+December 2025,karnataka,koppal,1117,96,14
+December 2025,karnataka,mandya,863,34,0
+December 2025,karnataka,mysuru,610,48,4
+December 2025,karnataka,raichur,1763,312,18
+December 2025,karnataka,shivamogga,526,34,4
+December 2025,karnataka,tumakuru,1422,77,0
+December 2025,karnataka,udupi,606,29,6
+December 2025,karnataka,uttara kannada,634,30,2
+December 2025,karnataka,vijayanagara,381,32,10
+December 2025,karnataka,vijayapura,780,101,17
+December 2025,karnataka,yadgir,951,243,5
+December 2025,kerala,alappuzha,456,134,42
+December 2025,kerala,ernakulam,679,243,87
+December 2025,kerala,idukki,222,44,5
+December 2025,kerala,kannur,754,246,63
+December 2025,kerala,kasaragod,660,144,6
+December 2025,kerala,kollam,696,173,26
+December 2025,kerala,kottayam,526,151,1
+December 2025,kerala,kozhikode,985,305,27
+December 2025,kerala,malappuram,2582,642,31
+December 2025,kerala,palakkad,1318,212,24
+December 2025,kerala,pathanamthitta,304,110,14
+December 2025,kerala,thiruvananthapuram,852,229,41
+December 2025,kerala,thrissur,751,285,14
+December 2025,kerala,wayanad,181,23,3
+December 2025,ladakh,kargil,121,12,1
+December 2025,madhya pradesh,agar malwa,552,84,23
+December 2025,madhya pradesh,alirajpur,561,310,113
+December 2025,madhya pradesh,anuppur,779,81,1
+December 2025,madhya pradesh,ashoknagar,606,177,18
+December 2025,madhya pradesh,balaghat,1215,98,7
+December 2025,madhya pradesh,barwani,1314,334,53
+December 2025,madhya pradesh,betul,1314,152,18
+December 2025,madhya pradesh,bhind,1000,410,7
+December 2025,madhya pradesh,bhopal,2003,130,10
+December 2025,madhya pradesh,burhanpur,648,95,7
+December 2025,madhya pradesh,chhatarpur,2418,570,68
+December 2025,madhya pradesh,chhindwara,1813,100,2
+December 2025,madhya pradesh,damoh,967,134,1
+December 2025,madhya pradesh,datia,645,201,1
+December 2025,madhya pradesh,dewas,1433,210,19
+December 2025,madhya pradesh,dhar,1780,430,24
+December 2025,madhya pradesh,dindori,776,37,0
+December 2025,madhya pradesh,guna,1379,292,19
+December 2025,madhya pradesh,gwalior,1447,422,57
+December 2025,madhya pradesh,harda,486,71,2
+December 2025,madhya pradesh,indore,2699,451,81
+December 2025,madhya pradesh,jabalpur,2211,221,46
+December 2025,madhya pradesh,jhabua,1024,408,29
+December 2025,madhya pradesh,katni,1653,466,30
+December 2025,madhya pradesh,maihar,91,4,2
+December 2025,madhya pradesh,mandla,1182,32,1
+December 2025,madhya pradesh,mandsaur,1353,147,6
+December 2025,madhya pradesh,mauganj,75,7,0
+December 2025,madhya pradesh,morena,2096,657,52
+December 2025,madhya pradesh,narmadapuram,132,22,5
+December 2025,madhya pradesh,narsimhapur,179,35,0
+December 2025,madhya pradesh,neemuch,739,130,2
+December 2025,madhya pradesh,niwari,26,1,7
+December 2025,madhya pradesh,pandhurna,23,2,0
+December 2025,madhya pradesh,panna,960,311,31
+December 2025,madhya pradesh,raisen,1472,209,15
+December 2025,madhya pradesh,rajgarh,2713,368,14
+December 2025,madhya pradesh,ratlam,959,172,25
+December 2025,madhya pradesh,rewa,1764,191,12
+December 2025,madhya pradesh,sagar,2397,282,57
+December 2025,madhya pradesh,satna,1845,281,58
+December 2025,madhya pradesh,sehore,1557,221,5
+December 2025,madhya pradesh,seoni,1337,94,1
+December 2025,madhya pradesh,shahdol,1459,176,1
+December 2025,madhya pradesh,shajapur,1472,200,0
+December 2025,madhya pradesh,sheopur,929,476,3
+December 2025,madhya pradesh,shivpuri,1524,712,19
+December 2025,madhya pradesh,sidhi,1170,128,1
+December 2025,madhya pradesh,singrauli,1392,146,11
+December 2025,madhya pradesh,tikamgarh,1507,263,8
+December 2025,madhya pradesh,ujjain,2599,304,5
+December 2025,madhya pradesh,umaria,1102,171,21
+December 2025,madhya pradesh,vidisha,1507,268,11
+December 2025,maharashtra,ahilyanagar,12,1,0
+December 2025,maharashtra,akola,699,53,1
+December 2025,maharashtra,amravati,1130,106,2
+December 2025,maharashtra,beed,881,93,18
+December 2025,maharashtra,bhandara,538,5,0
+December 2025,maharashtra,buldhana,1148,89,13
+December 2025,maharashtra,chandrapur,787,46,5
+December 2025,maharashtra,chhatrapati sambhajinagar,92,51,15
+December 2025,maharashtra,dharashiv,24,1,0
+December 2025,maharashtra,dhule,951,279,12
+December 2025,maharashtra,gadchiroli,594,48,2
+December 2025,maharashtra,gondia,585,16,3
+December 2025,maharashtra,hingoli,546,60,9
+December 2025,maharashtra,jalgaon,1749,183,39
+December 2025,maharashtra,jalna,976,110,2
+December 2025,maharashtra,kolhapur,1329,122,1
+December 2025,maharashtra,latur,837,106,4
+December 2025,maharashtra,mumbai,2100,452,2
+December 2025,maharashtra,mumbai suburban,1752,366,65
+December 2025,maharashtra,nagpur,1617,132,63
+December 2025,maharashtra,nanded,1424,194,27
+December 2025,maharashtra,nandurbar,800,100,6
+December 2025,maharashtra,nashik,2815,452,4
+December 2025,maharashtra,palghar,1240,278,10
+December 2025,maharashtra,parbhani,832,90,10
+December 2025,maharashtra,pune,4470,764,172
+December 2025,maharashtra,raigad,305,68,16
+December 2025,maharashtra,ratnagiri,509,32,9
+December 2025,maharashtra,sangli,953,83,1
+December 2025,maharashtra,satara,1292,73,25
+December 2025,maharashtra,sindhudurg,193,12,3
+December 2025,maharashtra,solapur,2060,321,40
+December 2025,maharashtra,thane,3710,866,129
+December 2025,maharashtra,wardha,539,15,0
+December 2025,maharashtra,washim,810,33,0
+December 2025,maharashtra,yavatmal,1263,120,38
+December 2025,manipur,bishnupur,69,58,0
+December 2025,manipur,chandel,34,74,0
+December 2025,manipur,churachandpur,113,113,16
+December 2025,manipur,imphal east,124,100,0
+December 2025,manipur,imphal west,144,90,0
+December 2025,manipur,jiribam,9,5,0
+December 2025,manipur,kakching,7,8,0
+December 2025,manipur,pherzawl,0,2,0
+December 2025,manipur,senapati,98,95,4
+December 2025,manipur,tamenglong,44,96,0
+December 2025,manipur,thoubal,91,135,0
+December 2025,manipur,ukhrul,41,30,3
+December 2025,meghalaya,east garo hills,3,21,6
+December 2025,meghalaya,east jaintia hills,7,23,14
+December 2025,meghalaya,east khasi hills,99,191,233
+December 2025,meghalaya,eastern west khasi hills,0,16,585
+December 2025,meghalaya,north garo hills,9,33,146
+December 2025,meghalaya,ri bhoi,16,63,87
+December 2025,meghalaya,south garo hills,1,17,0
+December 2025,meghalaya,south west garo hills,13,12,19
+December 2025,meghalaya,south west khasi hills,10,27,12
+December 2025,meghalaya,west garo hills,119,82,31
+December 2025,meghalaya,west jaintia hills,25,240,5
+December 2025,meghalaya,west khasi hills,19,75,84
+December 2025,mizoram,aizawl,65,8,1
+December 2025,mizoram,champhai,18,16,2
+December 2025,mizoram,khawzawl,0,1,0
+December 2025,mizoram,kolasib,13,0,0
+December 2025,mizoram,lawngtlai,199,46,0
+December 2025,mizoram,lunglei,29,3,7
+December 2025,mizoram,mamit,26,5,0
+December 2025,mizoram,saitual,1,1,0
+December 2025,mizoram,serchhip,9,0,0
+December 2025,nagaland,chumoukedima,5,6,0
+December 2025,nagaland,dimapur,20,33,1
+December 2025,nagaland,kiphire,5,15,1
+December 2025,nagaland,kohima,17,18,0
+December 2025,nagaland,longleng,1,9,0
+December 2025,nagaland,mokokchung,2,20,1
+December 2025,nagaland,mon,12,47,2
+December 2025,nagaland,niuland,1,0,0
+December 2025,nagaland,noklak,0,30,0
+December 2025,nagaland,peren,8,0,0
+December 2025,nagaland,phek,2,8,0
+December 2025,nagaland,shamator,0,19,0
+December 2025,nagaland,tseminyu,1,1,0
+December 2025,nagaland,tuensang,9,21,0
+December 2025,nagaland,wokha,5,15,0
+December 2025,nagaland,zunheboto,8,8,0
+December 2025,odisha,angul,587,75,2
+December 2025,odisha,balangir,896,151,1
+December 2025,odisha,bargarh,769,126,1
+December 2025,odisha,bhadrak,465,139,2
+December 2025,odisha,boudh,172,36,1
+December 2025,odisha,cuttack,835,181,3
+December 2025,odisha,dhenkanal,607,96,7
+December 2025,odisha,gajapati,213,51,5
+December 2025,odisha,ganjam,1393,175,2
+December 2025,odisha,jagatsinghapur,572,50,1
+December 2025,odisha,jajpur,774,151,2
+December 2025,odisha,jharsuguda,178,13,0
+December 2025,odisha,kalahandi,443,120,16
+December 2025,odisha,kandhamal,339,60,0
+December 2025,odisha,kendrapara,766,124,0
+December 2025,odisha,khordha,804,107,40
+December 2025,odisha,koraput,431,154,22
+December 2025,odisha,malkangiri,281,45,2
+December 2025,odisha,mayurbhanj,718,222,0
+December 2025,odisha,nabarangpur,503,178,35
+December 2025,odisha,nayagarh,401,34,0
+December 2025,odisha,nuapada,231,71,0
+December 2025,odisha,puri,552,81,0
+December 2025,odisha,rayagada,238,81,1
+December 2025,odisha,sambalpur,457,50,0
+December 2025,odisha,sonepur,174,26,1
+December 2025,odisha,sundargarh,684,102,4
+December 2025,puducherry,karaikal,52,3,3
+December 2025,puducherry,puducherry,218,13,13
+December 2025,punjab,amritsar,660,94,48
+December 2025,punjab,barnala,136,10,1
+December 2025,punjab,bathinda,366,38,1
+December 2025,punjab,faridkot,141,12,3
+December 2025,punjab,fatehgarh sahib,133,26,1
+December 2025,punjab,fazilka,249,49,5
+December 2025,punjab,ferozepur,153,19,1
+December 2025,punjab,gurdaspur,532,59,6
+December 2025,punjab,hoshiarpur,422,26,69
+December 2025,punjab,jalandhar,432,115,13
+December 2025,punjab,kapurthala,150,29,160
+December 2025,punjab,ludhiana,901,235,70
+December 2025,punjab,malerkotla,130,15,3
+December 2025,punjab,mansa,159,11,10
+December 2025,punjab,moga,201,17,0
+December 2025,punjab,pathankot,243,5,14
+December 2025,punjab,patiala,481,55,17
+December 2025,punjab,rupnagar,181,12,7
+December 2025,punjab,sangrur,306,24,0
+December 2025,punjab,shahid bhagat singh nagar,119,11,3
+December 2025,punjab,sri muktsar sahib,170,20,2
+December 2025,punjab,tarn taran,284,27,1
+December 2025,rajasthan,ajmer,1277,416,6
+December 2025,rajasthan,alwar,1849,905,35
+December 2025,rajasthan,banswara,730,534,6
+December 2025,rajasthan,baran,791,320,3
+December 2025,rajasthan,barmer,1653,875,23
+December 2025,rajasthan,beawar,1,0,0
+December 2025,rajasthan,bharatpur,1269,942,12
+December 2025,rajasthan,bhilwara,1107,516,24
+December 2025,rajasthan,bikaner,918,808,16
+December 2025,rajasthan,bundi,630,247,12
+December 2025,rajasthan,chittorgarh,558,294,12
+December 2025,rajasthan,churu,1129,623,8
+December 2025,rajasthan,dausa,659,335,5
+December 2025,rajasthan,deeg,8,23,0
+December 2025,rajasthan,dholpur,625,371,5
+December 2025,rajasthan,didwana kuchaman,2,0,0
+December 2025,rajasthan,dungarpur,703,417,1
+December 2025,rajasthan,ganganagar,1292,281,5
+December 2025,rajasthan,hanumangarh,605,201,4
+December 2025,rajasthan,jaipur,3023,1553,47
+December 2025,rajasthan,jaisalmer,279,164,5
+December 2025,rajasthan,jalore,1008,1164,8
+December 2025,rajasthan,jhalawar,797,398,3
+December 2025,rajasthan,jhunjhunu,953,309,7
+December 2025,rajasthan,jodhpur,2083,913,107
+December 2025,rajasthan,karauli,752,413,5
+December 2025,rajasthan,kota,1083,293,1
+December 2025,rajasthan,nagaur,1509,770,4
+December 2025,rajasthan,pali,948,455,15
+December 2025,rajasthan,pratapgarh,469,196,2
+December 2025,rajasthan,rajsamand,482,235,4
+December 2025,rajasthan,salumbar,1,0,0
+December 2025,rajasthan,sawai madhopur,596,327,0
+December 2025,rajasthan,sikar,1035,548,2
+December 2025,rajasthan,sirohi,640,493,18
+December 2025,rajasthan,tonk,481,236,4
+December 2025,rajasthan,udaipur,1327,1019,9
+December 2025,sikkim,mangan,0,0,1
+December 2025,sikkim,namchi,1,0,4
+December 2025,tamil nadu,ariyalur,328,38,17
+December 2025,tamil nadu,chengalpattu,132,46,17
+December 2025,tamil nadu,chennai,1341,249,44
+December 2025,tamil nadu,coimbatore,1081,265,11
+December 2025,tamil nadu,cuddalore,1216,120,32
+December 2025,tamil nadu,dharmapuri,820,137,25
+December 2025,tamil nadu,dindigul,746,158,7
+December 2025,tamil nadu,erode,769,136,3
+December 2025,tamil nadu,kallakurichi,131,13,10
+December 2025,tamil nadu,kancheepuram,1766,440,7
+December 2025,tamil nadu,kanniyakumari,654,30,0
+December 2025,tamil nadu,karur,586,70,2
+December 2025,tamil nadu,krishnagiri,899,170,2
+December 2025,tamil nadu,madurai,1211,117,2
+December 2025,tamil nadu,mayiladuthurai,69,11,0
+December 2025,tamil nadu,nagapattinam,542,91,0
+December 2025,tamil nadu,namakkal,620,85,2
+December 2025,tamil nadu,perambalur,315,28,0
+December 2025,tamil nadu,pudukkottai,864,210,15
+December 2025,tamil nadu,ramanathapuram,576,59,10
+December 2025,tamil nadu,ranipet,16,3,0
+December 2025,tamil nadu,salem,1589,255,46
+December 2025,tamil nadu,sivaganga,642,74,2
+December 2025,tamil nadu,tenkasi,197,15,0
+December 2025,tamil nadu,thanjavur,1152,262,4
+December 2025,tamil nadu,the nilgiris,208,75,0
+December 2025,tamil nadu,theni,469,68,0
+December 2025,tamil nadu,thiruvallur,1688,332,20
+December 2025,tamil nadu,thiruvarur,677,116,0
+December 2025,tamil nadu,thoothukkudi,858,141,0
+December 2025,tamil nadu,tiruchirappalli,1470,162,3
+December 2025,tamil nadu,tirunelveli,1483,137,0
+December 2025,tamil nadu,tirupathur,207,24,0
+December 2025,tamil nadu,tiruppur,873,150,1
+December 2025,tamil nadu,tiruvannamalai,1052,53,8
+December 2025,tamil nadu,vellore,1453,163,1
+December 2025,tamil nadu,viluppuram,1372,143,1
+December 2025,tamil nadu,virudhunagar,893,67,7
+December 2025,telangana,adilabad,344,56,1
+December 2025,telangana,bhadradri kothagudem,268,53,1
+December 2025,telangana,hanumakonda,128,16,0
+December 2025,telangana,hyderabad,2133,480,69
+December 2025,telangana,jagitial,286,11,0
+December 2025,telangana,jangoan,114,10,0
+December 2025,telangana,jayashankar bhupalapally,81,23,0
+December 2025,telangana,jogulamba gadwal,163,34,0
+December 2025,telangana,kamareddy,220,16,2
+December 2025,telangana,karimnagar,696,65,1
+December 2025,telangana,khammam,392,61,1
+December 2025,telangana,mahabubabad,134,32,0
+December 2025,telangana,mahabubnagar,941,228,1
+December 2025,telangana,mancherial,154,20,0
+December 2025,telangana,medak,752,87,0
+December 2025,telangana,medchal malkajgiri,583,135,11
+December 2025,telangana,mulugu,102,24,0
+December 2025,telangana,nagarkurnool,132,33,1
+December 2025,telangana,nalgonda,625,101,9
+December 2025,telangana,narayanpet,134,27,0
+December 2025,telangana,nirmal,166,13,0
+December 2025,telangana,nizamabad,702,70,4
+December 2025,telangana,peddapalli,71,15,0
+December 2025,telangana,rajanna sircilla,128,7,1
+December 2025,telangana,ranga reddy,46,14,0
+December 2025,telangana,sangareddy,304,46,5
+December 2025,telangana,siddipet,208,19,0
+December 2025,telangana,suryapet,198,21,0
+December 2025,telangana,vikarabad,251,44,0
+December 2025,telangana,wanaparthy,183,34,0
+December 2025,telangana,warangal,301,51,0
+December 2025,tripura,dhalai,170,80,1
+December 2025,tripura,gomati,123,25,0
+December 2025,tripura,khowai,45,18,6
+December 2025,tripura,north tripura,203,70,2
+December 2025,tripura,sepahijala,236,109,3
+December 2025,tripura,south tripura,352,128,2
+December 2025,tripura,unakoti,77,40,1
+December 2025,tripura,west tripura,378,114,3
+December 2025,uttar pradesh,agra,2067,1048,264
+December 2025,uttar pradesh,aligarh,1591,774,18
+December 2025,uttar pradesh,ambedkar nagar,605,475,4
+December 2025,uttar pradesh,amethi,747,455,2
+December 2025,uttar pradesh,amroha,1097,418,16
+December 2025,uttar pradesh,auraiya,339,294,11
+December 2025,uttar pradesh,ayodhya,100,39,0
+December 2025,uttar pradesh,azamgarh,1004,1342,35
+December 2025,uttar pradesh,baghpat,545,315,4
+December 2025,uttar pradesh,bahraich,969,1224,52
+December 2025,uttar pradesh,ballia,739,896,5
+December 2025,uttar pradesh,balrampur,740,913,25
+December 2025,uttar pradesh,banda,543,390,15
+December 2025,uttar pradesh,bara banki,1101,429,6
+December 2025,uttar pradesh,bareilly,1928,820,28
+December 2025,uttar pradesh,basti,889,809,15
+December 2025,uttar pradesh,bhadohi,42,47,0
+December 2025,uttar pradesh,bijnor,1943,436,10
+December 2025,uttar pradesh,budaun,903,764,42
+December 2025,uttar pradesh,bulandshahr,1508,1036,21
+December 2025,uttar pradesh,chandauli,441,420,9
+December 2025,uttar pradesh,chitrakoot,685,526,3
+December 2025,uttar pradesh,deoria,756,702,8
+December 2025,uttar pradesh,etah,615,309,12
+December 2025,uttar pradesh,etawah,632,299,3
+December 2025,uttar pradesh,farrukhabad,692,492,2
+December 2025,uttar pradesh,fatehpur,883,514,6
+December 2025,uttar pradesh,firozabad,737,529,5
+December 2025,uttar pradesh,gautam buddha nagar,774,557,37
+December 2025,uttar pradesh,ghaziabad,1244,868,14
+December 2025,uttar pradesh,ghazipur,764,884,10
+December 2025,uttar pradesh,gonda,1049,763,69
+December 2025,uttar pradesh,gorakhpur,985,1149,8
+December 2025,uttar pradesh,hamirpur,385,197,4
+December 2025,uttar pradesh,hapur,622,294,5
+December 2025,uttar pradesh,hardoi,1356,918,28
+December 2025,uttar pradesh,hathras,822,368,9
+December 2025,uttar pradesh,jalaun,471,293,27
+December 2025,uttar pradesh,jaunpur,868,1022,14
+December 2025,uttar pradesh,jhansi,940,341,12
+December 2025,uttar pradesh,kannauj,459,385,6
+December 2025,uttar pradesh,kanpur dehat,540,369,18
+December 2025,uttar pradesh,kanpur nagar,1301,1105,45
+December 2025,uttar pradesh,kasganj,478,314,26
+December 2025,uttar pradesh,kaushambi,766,321,1
+December 2025,uttar pradesh,kheri,1323,1016,31
+December 2025,uttar pradesh,kushinagar,870,989,6
+December 2025,uttar pradesh,lalitpur,656,176,15
+December 2025,uttar pradesh,lucknow,1794,1332,21
+December 2025,uttar pradesh,mahoba,400,155,2
+December 2025,uttar pradesh,mahrajganj,630,916,27
+December 2025,uttar pradesh,mainpuri,707,643,25
+December 2025,uttar pradesh,mathura,1126,697,6
+December 2025,uttar pradesh,mau,437,570,7
+December 2025,uttar pradesh,meerut,1331,814,18
+December 2025,uttar pradesh,mirzapur,614,547,1
+December 2025,uttar pradesh,moradabad,1260,416,12
+December 2025,uttar pradesh,muzaffarnagar,873,423,13
+December 2025,uttar pradesh,pilibhit,820,236,20
+December 2025,uttar pradesh,pratapgarh,975,577,20
+December 2025,uttar pradesh,prayagraj,165,97,5
+December 2025,uttar pradesh,rae bareli,1140,655,10
+December 2025,uttar pradesh,rampur,1082,486,24
+December 2025,uttar pradesh,saharanpur,1867,558,6
+December 2025,uttar pradesh,sambhal,920,726,27
+December 2025,uttar pradesh,sant kabir nagar,581,515,3
+December 2025,uttar pradesh,shahjahanpur,944,523,17
+December 2025,uttar pradesh,shamli,1033,369,15
+December 2025,uttar pradesh,shrawasti,259,385,9
+December 2025,uttar pradesh,siddharthnagar,701,1149,34
+December 2025,uttar pradesh,sitapur,1788,1189,35
+December 2025,uttar pradesh,sonbhadra,511,265,0
+December 2025,uttar pradesh,sultanpur,704,520,1
+December 2025,uttar pradesh,unnao,972,815,12
+December 2025,uttar pradesh,varanasi,1088,883,22
+December 2025,uttarakhand,almora,253,19,0
+December 2025,uttarakhand,bageshwar,96,13,1
+December 2025,uttarakhand,chamoli,229,8,4
+December 2025,uttarakhand,champawat,112,11,1
+December 2025,uttarakhand,dehradun,901,92,5
+December 2025,uttarakhand,haridwar,863,172,2
+December 2025,uttarakhand,nainital,442,43,8
+December 2025,uttarakhand,pauri garhwal,300,29,6
+December 2025,uttarakhand,pithoragarh,228,21,1
+December 2025,uttarakhand,rudraprayag,178,11,0
+December 2025,uttarakhand,tehri garhwal,539,61,6
+December 2025,uttarakhand,udham singh nagar,1014,135,7
+December 2025,uttarakhand,uttarkashi,257,34,0
+December 2025,west bengal,alipurduar,104,52,127
+December 2025,west bengal,bankura,1324,322,104
+December 2025,west bengal,birbhum,2146,244,33
+December 2025,west bengal,cooch behar,631,201,84
+December 2025,west bengal,dakshin dinajpur,654,119,31
+December 2025,west bengal,darjeeling,468,162,182
+December 2025,west bengal,hooghly,1653,511,235
+December 2025,west bengal,howrah,986,342,97
+December 2025,west bengal,jalpaiguri,828,544,194
+December 2025,west bengal,jhargram,104,26,27
+December 2025,west bengal,kalimpong,14,9,70
+December 2025,west bengal,kolkata,660,510,282
+December 2025,west bengal,malda,2179,648,42
+December 2025,west bengal,murshidabad,4037,523,62
+December 2025,west bengal,nadia,1625,320,368
+December 2025,west bengal,north parganas,3104,742,950
+December 2025,west bengal,paschim bardhaman,136,39,65
+December 2025,west bengal,paschim medinipur,2022,477,119
+December 2025,west bengal,purba bardhaman,347,65,86
+December 2025,west bengal,purba medinipur,1848,150,37
+December 2025,west bengal,purulia,1426,507,90
+December 2025,west bengal,south parganas,4002,1183,221
+December 2025,west bengal,uttar dinajpur,1980,608,66

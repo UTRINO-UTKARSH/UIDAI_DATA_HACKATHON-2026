@@ -1,3 +1,102 @@
+# import pandas as pd
+# import os
+
+# # ======================================================
+# # 1. LOAD RAW FILES
+# # ======================================================
+# file_paths = [
+#     "data/raw/demo_raw/demo_raw_0_500k.csv",
+#     "data/raw/demo_raw/demo_raw_500k_1m.csv",
+#     "data/raw/demo_raw/demo_raw_1m_1.5m.csv",
+#     "data/raw/demo_raw/demo_raw_1.5m_2m.csv",
+#     "data/raw/demo_raw/demo_raw_2m_end.csv"
+# ]
+
+# # Using a list comprehension to load and concat
+# df = pd.concat([pd.read_csv(fp) for fp in file_paths], ignore_index=True)
+
+# # ======================================================
+# # 2. BASIC CLEANING & STANDARDIZATION
+# # ======================================================
+# # Remove rows where state is just a number
+# df = df[~df['state'].astype(str).str.match(r'^\d+$', na=False)]
+
+# # Convert to datetime and numbers
+# df['date'] = pd.to_datetime(df['date'], errors='coerce')
+# df['pincode'] = pd.to_numeric(df['pincode'], errors='coerce')
+
+# for col in ['demo_age_5_17', 'demo_age_17_']:
+#     df[col] = pd.to_numeric(df[col], errors='coerce')
+
+# # Strip whitespace and lowercase for matching
+# df['state'] = df['state'].astype(str).str.strip().str.lower()
+# df['district'] = df['district'].astype(str).str.strip().str.lower()
+
+# # Drop rows that missing critical identifiers
+# df = df.dropna(subset=['state', 'district'])
+
+# # ======================================================
+# # 3. FIXING CANONICAL NAMES (MAPPING)
+# # ======================================================
+# state_map = {
+#     'andaman & nicobar islands': 'andaman and nicobar islands',
+#     'dadra & nagar haveli': 'dadra and nagar haveli and daman and diu',
+#     'dadra and nagar haveli': 'dadra and nagar haveli and daman and diu',
+#     'daman & diu': 'dadra and nagar haveli and daman and diu',
+#     'daman and diu': 'dadra and nagar haveli and daman and diu',
+#     'jammu & kashmir': 'jammu and kashmir'
+# }
+
+# district_map = {
+#     # Andhra Pradesh
+#     'ananthapur': 'anantapur',
+#     'ananthapuramu': 'anantapur',
+#     'karim nagar': 'karimnagar',
+#     'k.v. rangareddy': 'k.v.rangareddy',
+#     'visakhapatanam': 'visakhapatnam',
+    
+#     # West Bengal
+#     'barddhaman': 'bardhaman',
+#     'coochbehar': 'cooch behar',
+#     'maldah': 'malda',
+    
+#     # Others
+#     'nicobars': 'nicobar',
+#     'purnea': 'purnia',
+#     'jhajjar *': 'jhajjar'
+# }
+
+# # Apply mappings BEFORE grouping to ensure duplicates merge
+# df['state'] = df['state'].replace(state_map)
+# df['district'] = df['district'].replace(district_map)
+
+# # ======================================================
+# # 4. FINAL AGGREGATION (THE MERGE STEP)
+# # ======================================================
+# # We do NOT include 'date' or 'pincode' in the groupby.
+# # This forces every row with the same (state, district) to become ONE row.
+# df_district = (
+#     df.groupby(['state', 'district'], as_index=False)
+#       .agg({
+#           'demo_age_5_17': 'sum',
+#           'demo_age_17_': 'sum',
+#           'date': 'max'  # Keeps the most recent update date
+#       })
+# )
+
+# # ======================================================
+# # 5. DERIVED METRICS & SORTING
+# # ======================================================
+# df_district['total_demographic_updates'] = (
+#     df_district['demo_age_5_17'] + 
+#     df_district['demo_age_17_']  
+# )
+
+# df_district = df_district.sort_values(by=['state', 'district']).reset_index(drop=True)
+
+# print(f"Final cleaned dataset has {df_district.shape[0]} rows and {df_district.shape[1]} columns.")
+# df_district.to_csv("data/cleaned-dataset/aadhar_demographic_cleaned.csv", index=False)
+
 import pandas as pd
 import re
 from rapidfuzz import process, fuzz
@@ -5,7 +104,7 @@ from rapidfuzz import process, fuzz
 # ======================================================
 # STEP 1: LOAD IMPURE BIOMETRIC DATA
 # ======================================================
-file_path = "data/cleaned-dataset/bio_clean.csv"
+file_path = "data/cleaned-dataset/demo_clean.csv"
 df = pd.read_csv(file_path, low_memory=False)
 
 print("Raw shape:", df.shape)
@@ -149,7 +248,7 @@ district_df.info()
 # ======================================================
 # STEP 12: SAVE FINAL CLEAN FILE
 # ======================================================
-output_path = "data/final_cleaned/bio_final.csv"
+output_path = "data/final_cleaned/demo_final.csv"
 district_df.to_csv(output_path, index=False)
 
 print(f"✅ FINAL LGD-RESOLVED DISTRICT FILE SAVED → {output_path}")
