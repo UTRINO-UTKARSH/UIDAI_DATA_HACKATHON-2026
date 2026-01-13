@@ -3,7 +3,7 @@ import pandas as pd
 # ===============================
 # 1. Load raw district-level data
 # ===============================
-file_path = "input_raw_data.csv"   # <-- change to your actual file name
+file_path = "data/time_seperation/demographic/demo_time_padded.csv"
 df = pd.read_csv(file_path)
 
 # ==========================================
