@@ -13,7 +13,7 @@ mpl.rcParams['savefig.bbox'] = 'tight'
 # STEP 1: Load resolved data
 # ======================================================
 df = pd.read_csv(
-    "data/final_cleaned/aadhar_biometric_district_level_clean.csv"
+    "data/final_cleaned/aadhar_enrollment_fully_resolved.csv"
 )
 
 print("Dataset shape:", df.shape)
@@ -47,7 +47,7 @@ for i, v in enumerate(india_totals.values):
     ax.text(i, v, f"{int(v):,}", ha="center", va="bottom")
 
 plt.tight_layout()
-plt.savefig("output/01_india_age_distribution.png")
+plt.savefig("output/biometric_1.png")
 plt.close()
 
 print("✓ Chart 1 saved")
@@ -88,7 +88,7 @@ ax.set_xlabel("Total Enrollments")
 ax.invert_yaxis()
 
 plt.tight_layout()
-plt.savefig("output/02_top_states.png")
+plt.savefig("output/biometric_2.png")
 plt.close()
 
 print("✓ Chart 2 saved")
@@ -120,7 +120,7 @@ ax.set_xlabel("Total Enrollments")
 ax.invert_yaxis()
 
 plt.tight_layout()
-plt.savefig("output/03_top_districts.png")
+plt.savefig("output/biometric_3.png")
 plt.close()
 
 print("✓ Chart 3 saved")
