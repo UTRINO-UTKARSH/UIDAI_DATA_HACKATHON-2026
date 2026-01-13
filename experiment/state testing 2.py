@@ -4,7 +4,7 @@ import pandas as pd
 # STEP 0: Read the RAW FILE (district-level data)
 # Imagine this is the exact file you submitted to us
 # ======================================================
-input_file = "raw_district_data.csv"   # <-- rename to your actual file
+input_file = "data/time_seperation/demographic/demo_time_padded.csv" # <-- rename to your actual file
 df = pd.read_csv(input_file)
 
 # ======================================================
