@@ -3,7 +3,7 @@ import pandas as pd
 # ======================================================
 # STEP 0: Load RAW district-level file (second dataset)
 # ======================================================
-input_file = "raw_district_data_file_2.csv"   # <-- rename to your real file name
+input_file = "data/time_seperation/biometric/bio_time_padded.csv"
 df = pd.read_csv(input_file)
 
 # ======================================================
@@ -91,7 +91,7 @@ print(final_totals)
 # ======================================================
 # STEP 7: Save FINAL cleaned file
 # ======================================================
-output_file = "month_state_FINAL_cleaned_file_2.csv"
+output_file = "bio_ms.csv"
 state_month_df.to_csv(output_file, index=False)
 
 print(f"\nFinal file created successfully: {output_file}")
