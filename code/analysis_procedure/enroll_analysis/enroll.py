@@ -3,42 +3,19 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import ast
+import os
 
-file_path = './enroll_ms.csv'
+# Get the project root directory
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.join(script_dir, '..', '..', '..')
+output_dir = os.path.join(project_root, 'output', 'enroll')
+os.makedirs(output_dir, exist_ok=True)
+
+file_path = os.path.join(project_root, 'enroll_ms.csv')
 raw_df = pd.read_csv(file_path, encoding='ascii')
 print(raw_df.head(10))
 
-# The file appears to be a 3-column export with a 'data' column containing a Python-list-like string.
-# Parse that into columns: month, state_norm, age_0_5, age_5_17, age_18_greater
-parsed_rows = []
-for row_val in raw_df['data'].astype(str).tolist():
-    try:
-        row_list = ast.literal_eval(row_val)
-    except Exception:
-        row_list = None
-    if isinstance(row_list, list) and len(row_list) >= 5:
-        parsed_rows.append(row_list[:5])
-
-clean_df = pd.DataFrame(parsed_rows, columns=['month', 'state_norm', 'age_0_5', 'age_5_17', 'age_18_greater'])
-
-# Coerce numeric
-for col_name in ['age_0_5', 'age_5_17', 'age_18_greater']:
-    clean_df[col_name] = pd.to_numeric(clean_df[col_name], errors='coerce').fillna(0).astype(int)
-
-# Basic derived metrics
-clean_df['total'] = clean_df['age_0_5'] + clean_df['age_5_17'] + clean_df['age_18_greater']
-clean_df['share_0_5'] = np.where(clean_df['total'] > 0, clean_df['age_0_5'] / clean_df['total'], 0.0)
-clean_df['share_5_17'] = np.where(clean_df['total'] > 0, clean_df['age_5_17'] / clean_df['total'], 0.0)
-clean_df['share_18_plus'] = np.where(clean_df['total'] > 0, clean_df['age_18_greater'] / clean_df['total'], 0.0)
-
-print(clean_df.head(10))
-print(clean_df['month'].value_counts().head(10))
-print(clean_df.shape)
-
-# Keep for later cells
-
-
+# File already has properly parsed columns
 clean_df = raw_df.copy()
 for col_name in ['age_0_5', 'age_5_17', 'age_18_greater']:
     clean_df[col_name] = pd.to_numeric(clean_df[col_name], errors='coerce').fillna(0)
@@ -67,7 +44,7 @@ plt.title('Enrollments by Age Group Over Time (All States)')
 plt.xlabel('Month')
 plt.ylabel('Enrollments')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/01_enrollments_by_age_group_timeline.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '01_enrollments_by_age_group_timeline.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 2) Top 15 states by total (latest month)
@@ -80,7 +57,7 @@ plt.title('Top 15 States by Total Enrollment (' + str(latest_month.date()) + ')'
 plt.xlabel('Total')
 plt.ylabel('State')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/02_top_15_states_total_enrollment.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '02_top_15_states_total_enrollment.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 3) Age mix for top 10 states (latest month) - stacked bars
@@ -96,7 +73,7 @@ plt.xlabel('Enrollments')
 plt.ylabel('State')
 plt.legend(loc='lower right')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/03_top_10_states_age_composition.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '03_top_10_states_age_composition.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 4) Distribution of totals across states (latest month)
@@ -106,7 +83,7 @@ plt.title('Distribution of State Total Enrollment (' + str(latest_month.date()) 
 plt.xlabel('Total Enrollment')
 plt.ylabel('Count of States/UTs')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/04_enrollment_distribution_by_state.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '04_enrollment_distribution_by_state.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 5) Scatter: total vs share of 5-17 (latest)
@@ -116,7 +93,7 @@ plt.title('Total vs Share of Age 5-17 (' + str(latest_month.date()) + ')')
 plt.xlabel('Total Enrollment')
 plt.ylabel('Share age 5-17')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/05_total_vs_age_5_17_share.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '05_total_vs_age_5_17_share.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 6) Top 10 states growth from earliest to latest (total)
@@ -132,7 +109,7 @@ plt.title('Top 10 States by Absolute Change (Earliest to Latest)')
 plt.xlabel('Absolute Change in Total')
 plt.ylabel('State')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/06_top_10_states_growth_earliest_to_latest.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '06_top_10_states_growth_earliest_to_latest.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 7) Heatmap: totals by state (top 15) and month
@@ -145,7 +122,7 @@ plt.title('Heatmap of Total Enrollment - Top 15 States Across Months')
 plt.xlabel('Month')
 plt.ylabel('State')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/07_states_enrollment_heatmap_by_month.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '07_states_enrollment_heatmap_by_month.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 8) National share by age group over time (line)
@@ -160,7 +137,7 @@ plt.ylabel('Share of Total')
 plt.ylim(0, 1)
 plt.legend(loc='best')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/08_national_age_group_shares_timeline.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '08_national_age_group_shares_timeline.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 9) Concentration curve: cumulative share of national total by top states (latest)
@@ -174,7 +151,7 @@ plt.title('Concentration of Enrollment by States (Latest Month)')
 plt.xlabel('Number of top states included')
 plt.ylabel('Cumulative share of national total')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/09_enrollment_concentration_curve.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '09_enrollment_concentration_curve.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # 10) Correlation heatmap between age groups and total (all rows)
@@ -183,7 +160,7 @@ plt.figure(figsize=(6,5))
 sns.heatmap(corr_mat, annot=True, cmap='RdBu_r', vmin=-1, vmax=1)
 plt.title('Correlation Between Age Buckets and Total')
 plt.tight_layout()
-plt.savefig('../../../output/enroll/10_age_groups_correlation_matrix.png', dpi=300, bbox_inches='tight')
+plt.savefig(os.path.join(output_dir, '10_age_groups_correlation_matrix.png'), dpi=300, bbox_inches='tight')
 plt.close()
 
 # Tables to reference in narrative
