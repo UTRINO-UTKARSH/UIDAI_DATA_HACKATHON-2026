@@ -3,7 +3,7 @@ import pandas as pd
 # ======================================================
 # STEP 0: Load RAW district-level file (third dataset)
 # ======================================================
-input_file = "raw_district_data_file_3.csv"   # <-- rename to your real file name
+input_file = "data/time_seperation/enroll/enroll_time_padded.csv"   # <-- rename to your real file name
 df = pd.read_csv(input_file)
 
 # ======================================================
@@ -82,7 +82,7 @@ print(state_month_df[numeric_cols].sum())
 # ======================================================
 # STEP 7: Save FINAL cleaned file
 # ======================================================
-output_file = "month_state_FINAL_cleaned_file_3.csv"
+output_file = "enroll_ms.csv"
 state_month_df.to_csv(output_file, index=False)
 
 print(f"\nFinal file created: {output_file}")
