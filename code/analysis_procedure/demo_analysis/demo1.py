@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-csv_path = './month_state_final_cleaned.csv'
+csv_path = './demo_month_state.csv'
 df_month_state = pd.read_csv(csv_path, encoding='ascii')
 
 print(df_month_state.head(10))
