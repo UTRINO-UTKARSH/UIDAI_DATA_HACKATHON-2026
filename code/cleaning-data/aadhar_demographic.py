@@ -5,11 +5,11 @@
 # # 1. LOAD RAW FILES
 # # ======================================================
 # file_paths = [
-#     "data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_0_500000.csv",
-#     "data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_500000_1000000.csv",
-#     "data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1000000_1500000.csv",
-#     "data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1500000_2000000.csv",
-#     "data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_2000000_2071700.csv"
+#     "data/raw/demo_raw/demo_raw_0_500k.csv",
+#     "data/raw/demo_raw/demo_raw_500k_1m.csv",
+#     "data/raw/demo_raw/demo_raw_1m_1.5m.csv",
+#     "data/raw/demo_raw/demo_raw_1.5m_2m.csv",
+#     "data/raw/demo_raw/demo_raw_2m_end.csv"
 # ]
 
 # # Using a list comprehension to load and concat
@@ -104,7 +104,7 @@ from rapidfuzz import process, fuzz
 # ======================================================
 # STEP 1: LOAD IMPURE BIOMETRIC DATA
 # ======================================================
-file_path = "data/cleaned-dataset/aadhar_demographic_cleaned.csv"
+file_path = "data/cleaned-dataset/demo_clean.csv"
 df = pd.read_csv(file_path, low_memory=False)
 
 print("Raw shape:", df.shape)
@@ -248,7 +248,7 @@ district_df.info()
 # ======================================================
 # STEP 12: SAVE FINAL CLEAN FILE
 # ======================================================
-output_path = "aadhar_demographic_full.csv"
+output_path = "data/final_cleaned/demo_final.csv"
 district_df.to_csv(output_path, index=False)
 
 print(f"✅ FINAL LGD-RESOLVED DISTRICT FILE SAVED → {output_path}")

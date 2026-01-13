@@ -8,10 +8,10 @@ from rapidfuzz import process, fuzz
 #change file paths as needed
 
 raw_files = [
-    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_0_500000.csv',
-    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_500000_1000000.csv',
-    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1000000_1500000.csv',
-    'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1500000_1861108.csv'
+    'data/raw/bio_raw/bio_raw_0_500k.csv',
+    'data/raw/bio_raw/bio_raw_500k_1m.csv',
+    'data/raw/bio_raw/bio_raw_1m_1.5m.csv',
+    'data/raw/bio_raw/bio_raw_1.5m_end.csv'
 ]
 
 df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
@@ -95,7 +95,7 @@ df_final = df_final.drop(columns=['district_resolved']).rename(columns={'distric
 # Sort chronologically and save
 df_final['month_dt'] = pd.to_datetime(df_final['month'], format='%B %Y')
 df_final = df_final.sort_values(['month_dt', 'state_norm', 'district'])
-df_final.drop(columns=['month_dt']).to_csv("final_padded_bio_time_series.csv", index=False)
+df_final.drop(columns=['month_dt']).to_csv("data/time_seperation/biometric/bio_time_padded.csv", index=False)
 
 # without changes the previous version where the inactivity is not shown of this file was as below:
 
@@ -108,10 +108,10 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_bio_time_series.csv", i
 # # STEP 1: Load Raw Enrollment Data & District Master
 # # ======================================================
 # raw_files = [
-#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_0_500000.csv',
-#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_500000_1000000.csv',
-#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1000000_1500000.csv',
-#     'data/raw/Aadhaar Biometric Update dataset/api_data_aadhar_biometric_1500000_1861108.csv'
+#     'data/raw/bio_raw/bio_raw_0_500k.csv',
+#     'data/raw/bio_raw/bio_raw_500k_1m.csv',
+#     'data/raw/bio_raw/bio_raw_1m_1.5m.csv',
+#     'data/raw/bio_raw/bio_raw_1.5m_end.csv'
 # ]
 # df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 # district_master = pd.read_csv("keys/district_master.csv") # Your canonical reference
@@ -183,4 +183,4 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_bio_time_series.csv", i
 # df_final_time_series = df_final_time_series.sort_values(['month_dt', 'state_norm', 'district_resolved'])
 
 # # Save result
-# df_final_time_series.drop(columns=['month_dt']).to_csv("final_time_bio_series_resolved.csv", index=False)
+# df_final_time_series.drop(columns=['month_dt']).to_csv("data/time_seperation/biometric/bio_time_final.csv", index=False)

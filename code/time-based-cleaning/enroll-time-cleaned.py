@@ -6,9 +6,9 @@ from rapidfuzz import process, fuzz
 # STEP 1: Load Raw Enrollment Data & District Master
 # ======================================================
 raw_files = [
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_0_500000.csv', 
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_500000_1000000.csv', 
-    'data/raw/aadhar-enrollment-complete-dataset/api_data_aadhar_enrolment_1000000_1006029.csv'
+    'data/raw/enroll_raw/enroll_raw_0_500k.csv', 
+    'data/raw/enroll_raw/enroll_raw_500k_1m.csv', 
+    'data/raw/enroll_raw/enroll_raw_1m_end.csv'
 ]
 df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 
@@ -91,7 +91,7 @@ df_final = df_final.drop(columns=['district_resolved']).rename(columns={'distric
 # Sort chronologically and save
 df_final['month_dt'] = pd.to_datetime(df_final['month'], format='%B %Y')
 df_final = df_final.sort_values(['month_dt', 'state_norm', 'district'])
-df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index=False)
+df_final.drop(columns=['month_dt']).to_csv("data/time_seperation/enroll/enroll_time_padded.csv", index=False)
 
 #without changes, the previous version where the inactivitiy is not shown of this file was as below:
 
@@ -178,4 +178,4 @@ df_final.drop(columns=['month_dt']).to_csv("final_padded_time_series.csv", index
 # df_final_time_series = df_final_time_series.sort_values(['month_dt', 'state_norm', 'district_resolved'])
 
 # # Save result
-# df_final_time_series.drop(columns=['month_dt']).to_csv("final_time_series_resolved.csv", index=False)
+# df_final_time_series.drop(columns=['month_dt']).to_csv("data/time_seperation/enroll/enroll_time_final.csv", index=False)

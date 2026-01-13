@@ -5,7 +5,7 @@ from rapidfuzz import process, fuzz
 # ======================================================
 # STEP 1: LOAD IMPURE BIOMETRIC DATA
 # ======================================================
-file_path = "data/final_cleaned/aadhar_biometric_district_level_clean.csv"
+file_path = "data/cleaned-dataset/bio_clean.csv"
 df = pd.read_csv(file_path, low_memory=False)
 
 print("Raw shape:", df.shape)
@@ -149,7 +149,7 @@ district_df.info()
 # ======================================================
 # STEP 12: SAVE FINAL CLEAN FILE
 # ======================================================
-output_path = "aadhar_biometric_district_level_FINAL_LGD_RESOLVED.csv"
+output_path = "data/final_cleaned/bio_final.csv"
 district_df.to_csv(output_path, index=False)
 
 print(f"✅ FINAL LGD-RESOLVED DISTRICT FILE SAVED → {output_path}")

@@ -7,11 +7,11 @@
 # # ======================================================
 # #change file paths as needed
 # raw_files = [
-#     'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_0_500000.csv',
-#     'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_500000_1000000.csv',
-#     'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1000000_1500000.csv',
-#     'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1500000_2000000.csv',
-#     'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_2000000_2071700.csv'
+#     'data/raw/demo_raw/demo_raw_0_500k.csv',
+#     'data/raw/demo_raw/demo_raw_500k_1m.csv',
+#     'data/raw/demo_raw/demo_raw_1m_1.5m.csv',
+#     'data/raw/demo_raw/demo_raw_1.5m_2m.csv',
+#     'data/raw/demo_raw/demo_raw_2m_end.csv'
 # ]
 # df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 
@@ -94,7 +94,7 @@
 # # Sort chronologically and save
 # df_final['month_dt'] = pd.to_datetime(df_final['month'], format='%B %Y')
 # df_final = df_final.sort_values(['month_dt', 'state_norm', 'district'])
-# df_final.drop(columns=['month_dt']).to_csv("final_padded_demo_time_series.csv", index=False)
+# df_final.drop(columns=['month_dt']).to_csv("data/time_seperation/demographic/demo_time_padded.csv", index=False)
 
 # without changes the previous version where the inactivity is not shown of this file was as below:
 
@@ -107,11 +107,11 @@ from rapidfuzz import process, fuzz
 # STEP 1: Load Raw Enrollment Data & District Master
 # ======================================================
 raw_files = [
-    'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_0_500000.csv',
-    'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_500000_1000000.csv',
-    'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1000000_1500000.csv',
-    'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_1500000_2000000.csv',
-    'data/raw/Aadhaar Demographic Update dataset/api_data_aadhar_demographic_2000000_2071700.csv'
+    'data/raw/demo_raw/demo_raw_0_500k.csv',
+    'data/raw/demo_raw/demo_raw_500k_1m.csv',
+    'data/raw/demo_raw/demo_raw_1m_1.5m.csv',
+    'data/raw/demo_raw/demo_raw_1.5m_2m.csv',
+    'data/raw/demo_raw/demo_raw_2m_end.csv'
 ]
 df_raw = pd.concat([pd.read_csv(f) for f in raw_files], ignore_index=True)
 district_master = pd.read_csv("keys/district_master.csv") # Your canonical reference
@@ -183,4 +183,4 @@ df_final_time_series['month_dt'] = pd.to_datetime(df_final_time_series['month'],
 df_final_time_series = df_final_time_series.sort_values(['month_dt', 'state_norm', 'district_resolved'])
 
 # Save result
-df_final_time_series.drop(columns=['month_dt']).to_csv("final_time_demo_series_resolved.csv", index=False)
+df_final_time_series.drop(columns=['month_dt']).to_csv("data/time_seperation/demographic/demo_time_final.csv", index=False)
