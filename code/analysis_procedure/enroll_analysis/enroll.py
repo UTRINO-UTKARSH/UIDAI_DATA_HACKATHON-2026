@@ -11,7 +11,7 @@ project_root = os.path.join(script_dir, '..', '..', '..')
 output_dir = os.path.join(project_root, 'output', 'enroll')
 os.makedirs(output_dir, exist_ok=True)
 
-file_path = os.path.join(project_root, 'enroll_ms.csv')
+file_path = os.path.join(project_root, 'state_based/enroll_ms.csv')
 raw_df = pd.read_csv(file_path, encoding='ascii')
 print(raw_df.head(10))
 

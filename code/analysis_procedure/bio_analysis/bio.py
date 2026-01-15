@@ -7,7 +7,7 @@ import seaborn as sns
 # Load the uploaded CSV and do a quick sanity check
 
 
-bio_ms_df = pd.read_csv('bio_ms.csv')
+bio_ms_df = pd.read_csv('state_based/bio_ms.csv')
 print(bio_ms_df.head())
 print(bio_ms_df.describe(include='all'))
 
