@@ -58,7 +58,7 @@ top10_states = state_tot.head(10)
 
 # 1) Top states bar chart
 plt.figure(figsize=(10,5))
-top10_states['total'].sort_values().plot(kind='barh', color='#2E86AB')
+top10_states['total'].sort_values().plot(kind='barh', color="#22D44F")
 plt.title('Top 10 states by total biometric counts (both age groups)')
 plt.xlabel('Total')
 plt.ylabel('State')
@@ -151,27 +151,6 @@ plt.ylabel('Number of districts')
 plt.tight_layout()
 plt.savefig(f'{output_dir}/08_district_histogram.png', dpi=300, bbox_inches='tight')
 plt.show()
-
-# 9) Scatter: age 5-17 vs 17+ at district-month level
-plt.figure(figsize=(7,6))
-sub_sc = viz_df.sample(min(len(viz_df), 2000), random_state=42)
-plt.scatter(sub_sc['bio_age_5_17'], sub_sc['bio_age_17_'], alpha=0.25, s=12)
-plt.title('District-month relationship: Age 5-17 vs Age 17+')
-plt.xlabel('Age 5-17')
-plt.ylabel('Age 17+')
-plt.tight_layout()
-plt.savefig(f'{output_dir}/09_age_scatter.png', dpi=300, bbox_inches='tight')
-plt.show()
-
-# 10) Correlation heatmap for numeric columns
-plt.figure(figsize=(4,3))
-cor_mat = viz_df[['bio_age_5_17','bio_age_17_']].corr()
-sns.heatmap(cor_mat, annot=True, cmap='RdBu_r', vmin=-1, vmax=1)
-plt.title('Correlation between age groups')
-plt.tight_layout()
-plt.savefig(f'{output_dir}/10_correlation_heatmap.png', dpi=300, bbox_inches='tight')
-plt.show()
-
 # Summary artifacts for later narrative
 summary_info = {
     'rows': len(viz_df),

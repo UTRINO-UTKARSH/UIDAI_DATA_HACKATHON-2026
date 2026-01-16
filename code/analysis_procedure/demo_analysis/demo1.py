@@ -32,14 +32,14 @@ if len(metric_cols) > 0:
     monthly_totals = df_month_state.groupby('month_dt', dropna=False)[metric_0].sum().sort_index()
     plt.figure(figsize=(10,4))
     sns.lineplot(x=monthly_totals.index, y=monthly_totals.values)
-    plt.title('Monthly total of ' + metric_0 + ' across all states')
+    plt.title('Monthly total of Age 5-17 across all states')
     plt.xlabel('Month')
     plt.ylabel(metric_0)
     plt.tight_layout()
     plt.savefig('output/demographic/state_time/01_monthly_total_' + metric_0 + '.png', dpi=300, bbox_inches='tight')
     plt.show()
 
-sns.set_theme(style='whitegrid')
+sns.set_theme(style='darkgrid')
 
 metric_cols = [c for c in df_month_state.columns if c not in ['month', 'state_norm', 'month_dt']]
 
