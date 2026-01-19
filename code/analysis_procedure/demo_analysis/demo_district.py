@@ -185,6 +185,110 @@ plt.savefig(f'{output_dir}/08_month_agegroup_heatmap.png', dpi=300, bbox_inches=
 plt.show()
 plt.close()
 
+# Analysis 2.0
+
+# Create comprehensive district-wise analysis tables and visuals (no reload; use work_df already in memory)
+
+
+# Parse month into a sortable date (assumes format like 'March 2025')
+analysis_df["month_dt"] = pd.to_datetime(analysis_df["month"], format="%B %Y", errors="coerce")
+analysis_df = analysis_df.sort_values(["month_dt", "state_norm", "district_resolved"]).reset_index(drop=True)
+
+# Recompute totals
+total_vals = analysis_df["demo_age_5_17"].fillna(0) + analysis_df["demo_age_17_"].fillna(0)
+analysis_df["total_demo"] = total_vals
+analysis_df["share_5_17"] = analysis_df["demo_age_5_17"] / analysis_df["total_demo"].replace(0, np.nan)
+
+# District-level summary
+all_district_summary_df = (
+    analysis_df.groupby(["state_norm", "district_resolved"], as_index=False)
+    .agg(
+        months_count=("month", "nunique"),
+        total_demo=("total_demo", "sum"),
+        total_5_17=("demo_age_5_17", "sum"),
+        total_17_plus=("demo_age_17_", "sum"),
+        avg_monthly_total=("total_demo", "mean"),
+        median_monthly_total=("total_demo", "median"),
+        min_monthly_total=("total_demo", "min"),
+        max_monthly_total=("total_demo", "max"),
+        std_monthly_total=("total_demo", "std")
+    )
+)
+
+all_district_summary_df["share_5_17_pct"] = (all_district_summary_df["total_5_17"] / all_district_summary_df["total_demo"].replace(0, np.nan) * 100).round(2)
+all_district_summary_df["share_17_plus_pct"] = (all_district_summary_df["total_17_plus"] / all_district_summary_df["total_demo"].replace(0, np.nan) * 100).round(2)
+all_district_summary_df["cv_monthly_total"] = (all_district_summary_df["std_monthly_total"] / all_district_summary_df["avg_monthly_total"].replace(0, np.nan)).round(3)
+
+# Show a quick peek at the full summary
+print(all_district_summary_df.sort_values("total_demo", ascending=False).head(10))
+
+
+
+# Visual 2: Stacked age-group composition for top 15 districts
+viz_top15_df = all_district_summary_df.sort_values("total_demo", ascending=False).head(15).copy()
+viz_top15_df["district_label"] = viz_top15_df["district_resolved"] + " (" + viz_top15_df["state_norm"] + ")"
+comp_long_df = viz_top15_df[["district_label", "total_5_17", "total_17_plus"]].melt(
+    id_vars=["district_label"], var_name="age_group", value_name="count"
+)
+
+plt.figure(figsize=(11, 7))
+sns.barplot(data=comp_long_df, y="district_label", x="count", hue="age_group")
+plt.title("Age-group composition (top 15 districts)")
+plt.xlabel("Total count")
+plt.ylabel("")
+plt.tight_layout()
+plt.savefig(f'{output_dir}/07_age_composition_top15_districts.png', dpi=300, bbox_inches='tight')
+plt.show()
+
+
+# Visual 4: Trend lines for top 6 districts
+trend_keys = all_district_summary_df.sort_values("total_demo", ascending=False).head(6)[["state_norm","district_resolved"]]
+trend_df = analysis_df.merge(trend_keys, on=["state_norm","district_resolved"], how="inner")
+trend_df = trend_df.groupby(["month_dt","state_norm","district_resolved"], as_index=False)["total_demo"].sum()
+trend_df["district_label"] = trend_df["district_resolved"] + " (" + trend_df["state_norm"] + ")"
+trend_df = trend_df.sort_values("month_dt")
+
+plt.figure(figsize=(11, 5))
+sns.lineplot(data=trend_df, x="month_dt", y="total_demo", hue="district_label", marker="o")
+plt.title("Monthly trend for top 6 districts")
+plt.xlabel("Month")
+plt.ylabel("Total demo")
+plt.tight_layout()
+plt.savefig(f'{output_dir}/09_trend_top6_districts.png', dpi=300, bbox_inches='tight')
+plt.show()
+
+# analysis 3.0
+
+
+viz_top20b_df = all_district_summary_df.sort_values("total_demo", ascending=False).head(20).copy()
+viz_top20b_df["district_label"] = viz_top20b_df["district_resolved"]
+
+state_order_vals = viz_top20b_df["state_norm"].value_counts().index.tolist()
+state_palette_vals = sns.color_palette("tab10", n_colors=max(3, len(state_order_vals)))
+state_color_map = dict(zip(state_order_vals, state_palette_vals))
+
+viz_top20b_df["state_color"] = viz_top20b_df["state_norm"].map(state_color_map)
+
+# Plot
+plt.figure(figsize=(12, 7))
+plt.barh(viz_top20b_df["district_label"], viz_top20b_df["total_demo"], color=viz_top20b_df["state_color"])
+plt.gca().invert_yaxis()
+plt.title("Top 20 districts by total demo (colored by state)")
+plt.xlabel("Total demo")
+plt.ylabel("")
+
+# Legend on the side
+handles_vals = []
+labels_vals = []
+for state_name in state_order_vals:
+    handles_vals.append(plt.Line2D([0], [0], marker='s', color=state_color_map[state_name], linestyle='', markersize=10))
+    labels_vals.append(state_name)
+
+plt.legend(handles_vals, labels_vals, title="State", bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=0)
+plt.tight_layout()
+plt.savefig(f'{output_dir}/10_top20_districts_by_state.png', dpi=300, bbox_inches='tight')
+plt.show()
+
 # Print key ranked tables (head only as requested)
 print(month_rank_df[["month","total_sum","month_share_5_17","states","districts"]].head(9))
 print(state_top_total_df[["state_norm","total_sum","share_5_17","districts","months"]].head(10))

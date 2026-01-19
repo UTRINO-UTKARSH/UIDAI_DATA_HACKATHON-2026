@@ -39,11 +39,15 @@ if len(metric_cols) > 0:
     plt.savefig('output/demographic/state_time/01_monthly_total_' + metric_0 + '.png', dpi=300, bbox_inches='tight')
     plt.show()
 
-sns.set_theme(style='darkgrid')
+sns.set_theme(style='whitegrid')
 
 metric_cols = [c for c in df_month_state.columns if c not in ['month', 'state_norm', 'month_dt']]
 
 df_month_state['total_all_metrics'] = df_month_state[metric_cols].sum(axis=1)
+
+# Helper aggregates
+state_totals = df_month_state.groupby('state_norm')[metric_cols + ['total_all_metrics']].sum().sort_values('total_all_metrics', ascending=False)
+month_totals = df_month_state.groupby('month_dt')[metric_cols + ['total_all_metrics']].sum().sort_index()
 
 # 1) Data coverage: months and states
 months_sorted = df_month_state['month_dt'].dropna().sort_values().unique()
@@ -52,10 +56,6 @@ print(len(months_sorted))
 print(months_sorted[:5])
 print(len(states_sorted))
 print(states_sorted[:10])
-
-# Helper aggregates
-state_totals = df_month_state.groupby('state_norm')[metric_cols + ['total_all_metrics']].sum().sort_values('total_all_metrics', ascending=False)
-month_totals = df_month_state.groupby('month_dt')[metric_cols + ['total_all_metrics']].sum().sort_index()
 
 print(state_totals.head(10))
 print(month_totals.head(5))
@@ -145,21 +145,32 @@ if len(metric_cols) >= 2:
     plt.show()
 
 # 9) State rank stability by month (top 10 states each month)
+# Get the top 10 states overall
+top_10_states = state_totals.head(10).index.tolist()
+
 rank_rows = []
 for m_val in sorted(df_month_state['month_dt'].dropna().unique().tolist()):
     temp = df_month_state[df_month_state['month_dt'] == m_val].groupby('state_norm')['total_all_metrics'].sum().sort_values(ascending=False)
-    top10 = temp.head(10)
-    for rank_idx, (st_val, tot_val) in enumerate(top10.items(), start=1):
+    # Filter to only top 10 states overall
+    temp = temp[temp.index.isin(top_10_states)]
+    for rank_idx, (st_val, tot_val) in enumerate(temp.items(), start=1):
         rank_rows.append({'month_dt': m_val, 'state_norm': st_val, 'rank': rank_idx, 'total': tot_val})
 
 df_ranks = pd.DataFrame(rank_rows)
-plt.figure(figsize=(10,5))
-sns.lineplot(data=df_ranks, x='month_dt', y='rank', hue='state_norm', marker='o', palette='tab10')
+
+# Create a vibrant custom color palette with light and dark mix
+vibrant_colors = ["#130101", "#05108D", "#F7FB09", "#055D0C", "#590353", 
+                  '#3498DB', "#05E01E", '#E74C3C', "#8B0D0D", "#F29500"]
+
+plt.figure(figsize=(14,6))
+sns.lineplot(data=df_ranks, x='month_dt', y='rank', hue='state_norm', marker='o', 
+             palette=vibrant_colors, linewidth=3, markersize=8)
 plt.gca().invert_yaxis()
-plt.title('Top 10 states rank over time (lower is better)')
-plt.xlabel('Month')
-plt.ylabel('Rank')
-plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left')
+plt.title('Top 10 states rank over time (lower is better)', fontsize=14, fontweight='bold')
+plt.xlabel('Month', fontsize=12)
+plt.ylabel('Rank', fontsize=12)
+plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', fontsize=10, title='State', title_fontsize=11)
+plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('output/demographic/state_time/09_state_rank_stability.png', dpi=300, bbox_inches='tight')
 plt.show()

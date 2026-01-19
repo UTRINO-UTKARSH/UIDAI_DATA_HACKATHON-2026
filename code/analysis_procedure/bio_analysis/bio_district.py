@@ -107,6 +107,7 @@ heat_states = state_tot.head(12).index
 heat_piv = heat_df[heat_df['state_norm'].isin(heat_states)].groupby(['state_norm','month_dt'])['total'].sum().reset_index()
 heat_piv = heat_piv.pivot(index='state_norm', columns='month_dt', values='total').fillna(0)
 heat_piv = heat_piv.loc[heat_states]
+heat_piv.columns = heat_piv.columns.strftime('%B')
 
 plt.figure(figsize=(12,6))
 sns.heatmap(heat_piv, cmap='YlGnBu', linewidths=0.2)
