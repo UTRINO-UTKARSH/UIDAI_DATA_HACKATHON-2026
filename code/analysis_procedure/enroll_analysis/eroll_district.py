@@ -101,14 +101,33 @@ plt.tight_layout()
 plt.savefig(f'{output_dir}/05_top10_states_share.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# 6) Bar: top 20 districts by total
+# 6) Bar: top 20 districts by total (with state colors and labels)
 district_top20 = by_district_sorted.head(20).copy()
-district_top20['label'] = district_top20['district_resolved'] + ', ' + district_top20['state_norm']
-plt.figure(figsize=(10,6))
-sns.barplot(x='total', y='label', data=district_top20, orient='h')
-plt.title('Top 20 districts by total enrollments')
-plt.xlabel('Total enrollments')
-plt.ylabel('District, State')
+district_top20 = district_top20.sort_values('total', ascending=True)
+
+# Create a color map for states
+unique_states = district_top20['state_norm'].unique()
+state_colors = {state: plt.cm.tab20(i % 20) for i, state in enumerate(unique_states)}
+bar_colors = [state_colors[state] for state in district_top20['state_norm']]
+
+# Create horizontal bar chart
+plt.figure(figsize=(12,7))
+ax = plt.barh(district_top20['district_resolved'], district_top20['total'], color=bar_colors)
+
+# Add state labels on the bars
+for i, (idx, row) in enumerate(district_top20.iterrows()):
+    plt.text(row['total']/2, i, row['state_norm'], 
+             va='center', ha='center', fontsize=9, fontweight='bold', color='white')
+
+plt.title('Top 20 districts by total enrollments (colored by state)', fontsize=12, fontweight='bold')
+plt.xlabel('Total enrollments', fontsize=11)
+plt.ylabel('District', fontsize=11)
+
+# Create custom legend
+from matplotlib.patches import Patch
+legend_elements = [Patch(facecolor=state_colors[state], label=state) for state in sorted(unique_states)]
+plt.legend(handles=legend_elements, loc='lower right', fontsize=9, title='State', title_fontsize=10)
+
 plt.tight_layout()
 plt.savefig(f'{output_dir}/06_top_20_districts.png', dpi=300, bbox_inches='tight')
 plt.close()
