@@ -40,9 +40,6 @@ Due to API size limits, the dataset is provided in **multiple CSV files**, which
 
 # Project Directory Structure
 
-graph TD
-    %% Root Directory
-    UIDAI[UIDAI/]
 
     %% First Level
     UIDAI --> code[code/]
